@@ -9,10 +9,25 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/searchView1" />
-    <Button
-        android:text="Afval"
+    <RelativeLayout
         android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:id="@+id/button1"
-        android:layout_marginLeft="35dp" />
+        android:layout_height="300dp"
+        android:id="@+id/relativeLayout1">
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#ffaadd"
+            android:layout_margin="20dp" />
+        <Button
+            android:text="Afval"
+            android:layout_width="100sp"
+            android:layout_height="100sp"
+            android:background="@drawable/RoundButton"
+            android:gravity="center"
+            android:id="@+id/BtnAfval"
+            android:textColor="#d81010"
+            android:visibility="visible"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
 </LinearLayout>
