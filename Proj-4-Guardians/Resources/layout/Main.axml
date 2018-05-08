@@ -17,7 +17,7 @@
             android:id="@+id/img"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            android:background="#ffaadd"
+            android:background="#10d832"
             android:layout_margin="20dp" />
         <Button
             android:text="Afval"
@@ -26,7 +26,7 @@
             android:background="@drawable/RoundButton"
             android:gravity="center"
             android:id="@+id/BtnAfval"
-            android:textColor="#d81010"
+            android:textColor="#f00"
             android:visibility="visible"
             android:layout_centerInParent="true" />
     </RelativeLayout>
