@@ -18,8 +18,11 @@ namespace Proj_4_Guardians
             // image button : https://www.youtube.com/watch?v=bZd-jUK_egE
 
             // Set our view from the "main" layout resource
-            SetContentView(Resource.Layout.Category);
+            SetContentView(Resource.Layout.Main);
             ActionBar.Hide();
+
+            Button BtnAfval = FindViewById<Button>(Resource.Id.BtnAfval);
+            BtnAfval.Click += BtnAfval_Click;
 
             //var imageButton1 = FindViewById<ImageButton>(Resource.Id.imageButton1);
             //var imageButton2 = FindViewById<ImageButton>(Resource.Id.imageButton2);
@@ -32,25 +35,13 @@ namespace Proj_4_Guardians
             //    Toast.MakeText(this, "ImageButton 2 Clicked", ToastLength.Long).Show();
             //};
             
-            ImageButton drank_ = FindViewById<ImageButton>(Resource.Id.ImbDrank);
-            drank_.Click += delegate {
-                SetContentView(Resource.Layout.Category2);
-                ActionBar.Hide();
-            };
-            mImageButton = FindViewById<ImageButton>(Resource.Id.ImbPapier);
-            mImageButton.Click += MImageButton_Click;
+           
         }
 
-        private void MImageButton_Click(object sender, System.EventArgs e)
+        private void BtnAfval_Click(object sender, System.EventArgs e)
         {
-            Intent intent = new Intent(this, typeof(Activity2));
+            Intent intent = new Intent(this, typeof(Category));
             this.StartActivity(intent);
-        }
-
-        private void Tester_Click(object sender, System.EventArgs e)
-        {
-            SetContentView(Resource.Layout.Category);
-            ActionBar.Hide();
         }
     }
 }

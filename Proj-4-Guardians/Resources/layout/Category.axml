@@ -74,7 +74,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:scaleType="centerInside"
-                    android:src="@drawable/drink_bottle"
+                    android:src="@drawable/Electric"
                     android:contextClickable="true" />
                 <TextView
                     android:id="@+id/TxvElektro"

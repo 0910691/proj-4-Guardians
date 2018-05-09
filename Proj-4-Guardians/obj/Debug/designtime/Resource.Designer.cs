@@ -34,6 +34,9 @@ namespace Proj_4_Guardians
 			public static int drink_bottle = 0;
 			
 			// aapt resource value: 0
+			public static int Electric = 0;
+			
+			// aapt resource value: 0
 			public static int Glas = 0;
 			
 			// aapt resource value: 0
