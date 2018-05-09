@@ -1,6 +1,3 @@
-Proj_4_Guardians.Activity2, Proj-4-Guardians;md54b24830816bce52ca58283b5236fcbb4.Activity2
-Proj_4_Guardians.Activity2;md54b24830816bce52ca58283b5236fcbb4.Activity2
-proj_4_guardians.Activity2;md54b24830816bce52ca58283b5236fcbb4.Activity2
 Proj_4_Guardians.Category, Proj-4-Guardians;md54b24830816bce52ca58283b5236fcbb4.Category
 Proj_4_Guardians.Category;md54b24830816bce52ca58283b5236fcbb4.Category
 proj_4_guardians.Category;md54b24830816bce52ca58283b5236fcbb4.Category

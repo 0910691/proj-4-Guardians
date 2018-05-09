@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,9 +7,9 @@ using System.Text;
 using Android.App;
 using Android.Content;
 using Android.OS;
+using Android.Widget;
 using Android.Runtime;
 using Android.Views;
-using Android.Widget;
 
 namespace Proj_4_Guardians
 {
@@ -38,7 +39,7 @@ namespace Proj_4_Guardians
             mBtnElektro.Click += MBtnElektro_Click;
 
             mBtnAnders = FindViewById<ImageButton>(Resource.Id.ImbAnders);
-            mBtnAnders.Click += MBtnAnders_Click;
+            mBtnAnders.Click += MBtnAnders_Click;            
         }
 
         private void MBtnAnders_Click(object sender, EventArgs e)

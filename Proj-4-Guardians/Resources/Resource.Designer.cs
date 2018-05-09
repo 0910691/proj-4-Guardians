@@ -63,7 +63,10 @@ namespace Proj_4_Guardians
 			public const int QuestionMark = 2130837509;
 			
 			// aapt resource value: 0x7f020006
-			public const int RoundButton = 2130837510;
+			public const int Recycle = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int RoundButton = 2130837511;
 			
 			static Drawable()
 			{
@@ -78,11 +81,8 @@ namespace Proj_4_Guardians
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f05000c
-			public const int BtnAfval = 2131034124;
-			
-			// aapt resource value: 0x7f05000d
-			public const int BtnTester = 2131034125;
+			// aapt resource value: 0x7f05000e
+			public const int BtnTester = 2131034126;
 			
 			// aapt resource value: 0x7f050007
 			public const int ImbAnders = 2131034119;
@@ -95,6 +95,12 @@ namespace Proj_4_Guardians
 			
 			// aapt resource value: 0x7f050003
 			public const int ImbPapier = 2131034115;
+			
+			// aapt resource value: 0x7f05000d
+			public const int ImbRecycle = 2131034125;
+			
+			// aapt resource value: 0x7f05000c
+			public const int RlMain = 2131034124;
 			
 			// aapt resource value: 0x7f050000
 			public const int ScvZoek = 2131034112;
@@ -111,11 +117,11 @@ namespace Proj_4_Guardians
 			// aapt resource value: 0x7f050004
 			public const int TxvPapier = 2131034116;
 			
-			// aapt resource value: 0x7f05000b
-			public const int img = 2131034123;
-			
 			// aapt resource value: 0x7f05000a
-			public const int relativeLayout1 = 2131034122;
+			public const int TxvUitleg1 = 2131034122;
+			
+			// aapt resource value: 0x7f05000b
+			public const int TxvUitleg2 = 2131034123;
 			
 			// aapt resource value: 0x7f050009
 			public const int searchView1 = 2131034121;

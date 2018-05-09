@@ -2,13 +2,14 @@
 using Android.Widget;
 using Android.OS;
 using Android.Content;
+using Android.Views.InputMethods;
 
 namespace Proj_4_Guardians
 {
-    [Activity(Label = "Proj_4_Guardians", MainLauncher = true)]
+    [Activity(Label = "Proj_4_Guardians", MainLauncher = true, Icon = "@drawable/Recycle")]
     public class MainActivity : Activity
     {
-        ImageButton mImageButton;
+        ImageButton mBtnRecycle;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -20,9 +21,8 @@ namespace Proj_4_Guardians
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
             ActionBar.Hide();
-
-            Button BtnAfval = FindViewById<Button>(Resource.Id.BtnAfval);
-            BtnAfval.Click += BtnAfval_Click;
+            mBtnRecycle = FindViewById<ImageButton>(Resource.Id.ImbRecycle);
+            mBtnRecycle.Click += MBtnRecycle_Click;
 
             //var imageButton1 = FindViewById<ImageButton>(Resource.Id.imageButton1);
             //var imageButton2 = FindViewById<ImageButton>(Resource.Id.imageButton2);
@@ -34,11 +34,10 @@ namespace Proj_4_Guardians
             //{
             //    Toast.MakeText(this, "ImageButton 2 Clicked", ToastLength.Long).Show();
             //};
-            
            
         }
 
-        private void BtnAfval_Click(object sender, System.EventArgs e)
+        private void MBtnRecycle_Click(object sender, System.EventArgs e)
         {
             Intent intent = new Intent(this, typeof(Category));
             this.StartActivity(intent);

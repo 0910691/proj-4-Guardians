@@ -46,6 +46,9 @@ namespace Proj_4_Guardians
 			public static int QuestionMark = 0;
 			
 			// aapt resource value: 0
+			public static int Recycle = 0;
+			
+			// aapt resource value: 0
 			public static int RoundButton = 0;
 			
 			// aapt resource value: 0
@@ -65,9 +68,6 @@ namespace Proj_4_Guardians
 		{
 			
 			// aapt resource value: 0
-			public static int BtnAfval = 0;
-			
-			// aapt resource value: 0
 			public static int BtnTester = 0;
 			
 			// aapt resource value: 0
@@ -83,10 +83,10 @@ namespace Proj_4_Guardians
 			public static int ImbPapier = 0;
 			
 			// aapt resource value: 0
-			public static int img = 0;
+			public static int ImbRecycle = 0;
 			
 			// aapt resource value: 0
-			public static int relativeLayout1 = 0;
+			public static int RlMain = 0;
 			
 			// aapt resource value: 0
 			public static int ScvZoek = 0;
@@ -105,6 +105,12 @@ namespace Proj_4_Guardians
 			
 			// aapt resource value: 0
 			public static int TxvPapier = 0;
+			
+			// aapt resource value: 0
+			public static int TxvUitleg1 = 0;
+			
+			// aapt resource value: 0
+			public static int TxvUitleg2 = 0;
 			
 			static Id()
 			{
