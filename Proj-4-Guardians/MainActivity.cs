@@ -6,7 +6,7 @@ using Android.Views.InputMethods;
 
 namespace Proj_4_Guardians
 {
-    [Activity(Label = "Proj_4_Guardians", MainLauncher = true, Icon = "@drawable/Recycle")]
+    [Activity(Label = "Recycler", MainLauncher = true, Icon = "@drawable/Recycle")]
     public class MainActivity : Activity
     {
         ImageButton mBtnRecycle;
@@ -17,10 +17,11 @@ namespace Proj_4_Guardians
             // uitleg voor image en tekst in een grid
             // https://assist-software.net/snippets/android-button-place-image-center-and-text-bottom
             // image button : https://www.youtube.com/watch?v=bZd-jUK_egE
+            // SearchView : https://www.youtube.com/watch?v=4FvObC44bhM
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
-            ActionBar.Hide();
+            //ActionBar.Hide();
             mBtnRecycle = FindViewById<ImageButton>(Resource.Id.ImbRecycle);
             mBtnRecycle.Click += MBtnRecycle_Click;
 

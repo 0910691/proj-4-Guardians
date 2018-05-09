@@ -81,8 +81,8 @@ namespace Proj_4_Guardians
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f05000e
-			public const int BtnTester = 2131034126;
+			// aapt resource value: 0x7f05000f
+			public const int BtnTester = 2131034127;
 			
 			// aapt resource value: 0x7f050007
 			public const int ImbAnders = 2131034119;
@@ -96,11 +96,11 @@ namespace Proj_4_Guardians
 			// aapt resource value: 0x7f050003
 			public const int ImbPapier = 2131034115;
 			
-			// aapt resource value: 0x7f05000d
-			public const int ImbRecycle = 2131034125;
+			// aapt resource value: 0x7f05000e
+			public const int ImbRecycle = 2131034126;
 			
-			// aapt resource value: 0x7f05000c
-			public const int RlMain = 2131034124;
+			// aapt resource value: 0x7f05000d
+			public const int RlMain = 2131034125;
 			
 			// aapt resource value: 0x7f050000
 			public const int ScvZoek = 2131034112;
@@ -117,14 +117,17 @@ namespace Proj_4_Guardians
 			// aapt resource value: 0x7f050004
 			public const int TxvPapier = 2131034116;
 			
-			// aapt resource value: 0x7f05000a
-			public const int TxvUitleg1 = 2131034122;
-			
 			// aapt resource value: 0x7f05000b
-			public const int TxvUitleg2 = 2131034123;
+			public const int TxvUitleg1 = 2131034123;
+			
+			// aapt resource value: 0x7f05000c
+			public const int TxvUitleg2 = 2131034124;
 			
 			// aapt resource value: 0x7f050009
 			public const int searchView1 = 2131034121;
+			
+			// aapt resource value: 0x7f05000a
+			public const int separator = 2131034122;
 			
 			static Id()
 			{

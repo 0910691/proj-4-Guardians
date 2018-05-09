@@ -95,6 +95,9 @@ namespace Proj_4_Guardians
 			public static int searchView1 = 0;
 			
 			// aapt resource value: 0
+			public static int separator = 0;
+			
+			// aapt resource value: 0
 			public static int TxvAnders = 0;
 			
 			// aapt resource value: 0

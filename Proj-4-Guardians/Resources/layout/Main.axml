@@ -14,6 +14,11 @@
             android:layout_height="0dp"
             android:layout_weight="0.1"
             android:id="@+id/searchView1" />
+        <View
+            android:id="@+id/separator"
+            android:background="#ffffff"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp" />
         <TextView
             android:id="@+id/TxvUitleg1"
             android:text="Gebruik de zoekfunctie als u weet uit welk materiaal uw afval bestaat."
@@ -25,6 +30,8 @@
             android:paddingRight="10dp"
             android:paddingLeft="10dp"
             android:textColor="#fff"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
             android:textAppearance="?android:attr/textAppearanceMedium" />
         <TextView
             android:id="@+id/TxvUitleg2"
@@ -37,12 +44,38 @@
             android:paddingLeft="5dp"
             android:paddingRight="5dp"
             android:textColor="#fff"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
             android:textAppearance="?android:attr/textAppearanceMedium" />
+        <View
+            android:id="@+id/separator"
+            android:background="#ffffff"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp" />
+        <TextView
+            android:id="@+id/TxvUitleg2"
+            android:text="Deze app is gemaakt met als doel het verbeteren van de kennis bij gebruikers over de schadelijkheid van afval in het milieu."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.04"
+            android:gravity="center"
+            android:paddingTop="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:textColor="#fff"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
         <RelativeLayout
             android:layout_width="100dp"
             android:layout_height="0dp"
-            android:layout_weight="0.42"
+            android:layout_weight="0.38"
             android:id="@+id/RlMain" />
+        <View
+            android:id="@+id/separator"
+            android:background="#ffffff"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp" />
         <ImageButton
             android:id="@+id/ImbRecycle"
             android:layout_width="match_parent"
@@ -51,6 +84,10 @@
             android:scaleType="centerInside"
             android:src="@drawable/recycle"
             android:contextClickable="true"
-            android:background="#0f0" />
+            android:background="#0f0"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp" />
     </TableLayout>
 </LinearLayout>

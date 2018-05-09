@@ -10,7 +10,7 @@
     <activity android:label="CategoryDrank" android:name="md54b24830816bce52ca58283b5236fcbb4.CategoryDrank" />
     <activity android:label="CategoryElektro" android:name="md54b24830816bce52ca58283b5236fcbb4.CategoryElektro" />
     <activity android:label="CategoryPapier" android:name="md54b24830816bce52ca58283b5236fcbb4.CategoryPapier" />
-    <activity android:icon="@drawable/recycle" android:label="Proj_4_Guardians" android:name="md54b24830816bce52ca58283b5236fcbb4.MainActivity">
+    <activity android:icon="@drawable/recycle" android:label="Recycler" android:name="md54b24830816bce52ca58283b5236fcbb4.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
