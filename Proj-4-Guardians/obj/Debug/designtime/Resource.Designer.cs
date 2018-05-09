@@ -65,10 +65,7 @@ namespace Proj_4_Guardians
 			public static int BtnAfval = 0;
 			
 			// aapt resource value: 0
-			public static int imageButton1 = 0;
-			
-			// aapt resource value: 0
-			public static int imageButton2 = 0;
+			public static int BtnTester = 0;
 			
 			// aapt resource value: 0
 			public static int ImbAnders = 0;
@@ -89,10 +86,10 @@ namespace Proj_4_Guardians
 			public static int relativeLayout1 = 0;
 			
 			// aapt resource value: 0
-			public static int searchView1 = 0;
+			public static int ScvZoek = 0;
 			
 			// aapt resource value: 0
-			public static int textView1 = 0;
+			public static int searchView1 = 0;
 			
 			// aapt resource value: 0
 			public static int TxvAnders = 0;

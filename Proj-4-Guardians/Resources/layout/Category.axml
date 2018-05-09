@@ -3,6 +3,12 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+    <SearchView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ScvZoek" />
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -28,6 +34,8 @@
                     android:layout_width="match_parent"
                     android:text="Drank verpakking"
                     android:gravity="center"
+                    android:paddingTop="5dp"
+                    android:textColor="#fff"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
             </RelativeLayout>
             <RelativeLayout
@@ -47,6 +55,8 @@
                     android:layout_width="match_parent"
                     android:text="Papier"
                     android:gravity="center"
+                    android:paddingTop="5dp"
+                    android:textColor="#fff"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
             </RelativeLayout>
         </TableRow>
@@ -72,6 +82,8 @@
                     android:layout_width="match_parent"
                     android:text="Elektro"
                     android:gravity="center"
+                    android:paddingTop="5dp"
+                    android:textColor="#fff"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
             </RelativeLayout>
             <RelativeLayout
@@ -91,6 +103,8 @@
                     android:layout_width="match_parent"
                     android:text="Anders?"
                     android:gravity="center"
+                    android:paddingTop="5dp"
+                    android:textColor="#fff"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
             </RelativeLayout>
         </TableRow>
