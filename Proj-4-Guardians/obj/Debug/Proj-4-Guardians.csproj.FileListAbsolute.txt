@@ -17,6 +17,11 @@ A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guar
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\R.cs.flag
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\R.txt
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\uploadflags.txt
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\res\layout\finalinfo.xml
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\res\drawable\drink_bottle.png
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\Proj-4-Guardians.csprojAssemblyReference.cache
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\res\layout\tester.xml
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\res\drawable\glas.png
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\bin\Debug\Mono.Android.pdb
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\bin\Debug\mscorlib.pdb
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\bin\Debug\System.Core.pdb
@@ -38,6 +43,9 @@ A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guar
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\linksrc\Mono.Security.pdb
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\linksrc\Proj-4-Guardians.dll.mdb
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\res\drawable\cardboard.png
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\res\drawable\paper.png
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\res\drawable\questionmark.png
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.dll.mdb
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\android\assets\Proj-4-Guardians.dll.mdb
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\android\assets\Mono.Android.pdb

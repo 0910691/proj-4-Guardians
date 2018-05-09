@@ -24,15 +24,23 @@ namespace Proj_4_Guardians
 			global::Android.Runtime.ResourceIdManager.UpdateIdValues();
 		}
 		
-		public static void UpdateIdValues()
-		{
-		}
-		
 		public partial class Drawable
 		{
 			
 			// aapt resource value: 0
-			public static int DrinkBottle = 0;
+			public static int CardBoard = 0;
+			
+			// aapt resource value: 0
+			public static int drink_bottle = 0;
+			
+			// aapt resource value: 0
+			public static int Glas = 0;
+			
+			// aapt resource value: 0
+			public static int Paper = 0;
+			
+			// aapt resource value: 0
+			public static int QuestionMark = 0;
 			
 			// aapt resource value: 0
 			public static int RoundButton = 0;
@@ -57,22 +65,22 @@ namespace Proj_4_Guardians
 			public static int BtnAfval = 0;
 			
 			// aapt resource value: 0
-			public static int BtnAnders = 0;
+			public static int imageButton1 = 0;
 			
 			// aapt resource value: 0
-			public static int BtnDrank = 0;
+			public static int imageButton2 = 0;
 			
 			// aapt resource value: 0
-			public static int BtnElektro = 0;
+			public static int ImbAnders = 0;
 			
 			// aapt resource value: 0
-			public static int BtnGlas = 0;
+			public static int ImbDrank = 0;
 			
 			// aapt resource value: 0
-			public static int BtnVleesVerpak = 0;
+			public static int ImbElektro = 0;
 			
 			// aapt resource value: 0
-			public static int button5 = 0;
+			public static int ImbPapier = 0;
 			
 			// aapt resource value: 0
 			public static int img = 0;
@@ -82,6 +90,21 @@ namespace Proj_4_Guardians
 			
 			// aapt resource value: 0
 			public static int searchView1 = 0;
+			
+			// aapt resource value: 0
+			public static int textView1 = 0;
+			
+			// aapt resource value: 0
+			public static int TxvAnders = 0;
+			
+			// aapt resource value: 0
+			public static int TxvDrank = 0;
+			
+			// aapt resource value: 0
+			public static int TxvElektro = 0;
+			
+			// aapt resource value: 0
+			public static int TxvPapier = 0;
 			
 			static Id()
 			{
@@ -110,6 +133,9 @@ namespace Proj_4_Guardians
 			
 			// aapt resource value: 0
 			public static int Main = 0;
+			
+			// aapt resource value: 0
+			public static int Tester = 0;
 			
 			// aapt resource value: 0
 			public static int Zoeken = 0;
