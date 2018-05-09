@@ -18,13 +18,12 @@
                 <Button
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:id="@+id/button1"
+                    android:id="@+id/BtnVleesVerpak"
                     android:background="#01bbaa"
-                    android:text="Button1"
+                    android:text="Vlees verpakking"
                     android:textSize="19sp"
                     android:gravity="center|bottom"
-                    android:singleLine="false"
-                    android:padingBottom="10dp" />
+                    android:singleLine="false" />
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -37,13 +36,12 @@
                 <Button
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:id="@+id/button2"
+                    android:id="@+id/BtnElektro"
                     android:background="#ff00ff"
-                    android:text="Botton 2"
+                    android:text="Elektronica"
                     android:textSize="18sp"
                     android:gravity="center|bottom"
-                    android:singleLine="false"
-                    android:paddingBottom="10dp" />
+                    android:singleLine="false" />
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -62,12 +60,11 @@
                 <Button
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:id="@+id/button3"
+                    android:id="@+id/BtnDrank"
                     android:background="#000"
-                    android:text="Button 3"
+                    android:text="Drank verpakking"
                     android:textSize="18sp"
-                    android:gravity="center|bottom"
-                    android:paddingBottom="10dp" />
+                    android:gravity="center|bottom" />
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -80,12 +77,11 @@
                 <Button
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:id="@+id/button4"
+                    android:id="@+id/BtnGlas"
                     android:background="#0fa"
-                    android:text="Button 4"
+                    android:text="Glas"
                     android:textSize="18sp"
-                    android:gravity="center|bottom"
-                    android:paddingBottom="10dp" />
+                    android:gravity="center|bottom" />
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -106,10 +102,9 @@
                     android:layout_height="match_parent"
                     android:id="@+id/button5"
                     android:background="#36f"
-                    android:text="Button 5"
+                    android:text="Papier / Karton"
                     android:textSize="18sp"
-                    android:gravity="center|bottom"
-                    android:paddingBottom="10dp" />
+                    android:gravity="center|bottom" />
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -122,12 +117,11 @@
                 <Button
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:id="@+id/button6"
+                    android:id="@+id/BtnAnders"
                     android:background="#0df"
-                    android:text="Button 6"
+                    android:text="Anders"
                     android:textSize="18sp"
-                    android:gravity="center|bottom"
-                    android:paddingBottom="10dp" />
+                    android:gravity="center|bottom" />
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
