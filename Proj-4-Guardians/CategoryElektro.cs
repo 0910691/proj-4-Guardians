@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace Proj_4_Guardians
 {
-    [Activity(Label = "CategoryElektro")]
+    [Activity(Label = "Recycler")]
     public class CategoryElektro : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
@@ -21,7 +21,7 @@ namespace Proj_4_Guardians
 
             // Create your application here
             SetContentView(Resource.Layout.Category2);
-            ActionBar.Hide();
+            //ActionBar.Hide();
         }
     }
 }

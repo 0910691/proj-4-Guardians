@@ -13,7 +13,7 @@ using Android.Views;
 
 namespace Proj_4_Guardians
 {
-    [Activity(Label = "Category")]
+    [Activity(Label = "Recycler")]
     public class Category : Activity
     {
         ImageButton mBtnDrank;
@@ -27,7 +27,11 @@ namespace Proj_4_Guardians
 
             // Create your application here
             SetContentView(Resource.Layout.Category);
-            ActionBar.Hide();
+            //ActionBar.Hide();
+
+            SearchView search = FindViewById<SearchView>(Resource.Id.ScvZoekCat1);
+            search.SetQueryHint("Papier, Plastic, Glas");
+
 
             mBtnDrank = FindViewById<ImageButton>(Resource.Id.ImbDrank);
             mBtnDrank.Click += MBtnDrank_Click;

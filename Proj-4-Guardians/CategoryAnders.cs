@@ -9,10 +9,12 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using Android.
+
 
 namespace Proj_4_Guardians
 {
-    [Activity(Label = "CategoryAnders")]
+    [Activity(Label = "Recycler")]
     public class CategoryAnders : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
@@ -21,7 +23,9 @@ namespace Proj_4_Guardians
 
             // Create your application here
             SetContentView(Resource.Layout.Category2);
-            ActionBar.Hide();
+            //ActionBar.Hide();
+            SupportActionBar.SetDisplayShowHomeEnabled(true);
+
         }
     }
 }

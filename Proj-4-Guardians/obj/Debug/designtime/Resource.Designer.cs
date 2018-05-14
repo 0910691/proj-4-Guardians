@@ -68,7 +68,7 @@ namespace Proj_4_Guardians
 		{
 			
 			// aapt resource value: 0
-			public static int BtnTester = 0;
+			public static int action_search = 0;
 			
 			// aapt resource value: 0
 			public static int ImbAnders = 0;
@@ -89,10 +89,10 @@ namespace Proj_4_Guardians
 			public static int RlMain = 0;
 			
 			// aapt resource value: 0
-			public static int ScvZoek = 0;
+			public static int ScvZoekCat1 = 0;
 			
 			// aapt resource value: 0
-			public static int searchView1 = 0;
+			public static int ScvZoekMain = 0;
 			
 			// aapt resource value: 0
 			public static int separator = 0;

@@ -25,6 +25,12 @@ namespace Proj_4_Guardians
             mBtnRecycle = FindViewById<ImageButton>(Resource.Id.ImbRecycle);
             mBtnRecycle.Click += MBtnRecycle_Click;
 
+            SearchView search = FindViewById<SearchView>(Resource.Id.ScvZoekMain);
+            search.SetQueryHint("Papier, Plastic, Glas");
+            
+            
+            
+            
             //var imageButton1 = FindViewById<ImageButton>(Resource.Id.imageButton1);
             //var imageButton2 = FindViewById<ImageButton>(Resource.Id.imageButton2);
             //imageButton1.Click += (e, o) =>
