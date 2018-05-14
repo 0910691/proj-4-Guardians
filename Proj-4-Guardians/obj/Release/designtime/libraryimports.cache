@@ -3,7 +3,9 @@
   <ManifestDocuments>
     <ManifestDocument>obj\Release\lp\10\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\11\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\lp\11\jl\manifest\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\12\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\lp\12\jl\manifest\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\13\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\4\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\5\jl\AndroidManifest.xml</ManifestDocument>

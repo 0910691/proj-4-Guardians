@@ -9,8 +9,6 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
-using Android.
-
 
 namespace Proj_4_Guardians
 {
@@ -24,8 +22,6 @@ namespace Proj_4_Guardians
             // Create your application here
             SetContentView(Resource.Layout.Category2);
             //ActionBar.Hide();
-            SupportActionBar.SetDisplayShowHomeEnabled(true);
-
         }
     }
 }

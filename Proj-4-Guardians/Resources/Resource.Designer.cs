@@ -1981,9 +1981,6 @@ namespace Proj_4_Guardians
 			// aapt resource value: 0x7f060038
 			public const int action_mode_close_button = 2131099704;
 			
-			// aapt resource value: 0x7f060089
-			public const int action_search = 2131099785;
-			
 			// aapt resource value: 0x7f060078
 			public const int action_text = 2131099768;
 			
@@ -2107,8 +2104,8 @@ namespace Proj_4_Guardians
 			// aapt resource value: 0x7f06007c
 			public const int media_actions = 2131099772;
 			
-			// aapt resource value: 0x7f06008a
-			public const int message = 2131099786;
+			// aapt resource value: 0x7f060089
+			public const int message = 2131099785;
 			
 			// aapt resource value: 0x7f060024
 			public const int middle = 2131099684;
