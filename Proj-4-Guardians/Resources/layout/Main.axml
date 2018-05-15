@@ -53,7 +53,7 @@
             android:layout_width="fill_parent"
             android:layout_height="1dp" />
         <TextView
-            android:id="@+id/TxvUitleg2"
+            android:id="@+id/TxvUitleg3"
             android:text="Deze app is gemaakt met als doel het verbeteren van de kennis bij gebruikers over de schadelijkheid van afval in het milieu."
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
