@@ -22,6 +22,10 @@ namespace Proj_4_Guardians
             // Create your application here
             SetContentView(Resource.Layout.Category2);
             //ActionBar.Hide();
+
+            
+
+
         }
     }
 }

@@ -2207,7 +2207,6 @@ containing a value of this type.
         public static int action_mode_bar=0x7f060055;
         public static int action_mode_bar_stub=0x7f060054;
         public static int action_mode_close_button=0x7f060038;
-        public static int action_search=0x7f060089;
         public static int action_text=0x7f060078;
         public static int actions=0x7f060086;
         public static int activity_chooser_view_content=0x7f060039;
@@ -2249,7 +2248,7 @@ containing a value of this type.
         public static int listMode=0x7f060010;
         public static int list_item=0x7f06003d;
         public static int media_actions=0x7f06007c;
-        public static int message=0x7f06008a;
+        public static int message=0x7f060089;
         public static int middle=0x7f060024;
         public static int multiply=0x7f06001b;
         public static int never=0x7f06002e;

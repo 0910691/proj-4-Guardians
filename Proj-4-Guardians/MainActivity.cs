@@ -27,7 +27,12 @@ namespace Proj_4_Guardians
 
             SearchView search = FindViewById<SearchView>(Resource.Id.ScvZoekMain);
             search.SetQueryHint("Papier, Plastic, Glas");
-            
+
+            var txt = FindViewById<TextView>(Resource.Id.TxvUitleg3);
+            txt.Click += (e, o) =>
+            {
+                Toast.MakeText(this, "text clicked", ToastLength.Long).Show();
+            };
             
             
             
