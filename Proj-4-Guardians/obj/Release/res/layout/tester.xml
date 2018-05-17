@@ -1,1 +1,1 @@
-<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/action_search" android:title="Search" android:icon="@drawable/recycle" android:showAsAction="always|collapseActionView" app:actionViewClass="android.support.v7.widget.Searchview" /></menu>
+<RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:padding="5dp" xmlns:android="http://schemas.android.com/apk/res/android" />
