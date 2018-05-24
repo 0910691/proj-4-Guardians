@@ -101,7 +101,6 @@ D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Deb
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\res\drawable\recycle.png
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\R.cs.flag
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\uploadflags.txt
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\bin\Debug\Mono.Android.pdb
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\bin\Debug\mscorlib.pdb
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\bin\Debug\System.Core.pdb
@@ -123,3 +122,82 @@ D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Deb
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\linksrc\Mono.Security.pdb
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\linksrc\Proj-4-Guardians.dll.mdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\Proj-4-Guardians.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\Proj-4-Guardians.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\Proj-4-Guardians.csproj.CoreCompileInputs.cache
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Proj_4_Guardians.Proj_4_Guardians.apk
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Proj_4_Guardians.Proj_4_Guardians-Signed.apk
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Support.Annotations.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\Proj-4-Guardians.csproj.CopyComplete
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\bin\Proj_4_Guardians.Proj_4_Guardians.apk
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\layout\category.xml
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\layout\category2.xml
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\layout\zoeken.xml
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\layout\achievement_reward.xml
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\layout\main.xml
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\values\strings.xml
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\drawable\roundbutton.xml
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\layout\finalinfo.xml
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\drawable\drink_bottle.png
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\layout\tester.xml
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\drawable\glas.png
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\drawable\cardboard.png
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\drawable\paper.png
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\drawable\questionmark.png
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\drawable\electric.png
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\drawable\recycle.png
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\drawable\appbackground.xml
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\R.cs.flag
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\uploadflags.txt
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\drawable\menu.png
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\res\layout\menu.xml
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Mono.Android.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\mscorlib.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\System.Core.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\System.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\System.Xml.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\System.Net.Http.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\System.Runtime.Serialization.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\System.ServiceModel.Internals.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Mono.Security.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\System.ComponentModel.Composition.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\linksrc\Mono.Android.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\linksrc\mscorlib.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\linksrc\System.Core.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\linksrc\System.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\linksrc\System.Xml.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\linksrc\System.Net.Http.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\linksrc\Mono.Security.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\linksrc\Proj-4-Guardians.dll.mdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\Proj-4-Guardians.csprojResolveAssemblyReference.cache
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.dll.mdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Proj-4-Guardians.dll.mdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Mono.Android.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Mono.Security.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\mscorlib.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Core.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Net.Http.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.pdb
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\linksrc\Proj-4-Guardians.dll.mdb

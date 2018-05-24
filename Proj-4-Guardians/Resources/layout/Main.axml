@@ -8,14 +8,27 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:weightSum="1">
-        <SearchView
-            android:minWidth="25px"
-            android:minHeight="25px"
-            android:layout_width="match_parent"
+        <TableRow
+            android:layout_width="fill_parent"
             android:layout_height="0dp"
             android:layout_weight="0.1"
-            android:id="@+id/ScvZoekMain"
-            android:background="#000" />
+            android:background="#000">
+        <!--android:weightSum="1"-->
+            <ImageButton
+                android:id="@+id/Menu"
+                android:layout_width="20dp"
+                android:layout_height="match_parent"
+                android:scaleType="centerInside"
+                android:src="@drawable/Menu"
+                android:contextClickable="true"
+                android:layout_weight="0.2" />
+            <SearchView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.8"
+                android:id="@+id/ScvZoekMain"
+                android:background="#00f" />
+        </TableRow>
         <View
             android:id="@+id/separator"
             android:layout_width="fill_parent"

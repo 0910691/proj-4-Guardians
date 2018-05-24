@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v26</xs:documentation>
-    <xs:documentation>24-5-2018 11:14:37</xs:documentation>
+    <xs:documentation>24-5-2018 13:06:07</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -157,6 +157,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -753,6 +754,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -1279,6 +1281,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -1947,6 +1950,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -2630,6 +2634,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -3198,6 +3203,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -3724,6 +3730,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -4250,6 +4257,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -4776,6 +4784,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -5302,6 +5311,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -5940,6 +5950,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -6887,6 +6898,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -7425,6 +7437,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -8063,6 +8076,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -8589,6 +8603,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -9280,6 +9295,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -9818,6 +9834,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -10512,6 +10529,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -11352,6 +11370,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -13176,6 +13195,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -13870,6 +13890,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -14583,6 +14604,7 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />

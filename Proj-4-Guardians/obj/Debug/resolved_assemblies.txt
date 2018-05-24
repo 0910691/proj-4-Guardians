@@ -1,36 +1,36 @@
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Proj-4-Guardians.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Java.Interop.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Mono.Android.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\mscorlib.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Core.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Arch.Core.Common.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Annotations.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Compat.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Core.UI.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Core.Utils.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Fragment.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Media.Compat.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Threading.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Collections.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Collections.Concurrent.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Reflection.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Linq.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Extensions.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Reflection.Extensions.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Reflection.Primitives.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Net.Http.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Serialization.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\Mono.Security.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Proj-4-Guardians.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Java.Interop.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Mono.Android.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\mscorlib.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Core.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Compat.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Threading.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Collections.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Collections.Concurrent.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Reflection.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Linq.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Extensions.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Reflection.Extensions.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Reflection.Primitives.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Net.Http.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Serialization.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\Mono.Security.dll
+D:\school\jaar 1\Project 4 App\Proj-4-Guardians\obj\Debug\android\assets\System.ComponentModel.Composition.dll
