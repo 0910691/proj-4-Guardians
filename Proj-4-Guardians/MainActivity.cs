@@ -26,13 +26,7 @@ namespace Proj_4_Guardians
             mBtnRecycle.Click += MBtnRecycle_Click;
 
             SearchView search = FindViewById<SearchView>(Resource.Id.ScvZoekMain);
-            search.SetQueryHint("Papier, Plastic, Glas");
-
-            var txt = FindViewById<TextView>(Resource.Id.TxvUitleg3);
-            txt.Click += (e, o) =>
-            {
-                Toast.MakeText(this, "text clicked", ToastLength.Long).Show();
-            };                     
+            search.SetQueryHint("Papier, Plastic, Glas");                   
             
             //var imageButton1 = FindViewById<ImageButton>(Resource.Id.imageButton1);
             //var imageButton2 = FindViewById<ImageButton>(Resource.Id.imageButton2);

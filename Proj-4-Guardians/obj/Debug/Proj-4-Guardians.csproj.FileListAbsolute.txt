@@ -60,7 +60,6 @@ A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guar
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\linksrc\Mono.Security.pdb
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V1\Proj-4-Guardians\obj\Debug\linksrc\Proj-4-Guardians.dll.mdb
-D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\Proj-4-Guardians.csprojResolveAssemblyReference.cache
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.pdb
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\bin\Debug\Proj_4_Guardians.Proj_4_Guardians.apk
@@ -101,6 +100,7 @@ D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Deb
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\res\drawable\recycle.png
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\R.cs.flag
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\uploadflags.txt
+D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\obj\Debug\res\drawable\appbackground.xml
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\bin\Debug\Mono.Android.pdb
 D:\menno\Documenten\School\GitHub\Repositories\Project4\Proj-4-Guardians\bin\Debug\mscorlib.pdb

@@ -42,7 +42,6 @@
             android:scaleType="centerInside"
             android:src="@drawable/recycle"
             android:contextClickable="true"
-            android:background="#0f0"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:layout_marginBottom="10dp"
