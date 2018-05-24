@@ -2,7 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/AppBackground">
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -13,7 +14,8 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="0.1"
-            android:id="@+id/ScvZoekMain" />
+            android:id="@+id/ScvZoekMain"
+            android:background="#000" />
         <View
             android:id="@+id/separator"
             android:background="#ffffff"
@@ -29,7 +31,7 @@
             android:paddingTop="5dp"
             android:paddingRight="10dp"
             android:paddingLeft="10dp"
-            android:textColor="#fff"
+            android:textColor="#000"
             android:layout_marginLeft="15dp"
             android:layout_marginRight="15dp"
             android:textAppearance="?android:attr/textAppearanceMedium" />
@@ -43,13 +45,13 @@
             android:paddingTop="5dp"
             android:paddingLeft="5dp"
             android:paddingRight="5dp"
-            android:textColor="#fff"
+            android:textColor="#000"
             android:layout_marginLeft="15dp"
             android:layout_marginRight="15dp"
             android:textAppearance="?android:attr/textAppearanceMedium" />
         <View
             android:id="@+id/separator"
-            android:background="#ffffff"
+            android:background="AppBackground"
             android:layout_width="fill_parent"
             android:layout_height="1dp" />
         <TextView
@@ -62,7 +64,7 @@
             android:paddingTop="5dp"
             android:paddingLeft="5dp"
             android:paddingRight="5dp"
-            android:textColor="#fff"
+            android:textColor="#000"
             android:layout_marginLeft="15dp"
             android:layout_marginRight="15dp"
             android:textAppearance="?android:attr/textAppearanceSmall" />
@@ -70,7 +72,9 @@
             android:layout_width="100dp"
             android:layout_height="0dp"
             android:layout_weight="0.38"
-            android:id="@+id/RlMain" />
+            android:id="@+id/RlMain"
+            android:minWidth="25px"
+            android:minHeight="25px" />
         <View
             android:id="@+id/separator"
             android:background="#ffffff"

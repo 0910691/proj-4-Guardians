@@ -21,7 +21,7 @@ namespace Proj_4_Guardians
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
-            //ActionBar.Hide();
+            ActionBar.Hide();
             mBtnRecycle = FindViewById<ImageButton>(Resource.Id.ImbRecycle);
             mBtnRecycle.Click += MBtnRecycle_Click;
 

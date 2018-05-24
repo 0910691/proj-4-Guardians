@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v26</xs:documentation>
-    <xs:documentation>15-5-2018 12:58:11</xs:documentation>
+    <xs:documentation>24-5-2018 10:53:03</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -152,6 +152,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -747,6 +748,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -1272,6 +1274,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -1939,6 +1942,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -2621,6 +2625,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -3188,6 +3193,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -3713,6 +3719,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -4238,6 +4245,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -4763,6 +4771,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -5288,6 +5297,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -5925,6 +5935,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -6871,6 +6882,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -7408,6 +7420,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -8045,6 +8058,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -8570,6 +8584,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -9260,6 +9275,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -9797,6 +9813,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -10490,6 +10507,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -11329,6 +11347,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -13152,6 +13171,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -13845,6 +13865,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
@@ -14557,6 +14578,7 @@
             <xs:enumeration value="@drawable/abc_textfield_search_default_mtrl_alpha" />
             <xs:enumeration value="@drawable/abc_textfield_search_material" />
             <xs:enumeration value="@drawable/abc_vector_test" />
+            <xs:enumeration value="@drawable/appbackground" />
             <xs:enumeration value="@drawable/cardboard" />
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />

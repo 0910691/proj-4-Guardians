@@ -27,7 +27,7 @@ namespace Proj_4_Guardians
 
             // Create your application here
             SetContentView(Resource.Layout.Category);
-            //ActionBar.Hide();
+            ActionBar.Hide();
 
             SearchView search = FindViewById<SearchView>(Resource.Id.ScvZoekCat1);
             search.SetQueryHint("Papier, Plastic, Glas");
