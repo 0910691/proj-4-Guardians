@@ -39,7 +39,9 @@ namespace Proj_4_Guardians
 
         private void BtnMenu_Click(object sender, System.EventArgs e)
         {
-            throw new System.NotImplementedException();
+            FragmentTransaction transaction = FragmentManager.BeginTransaction();
+            MenuOverlay Menu_overlay = new MenuOverlay();
+            Menu_overlay.Show(transaction, "Menu");
         }
 
         private void MBtnRecycle_Click(object sender, System.EventArgs e)

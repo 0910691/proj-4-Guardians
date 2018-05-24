@@ -43,13 +43,13 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="0.5">
-                <ImageButton
-                    android:id="@+id/ImbPapier"
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:scaleType="centerInside"
-                    android:src="@drawable/Paper"
-                    android:contextClickable="true" />
+              <ImageButton
+                  android:id="@+id/ImbPapier"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:scaleType="centerInside"
+                  android:src="@drawable/Paper"
+                  android:contextClickable="true" />
                 <TextView
                     android:id="@+id/TxvPapier"
                     android:layout_height="wrap_content"
