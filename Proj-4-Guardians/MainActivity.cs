@@ -32,9 +32,7 @@ namespace Proj_4_Guardians
             txt.Click += (e, o) =>
             {
                 Toast.MakeText(this, "text clicked", ToastLength.Long).Show();
-            };
-            
-            
+            };                     
             
             //var imageButton1 = FindViewById<ImageButton>(Resource.Id.imageButton1);
             //var imageButton2 = FindViewById<ImageButton>(Resource.Id.imageButton2);
