@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:weightSum="1">
         <TableRow
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="1dp"
             android:background="@drawable/AppBackground">
             <ImageButton
@@ -30,7 +30,7 @@
                 android:layout_width="3dp"
                 android:background="#000" />
             <SearchView
-                android:layout_width="fill_parent"
+                android:layout_width="match_parent"
                 android:layout_weight="0.1"
                 android:id="@+id/ScvZoekMain"
                 android:background="#00f" />

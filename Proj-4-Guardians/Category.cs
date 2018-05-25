@@ -20,6 +20,7 @@ namespace Proj_4_Guardians
         ImageButton mBtnPapier;
         ImageButton mBtnElektro;
         ImageButton mBtnAnders;
+        ImageButton BtnMenu;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -29,7 +30,7 @@ namespace Proj_4_Guardians
             SetContentView(Resource.Layout.Category);
             ActionBar.Hide();
 
-            SearchView search = FindViewById<SearchView>(Resource.Id.ScvZoekCat1);
+            SearchView search = FindViewById<SearchView>(Resource.Id.ScvZoekMain);
             search.SetQueryHint("Papier, Plastic, Glas");
 
 
@@ -43,31 +44,45 @@ namespace Proj_4_Guardians
             mBtnElektro.Click += MBtnElektro_Click;
 
             mBtnAnders = FindViewById<ImageButton>(Resource.Id.ImbAnders);
-            mBtnAnders.Click += MBtnAnders_Click;            
+            mBtnAnders.Click += MBtnAnders_Click;
+
+            BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
+            BtnMenu.Click += BtnMenu_Click;
         }
 
         private void MBtnAnders_Click(object sender, EventArgs e)
         {
-            Intent intent = new Intent(this, typeof(CategoryAnders));
-            this.StartActivity(intent);
+            Intent intent = new Intent(this, typeof(Category2));
+            intent.PutExtra("Category", "anders");
+            StartActivity(intent);
         }
 
         private void MBtnElektro_Click(object sender, EventArgs e)
         {
-            Intent intent = new Intent(this, typeof(CategoryElektro));
-            this.StartActivity(intent);
+            Intent intent = new Intent(this, typeof(Category2));
+            intent.PutExtra("Category", "elektro");
+            StartActivity(intent);
         }
 
         private void MBtnPapier_Click(object sender, EventArgs e)
         {
-            Intent intent = new Intent(this, typeof(CategoryPapier));
-            this.StartActivity(intent);
+            Intent intent = new Intent(this, typeof(Category2));
+            intent.PutExtra("Category", "papier");
+            StartActivity(intent);
         }
     
         private void MBtnDrank_Click(object sender, EventArgs e)
         {
-            Intent intent = new Intent(this, typeof(CategoryDrank));
-            this.StartActivity(intent);
+            Intent intent = new Intent(this, typeof(Category2));
+            intent.PutExtra("Category", "plastic");
+            StartActivity(intent);
+        }
+
+        private void BtnMenu_Click(object sender, System.EventArgs e)
+        {
+            FragmentTransaction transaction = FragmentManager.BeginTransaction();
+            MenuOverlay Menu_overlay = new MenuOverlay();
+            Menu_overlay.Show(transaction, "Menu");
         }
     }
 }

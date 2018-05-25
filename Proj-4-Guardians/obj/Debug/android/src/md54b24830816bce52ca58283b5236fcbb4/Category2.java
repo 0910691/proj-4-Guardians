@@ -1,7 +1,7 @@
 package md54b24830816bce52ca58283b5236fcbb4;
 
 
-public class CategoryElektro
+public class Category2
 	extends android.app.Activity
 	implements
 		mono.android.IGCUserPeer
@@ -12,15 +12,15 @@ public class CategoryElektro
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"";
-		mono.android.Runtime.register ("Proj_4_Guardians.CategoryElektro, Proj-4-Guardians", CategoryElektro.class, __md_methods);
+		mono.android.Runtime.register ("Proj_4_Guardians.Category2, Proj-4-Guardians", Category2.class, __md_methods);
 	}
 
 
-	public CategoryElektro ()
+	public Category2 ()
 	{
 		super ();
-		if (getClass () == CategoryElektro.class)
-			mono.android.TypeManager.Activate ("Proj_4_Guardians.CategoryElektro, Proj-4-Guardians", "", this, new java.lang.Object[] {  });
+		if (getClass () == Category2.class)
+			mono.android.TypeManager.Activate ("Proj_4_Guardians.Category2, Proj-4-Guardians", "", this, new java.lang.Object[] {  });
 	}
 
 

@@ -43,7 +43,7 @@ namespace Proj_4_Guardians
         private void MBtnRecycle_Click(object sender, System.EventArgs e)
         {
             Intent intent = new Intent(this, typeof(Category));
-            this.StartActivity(intent);
+            StartActivity(intent);
         }
     }
 }

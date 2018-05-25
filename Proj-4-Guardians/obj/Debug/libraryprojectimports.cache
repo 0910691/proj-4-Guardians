@@ -15,8 +15,18 @@
     <Jar>A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\lp\8\jl\bin\classes.jar</Jar>
     <Jar>A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\lp\9\jl\bin\classes.jar</Jar>
   </Jars>
-  <ResolvedResourceDirectories />
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\lp\6\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\lp\10\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\lp\11\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\lp\12\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
   <ResolvedAssetDirectories />
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\lp\6.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\lp\10.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\lp\11.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\lp\12.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
 </Paths>

@@ -96,10 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Category.cs" />
-    <Compile Include="CategoryAnders.cs" />
-    <Compile Include="CategoryDrank.cs" />
-    <Compile Include="CategoryElektro.cs" />
-    <Compile Include="CategoryPapier.cs" />
+    <Compile Include="Category2.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="MenuOverlay.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />

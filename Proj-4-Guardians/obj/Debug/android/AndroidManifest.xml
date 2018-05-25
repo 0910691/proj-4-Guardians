@@ -5,10 +5,7 @@
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:allowBackup="true" android:label="@string/app_name" android:name="android.app.Application" android:debuggable="true">
     <activity android:label="Recycler" android:name="md54b24830816bce52ca58283b5236fcbb4.Category" />
-    <activity android:label="Recycler" android:name="md54b24830816bce52ca58283b5236fcbb4.CategoryAnders" />
-    <activity android:label="Recycler" android:name="md54b24830816bce52ca58283b5236fcbb4.CategoryDrank" />
-    <activity android:label="Recycler" android:name="md54b24830816bce52ca58283b5236fcbb4.CategoryElektro" />
-    <activity android:label="Recycler" android:name="md54b24830816bce52ca58283b5236fcbb4.CategoryPapier" />
+    <activity android:label="Category2" android:name="md54b24830816bce52ca58283b5236fcbb4.Category2" />
     <activity android:icon="@drawable/recycle" android:label="Recycler" android:name="md54b24830816bce52ca58283b5236fcbb4.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
