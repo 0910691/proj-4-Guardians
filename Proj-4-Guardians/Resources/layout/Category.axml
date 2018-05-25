@@ -28,7 +28,9 @@
                     android:layout_height="match_parent"
                     android:scaleType="centerInside"
                     android:src="@drawable/drink_bottle"
-                    android:contextClickable="true" />
+                    android:contextClickable="true"
+                    android:background="@drawable/imagebackground"
+                    android:layout_margin="5dp" />
                 <TextView
                     android:id="@+id/TxvDrank"
                     android:layout_height="wrap_content"
@@ -49,7 +51,9 @@
                     android:layout_height="match_parent"
                     android:scaleType="centerInside"
                     android:src="@drawable/Paper"
-                    android:contextClickable="true" />
+                    android:contextClickable="true"
+                    android:background="@drawable/imagebackground"
+                    android:layout_margin="5dp" />
                 <TextView
                     android:id="@+id/TxvPapier"
                     android:layout_height="wrap_content"
@@ -76,7 +80,9 @@
                     android:layout_height="match_parent"
                     android:scaleType="centerInside"
                     android:src="@drawable/Electric"
-                    android:contextClickable="true" />
+                    android:contextClickable="true"
+                    android:background="@drawable/imagebackground"
+                    android:layout_margin="5dp" />
                 <TextView
                     android:id="@+id/TxvElektro"
                     android:layout_height="wrap_content"
@@ -97,7 +103,9 @@
                     android:layout_height="match_parent"
                     android:scaleType="centerInside"
                     android:src="@drawable/QuestionMark"
-                    android:contextClickable="true" />
+                    android:contextClickable="true"
+                    android:background="@drawable/imagebackground"
+                    android:layout_margin="5dp" />
                 <TextView
                     android:id="@+id/TxvAnders"
                     android:layout_height="wrap_content"

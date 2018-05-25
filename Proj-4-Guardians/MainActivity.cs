@@ -10,6 +10,7 @@ namespace Proj_4_Guardians
     public class MainActivity : Activity
     {
         ImageButton mBtnRecycle;
+        ImageButton BtnMenu;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -26,19 +27,17 @@ namespace Proj_4_Guardians
             mBtnRecycle.Click += MBtnRecycle_Click;
 
             SearchView search = FindViewById<SearchView>(Resource.Id.ScvZoekMain);
-            search.SetQueryHint("Papier, Plastic, Glas");                   
-            
-            //var imageButton1 = FindViewById<ImageButton>(Resource.Id.imageButton1);
-            //var imageButton2 = FindViewById<ImageButton>(Resource.Id.imageButton2);
-            //imageButton1.Click += (e, o) =>
-            //{
-            //    Toast.MakeText(this, "ImageButton 1 Clicked", ToastLength.Long).Show();
-            //};
-            //imageButton2.Click += (e, o) =>
-            //{
-            //    Toast.MakeText(this, "ImageButton 2 Clicked", ToastLength.Long).Show();
-            //};
-           
+            search.SetQueryHint("Papier, Plastic, Glas");
+
+            BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
+            BtnMenu.Click += BtnMenu_Click;           
+        }
+
+        private void BtnMenu_Click(object sender, System.EventArgs e)
+        {
+            FragmentTransaction transaction = FragmentManager.BeginTransaction();
+            MenuOverlay Menu_overlay = new MenuOverlay();
+            Menu_overlay.Show(transaction, "Menu");
         }
 
         private void MBtnRecycle_Click(object sender, System.EventArgs e)
