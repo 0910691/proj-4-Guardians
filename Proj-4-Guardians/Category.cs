@@ -1,39 +1,31 @@
 ﻿using System;
-using System.Threading;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 using Android.App;
 using Android.Content;
 using Android.OS;
 using Android.Widget;
-using Android.Runtime;
-using Android.Views;
 
 namespace Proj_4_Guardians
 {
     [Activity(Label = "Recycler")]
     public class Category : Activity
     {
-        ImageButton mBtnDrank;
-        ImageButton mBtnPapier;
-        ImageButton mBtnElektro;
-        ImageButton mBtnAnders;
-        ImageButton BtnMenu;
+        private ImageButton mBtnDrank;
+        private ImageButton mBtnPapier;
+        private ImageButton mBtnElektro;
+        private ImageButton mBtnAnders;
+        private ImageButton BtnMenu;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-
-            // Create your application here
             SetContentView(Resource.Layout.Category);
             ActionBar.Hide();
 
             SearchView search = FindViewById<SearchView>(Resource.Id.ScvZoekMain);
             search.SetQueryHint("Papier, Plastic, Glas");
 
-
+            // ↓ klikfuncties ↓
             mBtnDrank = FindViewById<ImageButton>(Resource.Id.ImbDrank);
             mBtnDrank.Click += MBtnDrank_Click;
 
@@ -78,7 +70,7 @@ namespace Proj_4_Guardians
             StartActivity(intent);
         }
 
-        private void BtnMenu_Click(object sender, System.EventArgs e)
+        private void BtnMenu_Click(object sender, EventArgs e)
         {
             FragmentTransaction transaction = FragmentManager.BeginTransaction();
             MenuOverlay Menu_overlay = new MenuOverlay();

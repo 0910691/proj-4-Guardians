@@ -42,14 +42,14 @@
             android:layout_weight="0.005"
             android:background="#000" />
         <Button
-            android:text="Button"
+            android:text="Klik hier om naar de final-info te gaan"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/Cat2But1"
             android:background="@drawable/roundbutton"
             android:textColor="#fff" />
         <TextView
-            android:text="Large Text"
+            android:text="Text wordt ingevuld door .cs files"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

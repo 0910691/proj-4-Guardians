@@ -201,5 +201,6 @@ A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guar
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.pdb
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\Proj-4-Guardians.csprojAssemblyReference.cache
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\res\layout\extrainfo.xml
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.dll
 A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V2\Proj-4-Guardians\obj\Debug\linksrc\Proj-4-Guardians.dll.mdb

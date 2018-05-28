@@ -24,6 +24,10 @@ namespace Proj_4_Guardians
 			global::Android.Runtime.ResourceIdManager.UpdateIdValues();
 		}
 		
+		public static void UpdateIdValues()
+		{
+		}
+		
 		public partial class Animation
 		{
 			
@@ -2380,6 +2384,9 @@ namespace Proj_4_Guardians
 			
 			// aapt resource value: 0
 			public static int Category2 = 0;
+			
+			// aapt resource value: 0
+			public static int ExtraInfo = 0;
 			
 			// aapt resource value: 0
 			public static int Finalinfo = 0;
