@@ -14,7 +14,7 @@ namespace Proj_4_Guardians
         private ImageButton mBtnPapier;
         private ImageButton mBtnElektro;
         private ImageButton mBtnAnders;
-        private ImageButton BtnMenu;
+        private ImageButton mBtnMenu;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -38,8 +38,8 @@ namespace Proj_4_Guardians
             mBtnAnders = FindViewById<ImageButton>(Resource.Id.ImbAnders);
             mBtnAnders.Click += MBtnAnders_Click;
 
-            BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
-            BtnMenu.Click += BtnMenu_Click;
+            mBtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
+            mBtnMenu.Click += BtnMenu_Click;
         }
 
         private void MBtnAnders_Click(object sender, EventArgs e)

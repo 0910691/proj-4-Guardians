@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v26</xs:documentation>
-    <xs:documentation>28-5-2018 19:45:30</xs:documentation>
+    <xs:documentation>29-5-2018 22:59:33</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -175,6 +175,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -773,6 +774,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -1301,6 +1303,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -1971,6 +1974,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -2656,6 +2660,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -3226,6 +3231,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -3754,6 +3760,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -4282,6 +4289,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -4810,6 +4818,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -5338,6 +5347,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -5978,6 +5988,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -6927,6 +6938,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -7467,6 +7479,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -8107,6 +8120,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -8635,6 +8649,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -9328,6 +9343,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -9868,6 +9884,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -10564,6 +10581,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -11406,6 +11424,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -13232,6 +13251,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -13928,6 +13948,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -14643,6 +14664,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />

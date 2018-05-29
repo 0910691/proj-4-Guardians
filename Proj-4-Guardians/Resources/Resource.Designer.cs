@@ -1836,11 +1836,11 @@ namespace Proj_4_Guardians
 			// aapt resource value: 0x7f020061
 			public const int notification_icon_background = 2130837601;
 			
-			// aapt resource value: 0x7f02006a
-			public const int notification_template_icon_bg = 2130837610;
-			
 			// aapt resource value: 0x7f02006b
-			public const int notification_template_icon_low_bg = 2130837611;
+			public const int notification_template_icon_bg = 2130837611;
+			
+			// aapt resource value: 0x7f02006c
+			public const int notification_template_icon_low_bg = 2130837612;
 			
 			// aapt resource value: 0x7f020062
 			public const int notification_tile_bg = 2130837602;
@@ -1861,10 +1861,13 @@ namespace Proj_4_Guardians
 			public const int RoundButton = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int tooltip_frame_dark = 2130837608;
+			public const int RoundImageButton = 2130837608;
 			
 			// aapt resource value: 0x7f020069
-			public const int tooltip_frame_light = 2130837609;
+			public const int tooltip_frame_dark = 2130837609;
+			
+			// aapt resource value: 0x7f02006a
+			public const int tooltip_frame_light = 2130837610;
 			
 			static Drawable()
 			{

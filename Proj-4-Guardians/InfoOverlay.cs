@@ -22,5 +22,11 @@ namespace Proj_4_Guardians
 
             return view;
         }
+
+        public override void OnActivityCreated(Bundle savedInstanceState)
+        {
+            Dialog.Window.RequestFeature(WindowFeatures.NoTitle); // sets the title bar to invisible
+            base.OnActivityCreated(savedInstanceState);
+        }
     }
 }

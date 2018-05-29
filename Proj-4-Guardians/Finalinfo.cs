@@ -12,6 +12,7 @@ namespace Proj_4_Guardians
     {
         private TextView TxtMainInfo;
         private Button BtnInfo;
+        private ImageButton BtnMenu;
         private string DataToDisplay;
         private string DataToCheck;
         protected override void OnCreate(Bundle savedInstanceState)
@@ -32,12 +33,11 @@ namespace Proj_4_Guardians
             // execute a sql search with the data provided by Intent
             // plaats sql benaming in de TxtMainInfo
             TxtMainInfo.Text = "benaming uit database";
-
             
             
             DataToDisplay = Intent.GetStringExtra("Category2").ToUpper();
             //DataToCheck = //moet verkregen worden met een sql-statement, mogelijk tegelijk met het ophalen van de info voor de titel.
-
+            DataToCheck = "";
             if (DataToDisplay == DataToCheck) //
             {
                 // dan moet nu het scherm gevuld worden met de betreffende info
@@ -47,6 +47,16 @@ namespace Proj_4_Guardians
             // ↓ klikfuncties ↓
             BtnInfo = FindViewById<Button>(Resource.Id.BtnInfo);
             BtnInfo.Click += BtnInfo_Click;
+
+            BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
+            BtnMenu.Click += BtnMenu_Click;
+        }
+
+        private void BtnMenu_Click(object sender, EventArgs e)
+        {
+            FragmentTransaction transaction = FragmentManager.BeginTransaction();
+            MenuOverlay Menu_overlay = new MenuOverlay();
+            Menu_overlay.Show(transaction, "Menu");
         }
 
         private void BtnInfo_Click(object sender, EventArgs e)

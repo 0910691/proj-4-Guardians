@@ -3,8 +3,8 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:minWidth="25px"
-    android:minHeight="25px"
+    android:minWidth="150px"
+    android:minHeight="75px"
     android:background="@drawable/appbackground">
     <TextView
         android:text="Menu"
@@ -16,7 +16,7 @@
         android:gravity="center"
         android:textSize="25dp" />
     <Button
-        android:text="Button"
+        android:text="Beginscherm"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnMenu" />

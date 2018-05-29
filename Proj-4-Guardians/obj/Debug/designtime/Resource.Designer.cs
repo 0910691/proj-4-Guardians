@@ -24,10 +24,6 @@ namespace Proj_4_Guardians
 			global::Android.Runtime.ResourceIdManager.UpdateIdValues();
 		}
 		
-		public static void UpdateIdValues()
-		{
-		}
-		
 		public partial class Animation
 		{
 			
@@ -1861,6 +1857,9 @@ namespace Proj_4_Guardians
 			public static int RoundButton = 0;
 			
 			// aapt resource value: 0
+			public static int RoundImageButton = 0;
+			
+			// aapt resource value: 0
 			public static int Thumbs = 0;
 			
 			// aapt resource value: 2131296352
@@ -2016,6 +2015,9 @@ namespace Proj_4_Guardians
 			
 			// aapt resource value: 2131492900
 			public static int home = 2131492900;
+			
+			// aapt resource value: 0
+			public static int Horizontalseparator = 0;
 			
 			// aapt resource value: 2131492874
 			public static int icon = 2131492874;
@@ -2225,10 +2227,16 @@ namespace Proj_4_Guardians
 			public static int TxtBenaming = 0;
 			
 			// aapt resource value: 0
+			public static int TxtInfo = 0;
+			
+			// aapt resource value: 0
 			public static int TxtMap = 0;
 			
 			// aapt resource value: 0
 			public static int txtMenu = 0;
+			
+			// aapt resource value: 0
+			public static int TxtNaam = 0;
 			
 			// aapt resource value: 0
 			public static int txtv3 = 0;

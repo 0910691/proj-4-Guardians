@@ -11,6 +11,7 @@ public class MenuOverlay
 	static {
 		__md_methods = 
 			"n_onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:GetOnCreateView_Landroid_view_LayoutInflater_Landroid_view_ViewGroup_Landroid_os_Bundle_Handler\n" +
+			"n_onActivityCreated:(Landroid/os/Bundle;)V:GetOnActivityCreated_Landroid_os_Bundle_Handler\n" +
 			"";
 		mono.android.Runtime.register ("Proj_4_Guardians.MenuOverlay, Proj-4-Guardians", MenuOverlay.class, __md_methods);
 	}
@@ -30,6 +31,14 @@ public class MenuOverlay
 	}
 
 	private native android.view.View n_onCreateView (android.view.LayoutInflater p0, android.view.ViewGroup p1, android.os.Bundle p2);
+
+
+	public void onActivityCreated (android.os.Bundle p0)
+	{
+		n_onActivityCreated (p0);
+	}
+
+	private native void n_onActivityCreated (android.os.Bundle p0);
 
 	private java.util.ArrayList refList;
 	public void monodroidAddReference (java.lang.Object obj)
