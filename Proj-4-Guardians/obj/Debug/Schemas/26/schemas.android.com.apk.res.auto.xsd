@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v26</xs:documentation>
-    <xs:documentation>25-5-2018 12:09:18</xs:documentation>
+    <xs:documentation>30-5-2018 14:25:52</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -157,6 +157,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -173,6 +175,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -753,6 +756,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -769,6 +774,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -1279,6 +1285,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -1295,6 +1303,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -1947,6 +1956,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -1963,6 +1974,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -2630,6 +2642,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -2646,6 +2660,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -3198,6 +3213,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -3214,6 +3231,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -3724,6 +3742,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -3740,6 +3760,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -4250,6 +4271,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -4266,6 +4289,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -4776,6 +4800,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -4792,6 +4818,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -5302,6 +5329,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -5318,6 +5347,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -5940,6 +5970,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -5956,6 +5988,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -6887,6 +6920,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -6903,6 +6938,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -7425,6 +7461,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -7441,6 +7479,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -8063,6 +8102,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -8079,6 +8120,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -8589,6 +8631,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -8605,6 +8649,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -9280,6 +9325,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -9296,6 +9343,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -9818,6 +9866,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -9834,6 +9884,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -10512,6 +10563,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -10528,6 +10581,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -11352,6 +11406,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -11368,6 +11424,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -13176,6 +13233,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -13192,6 +13251,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -13870,6 +13930,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -13886,6 +13948,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
@@ -14583,6 +14646,8 @@
             <xs:enumeration value="@drawable/drink_bottle" />
             <xs:enumeration value="@drawable/electric" />
             <xs:enumeration value="@drawable/glas" />
+            <xs:enumeration value="@drawable/imagebackground" />
+            <xs:enumeration value="@drawable/menu" />
             <xs:enumeration value="@drawable/notification_action_background" />
             <xs:enumeration value="@drawable/notification_bg" />
             <xs:enumeration value="@drawable/notification_bg_low" />
@@ -14599,6 +14664,7 @@
             <xs:enumeration value="@drawable/questionmark" />
             <xs:enumeration value="@drawable/recycle" />
             <xs:enumeration value="@drawable/roundbutton" />
+            <xs:enumeration value="@drawable/roundimagebutton" />
             <xs:enumeration value="@drawable/tooltip_frame_dark" />
             <xs:enumeration value="@drawable/tooltip_frame_light" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
