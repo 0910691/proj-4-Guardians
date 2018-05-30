@@ -12,6 +12,7 @@ namespace Proj_4_Guardians
     {
         private TextView TxtMainInfo;
         private Button BtnInfo;
+        private Button BtnMap;
         private ImageButton BtnMenu;
         private string DataToDisplay;
         private string DataToCheck;
@@ -50,6 +51,9 @@ namespace Proj_4_Guardians
 
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
             BtnMenu.Click += BtnMenu_Click;
+
+            BtnMap = FindViewById<Button>(Resource.Id.BtnMap);
+            BtnMap.Click += BtnMap_Click;
         }
 
         private void BtnMenu_Click(object sender, EventArgs e)
@@ -65,6 +69,13 @@ namespace Proj_4_Guardians
             FragmentTransaction transaction = FragmentManager.BeginTransaction();
             InfoOverlay infoOverlay = new InfoOverlay();
             infoOverlay.Show(transaction, "Extra info");
+        }
+
+        private void BtnMap_Click(object sender, EventArgs e)
+        {
+            var geoUri = Android.Net.Uri.Parse("geo:51.93073923,4.507137499");
+            var mapIntent = new Intent(Intent.ActionView, geoUri);
+            StartActivity(mapIntent);
         }
     }
 }

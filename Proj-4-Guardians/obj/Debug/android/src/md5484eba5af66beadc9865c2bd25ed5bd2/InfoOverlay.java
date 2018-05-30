@@ -1,7 +1,7 @@
-package md54b24830816bce52ca58283b5236fcbb4;
+package md5484eba5af66beadc9865c2bd25ed5bd2;
 
 
-public class MenuOverlay
+public class InfoOverlay
 	extends android.app.DialogFragment
 	implements
 		mono.android.IGCUserPeer
@@ -13,15 +13,15 @@ public class MenuOverlay
 			"n_onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:GetOnCreateView_Landroid_view_LayoutInflater_Landroid_view_ViewGroup_Landroid_os_Bundle_Handler\n" +
 			"n_onActivityCreated:(Landroid/os/Bundle;)V:GetOnActivityCreated_Landroid_os_Bundle_Handler\n" +
 			"";
-		mono.android.Runtime.register ("Proj_4_Guardians.MenuOverlay, Proj-4-Guardians", MenuOverlay.class, __md_methods);
+		mono.android.Runtime.register ("Proj_4_Guardians.InfoOverlay, Proj-4-Guardians, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", InfoOverlay.class, __md_methods);
 	}
 
 
-	public MenuOverlay ()
+	public InfoOverlay ()
 	{
 		super ();
-		if (getClass () == MenuOverlay.class)
-			mono.android.TypeManager.Activate ("Proj_4_Guardians.MenuOverlay, Proj-4-Guardians", "", this, new java.lang.Object[] {  });
+		if (getClass () == InfoOverlay.class)
+			mono.android.TypeManager.Activate ("Proj_4_Guardians.InfoOverlay, Proj-4-Guardians, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

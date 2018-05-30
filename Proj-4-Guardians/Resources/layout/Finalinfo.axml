@@ -62,5 +62,10 @@
             android:id="@+id/TxtMap"
             android:textColor="#000"
             android:textAlignment="center" />
+        <Button
+            android:text="Klik hier om naar de map te gaan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/BtnMap" />
     </TableLayout>
 </LinearLayout>

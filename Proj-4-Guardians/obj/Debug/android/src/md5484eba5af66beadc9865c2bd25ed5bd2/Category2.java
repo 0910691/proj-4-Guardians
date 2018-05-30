@@ -1,4 +1,4 @@
-package md54b24830816bce52ca58283b5236fcbb4;
+package md5484eba5af66beadc9865c2bd25ed5bd2;
 
 
 public class Category2
@@ -12,7 +12,7 @@ public class Category2
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"";
-		mono.android.Runtime.register ("Proj_4_Guardians.Category2, Proj-4-Guardians", Category2.class, __md_methods);
+		mono.android.Runtime.register ("Proj_4_Guardians.Category2, Proj-4-Guardians, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", Category2.class, __md_methods);
 	}
 
 
@@ -20,7 +20,7 @@ public class Category2
 	{
 		super ();
 		if (getClass () == Category2.class)
-			mono.android.TypeManager.Activate ("Proj_4_Guardians.Category2, Proj-4-Guardians", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Proj_4_Guardians.Category2, Proj-4-Guardians, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

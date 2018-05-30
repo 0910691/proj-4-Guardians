@@ -1,7 +1,7 @@
-package md54b24830816bce52ca58283b5236fcbb4;
+package md5484eba5af66beadc9865c2bd25ed5bd2;
 
 
-public class Finalinfo
+public class MainActivity
 	extends android.app.Activity
 	implements
 		mono.android.IGCUserPeer
@@ -12,15 +12,15 @@ public class Finalinfo
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"";
-		mono.android.Runtime.register ("Proj_4_Guardians.Finalinfo, Proj-4-Guardians", Finalinfo.class, __md_methods);
+		mono.android.Runtime.register ("Proj_4_Guardians.MainActivity, Proj-4-Guardians, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", MainActivity.class, __md_methods);
 	}
 
 
-	public Finalinfo ()
+	public MainActivity ()
 	{
 		super ();
-		if (getClass () == Finalinfo.class)
-			mono.android.TypeManager.Activate ("Proj_4_Guardians.Finalinfo, Proj-4-Guardians", "", this, new java.lang.Object[] {  });
+		if (getClass () == MainActivity.class)
+			mono.android.TypeManager.Activate ("Proj_4_Guardians.MainActivity, Proj-4-Guardians, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 
