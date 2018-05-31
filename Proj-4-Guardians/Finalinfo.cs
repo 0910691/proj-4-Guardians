@@ -47,12 +47,11 @@ namespace Proj_4_Guardians
 
             // ↓ klikfuncties ↓
             BtnInfo = FindViewById<Button>(Resource.Id.BtnInfo);
-            BtnInfo.Click += BtnInfo_Click;
-
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
-            BtnMenu.Click += BtnMenu_Click;
-
             BtnMap = FindViewById<Button>(Resource.Id.BtnMap);
+
+            BtnInfo.Click += BtnInfo_Click;
+            BtnMenu.Click += BtnMenu_Click;
             BtnMap.Click += BtnMap_Click;
         }
 
@@ -73,7 +72,7 @@ namespace Proj_4_Guardians
 
         private void BtnMap_Click(object sender, EventArgs e)
         {
-            var geoUri = Android.Net.Uri.Parse("geo:51.93073923,4.507137499");
+            var geoUri = Android.Net.Uri.Parse("geo:51.93073923,4.507137499,z1");
             var mapIntent = new Intent(Intent.ActionView, geoUri);
             StartActivity(mapIntent);
         }

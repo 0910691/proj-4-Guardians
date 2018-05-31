@@ -97,6 +97,7 @@
   <ItemGroup>
     <Compile Include="Category.cs" />
     <Compile Include="Category2.cs" />
+    <Compile Include="Database\DB.cs" />
     <Compile Include="Finalinfo.cs" />
     <Compile Include="InfoOverlay.cs" />
     <Compile Include="MainActivity.cs" />
@@ -132,6 +133,7 @@
     </AndroidResource>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Items\" />
     <Folder Include="Resources\mipmap-hdpi\" />
     <Folder Include="Resources\mipmap-mdpi\" />
     <Folder Include="Resources\mipmap-xhdpi\" />

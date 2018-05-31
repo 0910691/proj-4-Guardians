@@ -4,6 +4,9 @@ using Android.OS;
 using Android.Content;
 using System;
 
+using Proj_4_Guardians.Database;
+using System.Linq;
+
 namespace Proj_4_Guardians
 {
     [Activity(Label = "Recycler", MainLauncher = true, Icon = "@drawable/Recycle")]
@@ -25,12 +28,11 @@ namespace Proj_4_Guardians
             ActionBar.Hide();
 
             mBtnRecycle = FindViewById<ImageButton>(Resource.Id.ImbRecycle);
-            mBtnRecycle.Click += MBtnRecycle_Click;
-
             Search = FindViewById<SearchView>(Resource.Id.ScvZoekMain);
-            Search.SetQueryHint("Papier, Plastic, Glas");
-
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
+
+            mBtnRecycle.Click += MBtnRecycle_Click;
+            Search.SetQueryHint("Papier, Plastic, Glas");
             BtnMenu.Click += BtnMenu_Click;           
         }
 

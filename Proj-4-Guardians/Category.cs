@@ -27,18 +27,15 @@ namespace Proj_4_Guardians
 
             // ↓ klikfuncties ↓
             mBtnDrank = FindViewById<ImageButton>(Resource.Id.ImbDrank);
-            mBtnDrank.Click += MBtnDrank_Click;
-
             mBtnPapier = FindViewById<ImageButton>(Resource.Id.ImbPapier);
-            mBtnPapier.Click += MBtnPapier_Click;
-
             mBtnElektro = FindViewById<ImageButton>(Resource.Id.ImbElektro);
-            mBtnElektro.Click += MBtnElektro_Click;
-
             mBtnAnders = FindViewById<ImageButton>(Resource.Id.ImbAnders);
-            mBtnAnders.Click += MBtnAnders_Click;
-
             mBtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
+
+            mBtnDrank.Click += MBtnDrank_Click;
+            mBtnPapier.Click += MBtnPapier_Click;
+            mBtnElektro.Click += MBtnElektro_Click;
+            mBtnAnders.Click += MBtnAnders_Click;
             mBtnMenu.Click += BtnMenu_Click;
         }
 

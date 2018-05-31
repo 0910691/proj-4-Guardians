@@ -37,13 +37,13 @@
         <View
             android:id="@+id/Searchseparator"
             android:layout_width="fill_parent"
-            android:layout_height="1dp"
-            android:layout_weight="0.005"
+            android:layout_height="5dp"
+            android:layout_weight="0.05"
             android:background="#000" />
         <TableLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="0.895">
+            android:layout_weight="0.85">
             <TableRow
                 android:layout_width="fill_parent"
                 android:layout_height="0dp"
