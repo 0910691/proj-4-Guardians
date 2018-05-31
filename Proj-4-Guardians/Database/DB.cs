@@ -17,7 +17,7 @@ namespace Proj_4_Guardians.Database
 {
     class DB
     {
-        //string k = "SQLite.Net.SQLiteConnection";
+        string k = "SQLite.Net.SQLiteConnection";
         private SQLiteConnection DbConn;
 
         #region Connection
@@ -26,8 +26,8 @@ namespace Proj_4_Guardians.Database
             string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "recycler.db3");
 
             // sqlite connection
-            //DbConn = new SQLiteConnection(dbPath);
-            DbConn = new SQLiteConnection(null, dbPath);
+            DbConn = new SQLiteConnection(dbPath);
+            //DbConn = new SQLiteConnection(null, dbPath);
         }
 
         public SQLiteConnection Conn()

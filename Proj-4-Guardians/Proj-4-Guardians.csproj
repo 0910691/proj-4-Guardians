@@ -129,6 +129,7 @@
     <AndroidResource Include="Resources\layout\Achievement_Reward.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
+    <AndroidResource Include="Resources\raw\recycler.db3" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml">
