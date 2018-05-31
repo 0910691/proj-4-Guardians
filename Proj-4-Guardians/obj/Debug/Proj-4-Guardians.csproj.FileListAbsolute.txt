@@ -476,6 +476,9 @@ D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\res\drawable\roundimagebutton.xml
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\R.cs.flag
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\uploadflags.txt
+D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\bin\Debug\SQLite.Net.dll
+D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\Proj-4-Guardians.csprojResolveAssemblyReference.cache
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\bin\Debug\Mono.Android.pdb
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\bin\Debug\mscorlib.pdb

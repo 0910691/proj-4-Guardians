@@ -2,6 +2,8 @@ D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\Java.Interop.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\Mono.Android.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\mscorlib.dll
+D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\SQLite.Net.dll
+D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\SQLite.Net.Platform.XamarinAndroid.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\System.Core.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\System.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.dll
@@ -32,5 +34,8 @@ D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\System.Net.Http.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Serialization.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\System.Linq.Expressions.dll
+D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\System.Globalization.dll
+D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\System.Text.Encoding.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\Mono.Security.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\android\assets\System.ComponentModel.Composition.dll
