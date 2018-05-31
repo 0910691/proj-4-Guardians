@@ -15,6 +15,7 @@ namespace Proj_4_Guardians
         private ImageButton mBtnRecycle;
         private ImageButton BtnMenu;
         private SearchView Search;
+        private EditText mEditText;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -28,12 +29,19 @@ namespace Proj_4_Guardians
             ActionBar.Hide();
 
             mBtnRecycle = FindViewById<ImageButton>(Resource.Id.ImbRecycle);
-            Search = FindViewById<SearchView>(Resource.Id.ScvZoekMain);
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
+            Search = FindViewById<SearchView>(Resource.Id.ScvZoekMain);
+            mEditText = FindViewById<EditText>(Resource.Id.EdtBarcode);
 
+            Search.SearchClick += Search_SearchClick;
             mBtnRecycle.Click += MBtnRecycle_Click;
             Search.SetQueryHint("Papier, Plastic, Glas");
             BtnMenu.Click += BtnMenu_Click;           
+        }
+
+        private void Search_SearchClick(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         private void BtnMenu_Click(object sender, EventArgs e)

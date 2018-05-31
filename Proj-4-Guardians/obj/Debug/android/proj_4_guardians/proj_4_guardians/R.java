@@ -2391,6 +2391,8 @@ containing a value of this type.
         public static final int zoeken=0x7f030036;
     }
     public static final class string {
+        public static final int ApplicationName=0x7f070020;
+        public static final int Hello=0x7f07001f;
         public static final int abc_action_bar_home_description=0x7f070000;
         public static final int abc_action_bar_up_description=0x7f070001;
         public static final int abc_action_menu_overflow_description=0x7f070002;
@@ -2420,7 +2422,7 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f07000e;
         public static final int abc_shareactionprovider_share_with_application=0x7f07000f;
         public static final int abc_toolbar_collapse_description=0x7f070010;
-        public static final int app_name=0x7f07001f;
+        public static final int app_name=0x7f070021;
         public static final int search_menu_title=0x7f070011;
         public static final int status_bar_notification_info_overflow=0x7f07001e;
     }

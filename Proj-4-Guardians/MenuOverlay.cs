@@ -28,10 +28,8 @@ namespace Proj_4_Guardians
 
         private void MBtnMenu_Click(object sender, EventArgs e)
         {
-            //Intent intent = new Intent(this, typeof(MainActivity));
-            //StartActivity(intent);
-            this.Dismiss();
-
+            Intent intent = new Intent(this.Activity, typeof(MainActivity));
+            StartActivity(intent);
         }
 
         public override void OnActivityCreated(Bundle savedInstanceState)

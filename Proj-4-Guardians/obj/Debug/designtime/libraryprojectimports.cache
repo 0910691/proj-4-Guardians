@@ -16,14 +16,18 @@
     <Jar>D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\lp\9\jl\bin\classes.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\lp\15\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\lp\6\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\lp\10\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\lp\11\jl\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\lp\12\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
-  <ResolvedAssetDirectories />
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\lp\15\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\lp\15.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\lp\6.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\lp\10.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>D:\menno\Documenten\School\GitHub\Repositories\Project4_V3\Proj-4-Guardians\obj\Debug\lp\11.stamp</ResolvedResourceDirectoryStamp>

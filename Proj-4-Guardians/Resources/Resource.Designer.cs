@@ -26,6 +26,8 @@ namespace Proj_4_Guardians
 		
 		public static void UpdateIdValues()
 		{
+			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.ApplicationName = global::Proj_4_Guardians.Resource.String.ApplicationName;
+			global::SQLite.Net.Platform.XamarinAndroid.Resource.String.Hello = global::Proj_4_Guardians.Resource.String.Hello;
 		}
 		
 		public partial class Animation
@@ -2554,6 +2556,12 @@ namespace Proj_4_Guardians
 		public partial class String
 		{
 			
+			// aapt resource value: 0x7f070020
+			public const int ApplicationName = 2131165216;
+			
+			// aapt resource value: 0x7f07001f
+			public const int Hello = 2131165215;
+			
 			// aapt resource value: 0x7f070000
 			public const int abc_action_bar_home_description = 2131165184;
 			
@@ -2641,8 +2649,8 @@ namespace Proj_4_Guardians
 			// aapt resource value: 0x7f070010
 			public const int abc_toolbar_collapse_description = 2131165200;
 			
-			// aapt resource value: 0x7f07001f
-			public const int app_name = 2131165215;
+			// aapt resource value: 0x7f070021
+			public const int app_name = 2131165217;
 			
 			// aapt resource value: 0x7f070011
 			public const int search_menu_title = 2131165201;
