@@ -1,9 +1,10 @@
 ﻿using System;
-
+using System.Collections.Generic;
 using Android.App;
 using Android.Content;
 using Android.OS;
 using Android.Widget;
+using Proj_4_Guardians.Database;
 
 namespace Proj_4_Guardians
 {
@@ -29,12 +30,17 @@ namespace Proj_4_Guardians
                 Intent intent = new Intent(this, typeof(MainActivity));
                 StartActivity(intent);
             }
+            string Cat2 = Intent.GetStringExtra("Category2");
+            string Second = Intent.GetStringExtra("Search");
+            DB Data = new DB();
+            IEnumerable<afvalsoort> Query;
+            Query = Data.SelectFrom<afvalsoort>("select afvaltitel from afvalsoort where categorie =? ", Cat2);
+            //Query = Data.SelectFrom<afvalproduct>("select * from afvalproduct where");
 
             TxtMainInfo = FindViewById<TextView>(Resource.Id.TxtBenaming);
             // execute a sql search with the data provided by Intent
             // plaats sql benaming in de TxtMainInfo
-            TxtMainInfo.Text = "benaming uit database";
-            
+            TxtMainInfo.Text = Query.ToString();
             
             DataToDisplay = Intent.GetStringExtra("Category2").ToUpper();
             //DataToCheck = //moet verkregen worden met een sql-statement, mogelijk tegelijk met het ophalen van de info voor de titel.
@@ -44,7 +50,6 @@ namespace Proj_4_Guardians
                 // dan moet nu het scherm gevuld worden met de betreffende info
 
             }
-
             // ↓ klikfuncties ↓
             BtnInfo = FindViewById<Button>(Resource.Id.BtnInfo);
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);

@@ -54,14 +54,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/BtnInfo" />
-        <TextView
-            android:text="Hier moet de map komen"
-            android:textAppearance="?android:attr/textAppearanceLarge"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/TxtMap"
-            android:textColor="#000"
-            android:textAlignment="center" />
+        <View
+            android:id="@+id/Separator"
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="@drawable/appbackground" />
         <Button
             android:text="Klik hier om naar de map te gaan"
             android:layout_width="match_parent"

@@ -11,13 +11,12 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using SQLite; // sqlite niet goed geïnstalleerd?
-using SQLite.Net;
 
 namespace Proj_4_Guardians.Database
 {
     class DB
     {
-        string k = "SQLite.Net.SQLiteConnection";
+        //string k = "SQLite.Net.SQLiteConnection";
         private SQLiteConnection DbConn;
 
         #region Connection
