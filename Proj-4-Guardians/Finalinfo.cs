@@ -72,7 +72,10 @@ namespace Proj_4_Guardians
 
         private void BtnMap_Click(object sender, EventArgs e)
         {
-            var geoUri = Android.Net.Uri.Parse("geo:51.93073923,4.507137499,z1");
+            //var school = Android.Net.Uri.Parse("geo:0,0?q=51.901797,4.416193,z19(Locatie)");
+            var geoUri = Android.Net.Uri.Parse("geo:0,0?q=51.93073923,4.507137499?z=19(prullebak)");
+            //var j = new var[] {school, geoUri };
+            //var geoUri = Android.Net.Uri.Parse("geo:51.93073923,4.507137499,z1");
             var mapIntent = new Intent(Intent.ActionView, geoUri);
             StartActivity(mapIntent);
         }
