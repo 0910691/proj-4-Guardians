@@ -33,6 +33,10 @@ namespace Proj_4_Guardians
             string Cat2 = Intent.GetStringExtra("Category2");
             string Second = Intent.GetStringExtra("Search");
             DB Data = new DB();
+            if (Cat2 != null)
+            {
+
+            }
             IEnumerable<afvalsoort> Query;
             Query = Data.SelectFrom<afvalsoort>("select afvaltitel from afvalsoort where categorie =? ", Cat2);
             //Query = Data.SelectFrom<afvalproduct>("select * from afvalproduct where");
