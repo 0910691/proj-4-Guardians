@@ -1961,6 +1961,9 @@ namespace Proj_4_Guardians
 			public static int BtnInfo = 0;
 			
 			// aapt resource value: 0
+			public static int BtnMap = 0;
+			
+			// aapt resource value: 0
 			public static int btnMenu = 0;
 			
 			// aapt resource value: 0
@@ -2167,6 +2170,9 @@ namespace Proj_4_Guardians
 			// aapt resource value: 2131492937
 			public static int select_dialog_listview = 2131492937;
 			
+			// aapt resource value: 0
+			public static int Separator = 0;
+			
 			// aapt resource value: 2131492938
 			public static int shortcut = 2131492938;
 			
@@ -2232,9 +2238,6 @@ namespace Proj_4_Guardians
 			
 			// aapt resource value: 0
 			public static int TxtInfo = 0;
-			
-			// aapt resource value: 0
-			public static int TxtMap = 0;
 			
 			// aapt resource value: 0
 			public static int txtMenu = 0;
@@ -2481,6 +2484,22 @@ namespace Proj_4_Guardians
 			}
 			
 			private Layout()
+			{
+			}
+		}
+		
+		public partial class Raw
+		{
+			
+			// aapt resource value: 0
+			public static int recycler = 0;
+			
+			static Raw()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Raw()
 			{
 			}
 		}

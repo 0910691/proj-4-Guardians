@@ -2193,9 +2193,9 @@ containing a value of this type.
         public static int SYM=0x7f07002a;
         public static int ScvZoekMain=0x7f070069;
         public static int Searchseparator=0x7f07006a;
+        public static int Separator=0x7f07007a;
         public static int TxtBenaming=0x7f070078;
         public static int TxtInfo=0x7f070077;
-        public static int TxtMap=0x7f07007a;
         public static int TxtNaam=0x7f070075;
         public static int TxvAnders=0x7f070072;
         public static int TxvDrank=0x7f07006c;

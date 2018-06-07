@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,7 @@ namespace Proj_4_Guardians
     class MenuOverlay:DialogFragment
     {
         private Button mBtnMenu;
+        private Button second;
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
             base.OnCreateView(inflater, container, savedInstanceState);
@@ -23,7 +25,13 @@ namespace Proj_4_Guardians
             mBtnMenu = view.FindViewById<Button>(Resource.Id.btnMenu);
             mBtnMenu.Click += MBtnMenu_Click;
 
+            second = view.FindViewById<Button>(Resource.Id.button2);
+            second.Click += Second_Click;
             return view;
+        }
+
+        private void Second_Click(object sender, EventArgs e)
+        {
         }
 
         private void MBtnMenu_Click(object sender, EventArgs e)

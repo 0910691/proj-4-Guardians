@@ -1,5 +1,6 @@
 ﻿using System;
-
+using System.IO;
+using System.Collections.Generic;
 using Android.App;
 using Android.Content;
 using Android.OS;
@@ -21,6 +22,7 @@ namespace Proj_4_Guardians
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Category);
             ActionBar.Hide();
+            List<afvalsoort> m_afvalsoort = MainActivity.m_afvalsoort;
 
             SearchView search = FindViewById<SearchView>(Resource.Id.ScvZoekMain);
             search.SetQueryHint("Papier, Plastic, Glas");

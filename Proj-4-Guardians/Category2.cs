@@ -50,6 +50,7 @@ namespace Proj_4_Guardians
         {
             Intent intent = new Intent(this, typeof(Finalinfo));
             intent.PutExtra("Category2", "plastic");
+            intent.PutExtra("Zoek", "glas");
             StartActivity(intent);
         }
 
