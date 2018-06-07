@@ -2149,6 +2149,9 @@ namespace Proj_4_Guardians
 			// aapt resource value: 0x7f07003d
 			public const int list_item = 2131165245;
 			
+			// aapt resource value: 0x7f070098
+			public const int lv = 2131165336;
+			
 			// aapt resource value: 0x7f070088
 			public const int media_actions = 2131165320;
 			
@@ -2277,6 +2280,9 @@ namespace Proj_4_Guardians
 			
 			// aapt resource value: 0x7f070063
 			public const int submit_area = 2131165283;
+			
+			// aapt resource value: 0x7f070097
+			public const int sv = 2131165335;
 			
 			// aapt resource value: 0x7f070012
 			public const int tabMode = 2131165202;

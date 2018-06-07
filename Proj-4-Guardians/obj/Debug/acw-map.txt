@@ -22,6 +22,10 @@ Proj_4_Guardians.MenuOverlay, Proj-4-Guardians;md5484eba5af66beadc9865c2bd25ed5b
 Proj_4_Guardians.MenuOverlay, Proj-4-Guardians, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5484eba5af66beadc9865c2bd25ed5bd2.MenuOverlay
 Proj_4_Guardians.MenuOverlay;md5484eba5af66beadc9865c2bd25ed5bd2.MenuOverlay
 proj_4_guardians.MenuOverlay;md5484eba5af66beadc9865c2bd25ed5bd2.MenuOverlay
+Proj_4_Guardians.Zoeken, Proj-4-Guardians;md5484eba5af66beadc9865c2bd25ed5bd2.Zoeken
+Proj_4_Guardians.Zoeken, Proj-4-Guardians, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5484eba5af66beadc9865c2bd25ed5bd2.Zoeken
+Proj_4_Guardians.Zoeken;md5484eba5af66beadc9865c2bd25ed5bd2.Zoeken
+proj_4_guardians.Zoeken;md5484eba5af66beadc9865c2bd25ed5bd2.Zoeken
 Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
 Android.Support.V4.View.ActionProvider+ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
 Android.Support.V4.View.ActionProvider.ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
