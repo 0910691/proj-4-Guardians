@@ -31,11 +31,9 @@ namespace Proj_4_Guardians
 
             _lv = FindViewById<ListView>(Resource.Id.lv);
             _sv = FindViewById<SearchView>(Resource.Id.sv);
+            _sv.SetQueryHint("Glas, Plastic, Papier, Elektronica");
 
-            //populateList();
-
-
-            _adapter = new ArrayAdapter(this, Android.Resource.Layout.SimpleListItem1, test());
+            _adapter = new ArrayAdapter(this, Android.Resource.Layout.SimpleListItem1, DataToList());
             _lv.Adapter = _adapter;
 
             _sv.QueryTextChange += _sv_QueryTextChange;
@@ -43,18 +41,15 @@ namespace Proj_4_Guardians
 
         }
 
-        public List<string> test()
+        public List<string> DataToList()
         {
             List<string> newlist = new List<string>();            
             // ↓voor de beschrijving van product↓
             foreach (var product in m_categorien)
             {                
-                //cat = product.name.ToLower();
-                newlist.Add(product.name.ToLower());
-                
+                newlist.Add(product.name.ToLower());                
             }
             return newlist;
-
         }
 
         void _lv_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
@@ -68,13 +63,6 @@ namespace Proj_4_Guardians
         {
             _adapter.Filter.InvokeFilter(e.NewText);
 
-
-        }
-
-        private void populateList()
-        {
-
-            m_categorien = MainActivity.m_categorien;
 
         }
     }

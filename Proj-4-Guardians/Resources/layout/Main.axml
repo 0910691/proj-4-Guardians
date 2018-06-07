@@ -29,11 +29,13 @@
                 android:layout_height="match_parent"
                 android:layout_width="3dp"
                 android:background="#000" />
-            <SearchView
+            <Button
                 android:layout_width="match_parent"
                 android:layout_weight="0.1"
-                android:id="@+id/ScvZoekMain"
-                android:background="#00f" />
+                android:id="@+id/BtnZoekMain"
+                android:background="@drawable/roundbutton"
+                android:text="Zoeken naar product"
+                android:textColor="#fff" />
         </TableRow>
         <View
             android:id="@+id/Searchseparator"
@@ -41,15 +43,6 @@
             android:layout_height="1dp"
             android:layout_weight="0.005"
             android:background="#000" />
-        <EditText
-            android:inputType="number"
-            android:id="@+id/EdtBarcode"
-            android:hint="Barcode van uw product"
-            android:textColor="#f00"
-            android:background="#00f"
-            android:layout_width="match_parent"
-            android:layout_weight="0.05"
-            android:paddingLeft="15dp" />
         <View
             android:id="@+id/Searchseparator"
             android:layout_width="fill_parent"

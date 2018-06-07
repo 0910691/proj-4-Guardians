@@ -13,6 +13,7 @@ namespace Proj_4_Guardians
         private ImageButton BtnMenu;
         private Button BtnFinal;
         private TextView testText;
+        private Button mBtnZoek;
         private string DataToDisplay;
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -39,11 +40,20 @@ namespace Proj_4_Guardians
             testText.Text = DataToDisplay;
 
             // ↓ klikfuncties ↓
+            mBtnZoek = FindViewById<Button>(Resource.Id.BtnZoekCat2);
+            mBtnZoek.Click += MBtnZoek_Click;
+
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
             BtnMenu.Click += BtnMenu_Click;
 
             BtnFinal = FindViewById<Button>(Resource.Id.Cat2But1);
             BtnFinal.Click += BtnFinal_Click;
+        }
+
+        private void MBtnZoek_Click(object sender, EventArgs e)
+        {
+            Intent intent = new Intent(this, typeof(Zoeken));
+            StartActivity(intent);
         }
 
         private void BtnFinal_Click(object sender, EventArgs e)

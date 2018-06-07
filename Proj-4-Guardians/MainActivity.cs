@@ -29,8 +29,7 @@ namespace Proj_4_Guardians
     {
         private ImageButton mBtnRecycle;
         private ImageButton BtnMenu;
-        private SearchView Search;
-        private EditText mBarcode;
+        private Button Search;
 
         // voor de db
         private DatabaseHelper m_databasehelper = new DatabaseHelper();
@@ -57,35 +56,17 @@ namespace Proj_4_Guardians
 
             mBtnRecycle = FindViewById<ImageButton>(Resource.Id.ImbRecycle);
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
-            Search = FindViewById<SearchView>(Resource.Id.ScvZoekMain);
-            mBarcode = FindViewById<EditText>(Resource.Id.EdtBarcode);
-
-            // controleren of er 13 getallen in de editText staan, zo ja dan wat doen
-            mBarcode.TextChanged += (s, e) =>
-            {
-                string UserCode = mBarcode.ToString();
-                // check if barcode is long enough
-                if (UserCode.Length < 13)
-                {
-                    Toast.MakeText(this, "De gegeven barcode is niet lang genoeg!", ToastLength.Short).Show();
-                }
-                else if ( UserCode.Length == 13)
-                {
-                    // Compare user barcode to database barcode's
-                }
-                else
-                {
-                    Toast.MakeText(this, "De gegeven barcode is te lang!", ToastLength.Short).Show();
-                }
-            };
-
-            Search.Close += (s, e) =>
-            {
-                
-            };
+            Search = FindViewById<Button>(Resource.Id.BtnZoekMain);
+                        
             mBtnRecycle.Click += MBtnRecycle_Click;
-            Search.SetQueryHint("Papier, Plastic, Glas");
-            BtnMenu.Click += BtnMenu_Click;           
+            BtnMenu.Click += BtnMenu_Click;
+            Search.Click += Search_Click;
+        }
+
+        private void Search_Click(object sender, EventArgs e)
+        {
+            Intent intent = new Intent(this, typeof(Zoeken));
+            StartActivity(intent);
         }
 
         #region data laden uit json

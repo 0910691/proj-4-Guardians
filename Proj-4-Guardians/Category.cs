@@ -16,6 +16,7 @@ namespace Proj_4_Guardians
         private ImageButton mBtnElektro;
         private ImageButton mBtnAnders;
         private ImageButton mBtnMenu;
+        private Button mBtnZoek;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -24,8 +25,7 @@ namespace Proj_4_Guardians
             ActionBar.Hide();
             List<afvalsoort> m_afvalsoort = MainActivity.m_afvalsoort;
 
-            SearchView search = FindViewById<SearchView>(Resource.Id.ScvZoekMain);
-            search.SetQueryHint("Papier, Plastic, Glas");
+            mBtnZoek = FindViewById<Button>(Resource.Id.BtnZoekCat);
 
             // ↓ klikfuncties ↓
             mBtnDrank = FindViewById<ImageButton>(Resource.Id.ImbDrank);
@@ -39,6 +39,13 @@ namespace Proj_4_Guardians
             mBtnElektro.Click += MBtnElektro_Click;
             mBtnAnders.Click += MBtnAnders_Click;
             mBtnMenu.Click += BtnMenu_Click;
+            mBtnZoek.Click += MBtnZoek_Click;
+        }
+
+        private void MBtnZoek_Click(object sender, EventArgs e)
+        {
+            Intent intent = new Intent(this, typeof(Zoeken));
+            StartActivity(intent);
         }
 
         private void MBtnAnders_Click(object sender, EventArgs e)

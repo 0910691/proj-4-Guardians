@@ -13,6 +13,7 @@ namespace Proj_4_Guardians
         private TextView TxtMainInfo;
         private Button BtnInfo;
         private Button BtnMap;
+        private Button mBtnZoek;
         private ImageButton BtnMenu;
         private string DataToDisplay;
         private string DataToCheck;
@@ -94,14 +95,22 @@ namespace Proj_4_Guardians
             }
 
             #region KlikFuncties
+            mBtnZoek = FindViewById<Button>(Resource.Id.BtnZoekFin);
             BtnInfo = FindViewById<Button>(Resource.Id.BtnInfo);
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
             BtnMap = FindViewById<Button>(Resource.Id.BtnMap);
 
+            mBtnZoek.Click += MBtnZoek_Click;
             BtnInfo.Click += BtnInfo_Click;
             BtnMenu.Click += BtnMenu_Click;
             BtnMap.Click += BtnMap_Click;
             #endregion
+        }
+
+        private void MBtnZoek_Click(object sender, EventArgs e)
+        {
+            Intent intent = new Intent(this, typeof(Zoeken));
+            StartActivity(intent);
         }
         #region Knoppen
         private void BtnMenu_Click(object sender, EventArgs e)

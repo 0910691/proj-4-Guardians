@@ -16,7 +16,7 @@ namespace Proj_4_Guardians
     class MenuOverlay:DialogFragment
     {
         private Button mBtnMenu;
-        private Button second;
+        private Button mBtnZoek;
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
             base.OnCreateView(inflater, container, savedInstanceState);
@@ -25,12 +25,13 @@ namespace Proj_4_Guardians
             mBtnMenu = view.FindViewById<Button>(Resource.Id.btnMenu);
             mBtnMenu.Click += MBtnMenu_Click;
 
-            second = view.FindViewById<Button>(Resource.Id.button2);
-            second.Click += Second_Click;
+            mBtnZoek = view.FindViewById<Button>(Resource.Id.button2);
+            mBtnZoek.Text = "Zoeken";
+            mBtnZoek.Click += mBtnZoek_Click;
             return view;
         }
 
-        private void Second_Click(object sender, EventArgs e)
+        private void mBtnZoek_Click(object sender, EventArgs e)
         {
             Intent intent = new Intent(this.Activity, typeof(Zoeken));
             StartActivity(intent);

@@ -29,11 +29,13 @@
                 android:layout_height="match_parent"
                 android:layout_width="3dp"
                 android:background="#000" />
-            <SearchView
-                android:layout_width="fill_parent"
+            <Button
+                android:layout_width="match_parent"
                 android:layout_weight="0.1"
-                android:id="@+id/ScvZoekMain"
-                android:background="#00f" />
+                android:id="@+id/BtnZoekFin"
+                android:background="@drawable/roundbutton"
+                android:text="Zoeken naar product"
+                android:textColor="#fff" />
         </TableRow>
         <View
             android:id="@+id/Searchseparator"
