@@ -27,17 +27,33 @@ namespace Proj_4_Guardians
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Zoeken);
             ActionBar.Hide();
+            m_categorien = MainActivity.m_categorien;
 
             _lv = FindViewById<ListView>(Resource.Id.lv);
             _sv = FindViewById<SearchView>(Resource.Id.sv);
 
-            populateList();
+            //populateList();
 
-            _adapter = new ArrayAdapter(this, Android.Resource.Layout.SimpleListItem1, m_categorien);
+
+            _adapter = new ArrayAdapter(this, Android.Resource.Layout.SimpleListItem1, test());
             _lv.Adapter = _adapter;
 
             _sv.QueryTextChange += _sv_QueryTextChange;
             _lv.ItemClick += _lv_ItemClick;
+
+        }
+
+        public List<string> test()
+        {
+            List<string> newlist = new List<string>();            
+            // ↓voor de beschrijving van product↓
+            foreach (var product in m_categorien)
+            {                
+                //cat = product.name.ToLower();
+                newlist.Add(product.name.ToLower());
+                
+            }
+            return newlist;
 
         }
 

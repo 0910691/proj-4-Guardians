@@ -16,6 +16,11 @@ using Newtonsoft.Json;
  * product.json afmaken met behulp van macro-keys
  * FinalInfo moet gegevens krijgen na het zoeken en vergelijken met de opgehaalde lijsten
  * zoekfunctie maken
+ * Zoekbalken vervangen door een knop naar Zoeken.cs
+ * in zoeken menu toevoegen
+ * barcode verwijderen
+ * kleuren aanpassen
+ * voorbeelden om te selecteren
 */
 namespace Proj_4_Guardians
 {
