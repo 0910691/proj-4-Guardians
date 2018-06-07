@@ -171,7 +171,7 @@ namespace Proj_4_Guardians
 
         private void MBtnRecycle_Click(object sender, EventArgs e)
         {
-            Intent intent = new Intent(this, typeof(Zoeken));
+            Intent intent = new Intent(this, typeof(Category));
             StartActivity(intent);
         }
         #endregion

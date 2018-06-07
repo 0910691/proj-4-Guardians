@@ -32,6 +32,8 @@ namespace Proj_4_Guardians
 
         private void Second_Click(object sender, EventArgs e)
         {
+            Intent intent = new Intent(this.Activity, typeof(Zoeken));
+            StartActivity(intent);
         }
 
         private void MBtnMenu_Click(object sender, EventArgs e)

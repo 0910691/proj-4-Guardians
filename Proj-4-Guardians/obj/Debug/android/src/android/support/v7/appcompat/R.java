@@ -2263,6 +2263,7 @@ containing a value of this type.
         public static int line3=0x7f07000b;
         public static int listMode=0x7f070010;
         public static int list_item=0x7f07003d;
+        public static int lv=0x7f070098;
         public static int media_actions=0x7f070088;
         public static int message=0x7f070096;
         public static int middle=0x7f070024;
@@ -2306,6 +2307,7 @@ containing a value of this type.
         public static int status_bar_latest_event_content=0x7f070087;
         public static int submenuarrow=0x7f070052;
         public static int submit_area=0x7f070063;
+        public static int sv=0x7f070097;
         public static int tabMode=0x7f070012;
         public static int tag_transition_group=0x7f07000c;
         public static int text=0x7f07000d;
