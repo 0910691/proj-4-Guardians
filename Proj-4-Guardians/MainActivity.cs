@@ -44,14 +44,14 @@ namespace Proj_4_Guardians
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Main);
             ActionBar.Hide();
-            LoadCategorieData(Assets.Open("categorie.json"));
-            m_categorien = m_databasehelper.Connection.Table<categorie>().ToList();
+            //LoadCategorieData(Assets.Open("categorie.json"));
+            //m_categorien = m_databasehelper.Connection.Table<categorie>().ToList();
             LoadLocatieData(Assets.Open("locaties.json"));
             m_locaties = m_databasehelper.Connection.Table<locatie>().ToList();
-            LoadAfvalsoortData(Assets.Open("soort.json"));
-            m_afvalsoort = m_databasehelper.Connection.Table<afvalsoort>().ToList();
-            LoadAfvalproductData(Assets.Open("prod.json"));
-            m_afvalproduct = m_databasehelper.Connection.Table<afvalproduct>().ToList();
+            //LoadAfvalsoortData(Assets.Open("soort.json"));
+            //m_afvalsoort = m_databasehelper.Connection.Table<afvalsoort>().ToList();
+            //LoadAfvalproductData(Assets.Open("prod.json"));
+            //m_afvalproduct = m_databasehelper.Connection.Table<afvalproduct>().ToList();
             
 
             mBtnRecycle = FindViewById<ImageButton>(Resource.Id.ImbRecycle);
