@@ -50,8 +50,8 @@ namespace Proj_4_Guardians
             m_locaties = m_databasehelper.Connection.Table<locatie>().ToList();
             LoadAfvalsoortData(Assets.Open("soort.json"));
             m_afvalsoort = m_databasehelper.Connection.Table<afvalsoort>().ToList();
-            //LoadAfvalproductData(Assets.Open("product.json"));
-            //m_afvalproduct = m_databasehelper.Connection.Table<afvalproduct>().ToList();
+            LoadAfvalproductData(Assets.Open("prod.json"));
+            m_afvalproduct = m_databasehelper.Connection.Table<afvalproduct>().ToList();
             
 
             mBtnRecycle = FindViewById<ImageButton>(Resource.Id.ImbRecycle);
@@ -120,7 +120,7 @@ namespace Proj_4_Guardians
             {
                 m_databasehelper.Connection.InsertOrReplace(new afvalsoort
                 {
-                    afvaltitel = soort.afvaltitel,
+                    afvaltitel = soort.afvaltitel,                    
                     loospunttitel = soort.loospunttitel,
                     categorie = soort.categorie,
                     toelichting = soort.toelichting

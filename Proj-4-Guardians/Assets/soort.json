@@ -1,578 +1,980 @@
 ﻿[
   {
-    "titel": "aanhangwagen",
-    "loospunt": "Milieustraat of autodemontagebedrijf",
+    "titelafval": "aanhangwagen",
+    "loospunttitel": "Milieustraat of autodemontagebedrijf",
     "categorie": "Overig afval",
     "toelichting": "Een aanhanger kan als oud-ijzer geld waard zijn. Autodemontagebedrijven kopen afgedankte aanhangwagens op. Vaak kunnen ze de aanhangwagen komen ophalen. Een aanhangwagen kan ook worden aangeboden bij de milieustraat van de gemeente. Als hij daar niet ingeleverd kan worden, moet de gemeente aangeven waar dit (eventueel tegen betaling) wel kan. Laat een aanganger met kentekenbewijs slopen bij een een RDW-erkend demontagebedrijf. Zij zorgen voor de correcte afmelding van het kenteken."
   },
   {
-    "titel": "aardappel- en citrusschillen, bloemen",
-    "loospunt": "Gft-container",
+    "titelafval": "aardappel- en citrusschillen, bloemen",
+    "loospunttitel": "Gft-container",
     "categorie": "Groente-, fruit- en tuinafval (gft)",
-    "toelichting": "Dit product mag bij het GFT-afval, maar liever niet op de composthoop thuis. Bij de teelt of bij het conserveren worden chemische middelen gebruikt die de compostering hinderen. Is het product van biologische teelt, dan mag het wel thuis op de composthoop."
+    "toelichting":"Dit product mag bij het GFT-afval, maar liever niet op de composthoop thuis. Bij de teelt of bij het conserveren worden chemische middelen gebruikt die de compostering hinderen. Is het product van biologische teelt, dan mag het wel thuis op de composthoop."
   },
   {
-    "titel": "accu van (brom-)fiets",
-    "loospunt": "(brom)fietsdealer of milieustraat",
+   "titelafval":  "accu van (brom-)fiets",
+    "loospunttitel": "(brom)fietsdealer of milieustraat",
     "categorie": "Accu's van voertuigen",
-    "toelichting": "De leverancier van accu's van auto's, bromfietsen en elektrische fietsen moet  kostenloos afgedankte accu's innemen om ze milieuvriendelijk te laten verwerken. Dit geldt ook voor batterijen. Batterijen en accu's kunnen ook altijd bij de milieustraat van de gemeente worden ingeleverd."
+    "toelichting":"De leverancier van accu's van auto's, bromfietsen en elektrische fietsen moet  kostenloos afgedankte accu's innemen om ze milieuvriendelijk te laten verwerken. Dit geldt ook voor batterijen. Batterijen en accu's kunnen ook altijd bij de milieustraat van de gemeente worden ingeleverd."
   },
   {
-    "titel": "aluminiumfolie",
-    "loospunt": "PMD zak of bak",
-    "categorie": "PMD",
-    "toelichting": "Aluminiumfolie als verpakking, zoals folie om thuisbezorgde maaltijden, hoort bij Plastic - en Metalen verpakkingen en Drankkartons (PMD). Aluminium dat je op een rol koopt is formeel geen verpakking en hoort daarom na gebruik officieel bij het restafval. Aluminium wordt na verbranding deels uit de verbrandingsresten van het restafval gehaald en gerecycled, maar dunne delen zoals folie verbranden en die ben je dus kwijt."
+   "titelafval":  "aluminiumfolie",
+    "loospunttitel": "PMD zak of bak",
+   "categorie":  "PMD",
+    "toelichting":"Aluminiumfolie als verpakking, zoals folie om thuisbezorgde maaltijden, hoort bij Plastic - en Metalen verpakkingen en Drankkartons (PMD). Aluminium dat je op een rol koopt is formeel geen verpakking en hoort daarom na gebruik officieel bij het restafval. Aluminium wordt na verbranding deels uit de verbrandingsresten van het restafval gehaald en gerecycled, maar dunne delen zoals folie verbranden en die ben je dus kwijt."
   },
   {
-    "titel": "as",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Asresten kunnen schadelijke stoffen bevatten en mogen daarom niet bij het GFT of op de composthoop."
+   "titelafval":  "as",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Asresten kunnen schadelijke stoffen bevatten en mogen daarom niet bij het GFT of op de composthoop."
   },
   {
-    "titel": "asbesthoudend afval",
-    "loospunt": "Milieustraat",
-    "categorie": "Overig afval",
-    "toelichting": "Asbest is vóór 1994 in veel verschillende producten en materialen op en in woningen gebruikt. Asbest moet u op een verantwoorde manier (laten) verwijderen. Zie hiervoor www.milieucentraal.nl/asbest."
+   "titelafval":  "asbesthoudend afval",
+   "loospunttitel":  "Milieustraat",
+   "categorie":  "Overig afval",
+   "toelichting": "Asbest is vóór 1994 in veel verschillende producten en materialen op en in woningen gebruikt. Asbest moet u op een verantwoorde manier (laten) verwijderen. Zie hiervoor www.milieucentraal.nl/asbest."
   },
   {
-    "titel": "auto",
-    "loospunt": "Autodemontagebedrijven aangesloten bij de ARN",
-    "categorie": "Auto's",
-    "toelichting": "Bij aankoop van een nieuwe auto betaalt u een recyclingbijdrage van 45 euro. Inleveren van een afgedankte auto kan daardoor kostenloos."
+  "titelafval":   "auto",
+  "loospunttitel":   "Autodemontagebedrijven aangesloten bij de ARN",
+   "categorie":  "Auto's",
+   "toelichting": "Bij aankoop van een nieuwe auto betaalt u een recyclingbijdrage van 45 euro. Inleveren van een afgedankte auto kan daardoor kostenloos."
   },
   {
-    "titel": "autoaccu",
-    "loospunt": "Autogarage, autodemontagebedrijf of milieustraat",
-    "categorie": "Accu's van voertuigen",
-    "toelichting": "Autodemontagebedrijven aangesloten bij ARN nemen autoaccu's kostenloos in. Zie voor aangesloten bedrjiven: www.arn.nl/autodemontagegids/. Batterijen en accu's kunnen ook altijd bij de milieustraat van de gemeente worden ingeleverd."
+  "titelafval":   "autoaccu",
+   "loospunttitel":  "Autogarage, autodemontagebedrijf of milieustraat",
+   "categorie":  "Accu's van voertuigen",
+   "toelichting": "Autodemontagebedrijven aangesloten bij ARN nemen autoaccu's kostenloos in. Zie voor aangesloten bedrjiven: www.arn.nl/autodemontagegids/. Batterijen en accu's kunnen ook altijd bij de milieustraat van de gemeente worden ingeleverd."
   },
   {
-    "titel": "autoband",
-    "loospunt": "Milieustraat of winkelier bij aankoop nieuwe banden",
-    "categorie": "Banden",
+   "titelafval":  "autoband",
+   "loospunttitel":  "Milieustraat of winkelier bij aankoop nieuwe banden",
+   "categorie":  "Banden",
     "toelichting": "Het afdanken van autobanden is kosteloos bij de aankoop van nieuwe banden. Bij de meeste milieustraten kunnen autobanden kosteloos worden ingeleverd, tot maximaal 5 banden."
   },
   {
-    "titel": "autowiel",
-    "loospunt": "Milieustraat",
-    "categorie": "Overig afval",
-    "toelichting": "Een autowiel (velg met band) valt niet onder de regeling oude autobanden. Daarin is geregeld dat je autobanden bij de gemeente of zonder kosten bij de leverancier van nieuwe banden kunt inleveren. Informeer bij de gemeente, een autobandenbedrijf of autodemontagebedrijf hoe je het wiel kunt afdanken."
+   "titelafval": "autowiel",
+   "loospunttitel":  "Milieustraat",
+   "categorie":  "Overig afval",
+   "toelichting": "Een autowiel (velg met band) valt niet onder de regeling oude autobanden. Daarin is geregeld dat je autobanden bij de gemeente of zonder kosten bij de leverancier van nieuwe banden kunt inleveren. Informeer bij de gemeente, een autobandenbedrijf of autodemontagebedrijf hoe je het wiel kunt afdanken."
   },
   {
-    "titel": "batterij",
-    "loospunt": "Inleverbakken bij diverse winkels, of bij de milieustraat",
-    "categorie": "Batterijen",
-    "toelichting": "Leg lege batterijen apart en neem ze de eerst volgende keer mee als je boodschappen doet bij een winkel met een inzamelbak voor batterijen. Inleveren kan in inleverbakken bij supermarkten, bouwmarkten, elektronicawinkels en diverse andere plaatsen. Je kunt ze ook inleveren bij de milieustraat van de gemeente."
+   "titelafval":  "batterij",
+   "loospunttitel":  "Inleverbakken bij diverse winkels, of bij de milieustraat",
+   "categorie":  "Batterijen",
+   "toelichting": "Leg lege batterijen apart en neem ze de eerst volgende keer mee als je boodschappen doet bij een winkel met een inzamelbak voor batterijen. Inleveren kan in inleverbakken bij supermarkten, bouwmarkten, elektronicawinkels en diverse andere plaatsen. Je kunt ze ook inleveren bij de milieustraat van de gemeente."
   },
   {
-    "titel": "behang",
-    "loospunt": "Vuilnisbak (restafval)",
+   "titelafval":  "bedrijfsafval",
+   "loospunttitel":  "Afvalbeheer",
+   "categorie":  "Overig afval",
+   "toelichting": "De Afvalscheidingswijzer is voor afval van huishoudens. Voor bedrijfsafval gelden andere regels, andere financiering en een andere manier van inzamelen. Met uw vragen over bedrijfsafval kunt u terecht bij de Helpdesk Afvalbeheer, http://www.rwsleefomgeving.nl/helpdesk/afvalbeheer/"
+  },
+  {
+    "titelafval": "behang",
+    "loospunttitel": "Vuilnisbak (restafval)",
     "categorie": "Restafval",
-    "toelichting": "Behang hoort niet bij het oud-papier. Het bevat lijm en soms PVC of andere kunststoffen."
+    "toelichting":"Behang hoort niet bij het oud-papier. Het bevat lijm en soms PVC of andere kunststoffen."
   },
   {
-    "titel": "biels",
-    "loospunt": "Milieustraat of grofvuil-ophaaldienst",
-    "categorie": "Grof huishoudelijk afval",
-    "toelichting": "Grote stukken of hele bielzen kunnen bij de milieustraat worden ingeleverd als grof vuil en vaak op afspraak worden opgehaald. Stukjes biels mogen bij het restafval. Als grof vuil mag de gemeente ze echter weigeren, omdat bielzen een bijzondere soort afval zijn. Bielzen die een bedrijf aanbiedt vallen in de categorie gevaarlijk afval. Worden bielzen niet door de gemeente geaccepteerd, dan moeten ze (tegen betaling) door een afvalverwerkingsbedrijf worden verwerkt. Er wordt dan voorkomen dat de giftige chemicalien die het hout bevat in het milieu terecht komen."
+   "titelafval":  "biels",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Grof huishoudelijk afval",
+   "toelichting": "Grote stukken of hele bielzen kunnen bij de milieustraat worden ingeleverd als grof vuil en vaak op afspraak worden opgehaald. Stukjes biels mogen bij het restafval. Als grof vuil mag de gemeente ze echter weigeren, omdat bielzen een bijzondere soort afval zijn. Bielzen die een bedrijf aanbiedt vallen in de categorie gevaarlijk afval. Worden bielzen niet door de gemeente geaccepteerd, dan moeten ze (tegen betaling) door een afvalverwerkingsbedrijf worden verwerkt. Er wordt dan voorkomen dat de giftige chemicalien die het hout bevat in het milieu terecht komen."
   },
   {
-    "titel": "bijzonder papier",
-    "loospunt": "Vuilnisbak (restafval)",
+  "titelafval":   "bijzonder papier",
+  "loospunttitel":   "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Bijzonder papier zoals vetvrij papier, stickerrugpapier, bakpapier en bijvoorbeeld het stripje van maandverband is bewerkt met een siliconen- of waslaagje. Dit dient om vocht, lijm of vet af te stoten. Stickers zijn juist behandeld met lijm. Zulk papier is daardoor niet geschikt voor recycling."
+  },
+  {
+   "titelafval":  "bouwafval",
+   "loospunttitel":  "Milieustraat",
+   "categorie":  "Grof huishoudelijk afval",
+   "toelichting": "Bouw- en sloopafval van een verbouwing in je eigen huis kun je bij de gemeentelijke milieustraat brengen. Soms is dit gratis en soms tegen betaling. Dat verschilt per gemeente. Vul in de afvalscheidingswijzer de soort bouwafval in voor een nauwkeuriger afdankadvies."
+  },
+  {
+   "titelafval":  "brandblusser",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Grof huishoudelijk afval",
+   "toelichting": "Brandblussers vallen onder grof huishoudelijk afval. Informeer bij de gemeente of grofvuil op afspraak thuis kan worden opgehaald. Een brandblusser mag niet zomaar in de bak voor oud-ijzer, omdat de tank onder druk kan staan. Elke milieustraat heeft daarom een inleverpunt voor gasflessen, brandblussers en andere drukhouders, waar ze veilig kunnen worden opgeslagen."
+  },
+  {
+   "titelafval":  "brandstof en olie",
+   "loospunttitel":  "Milieustraat",
+   "categorie":  "Klein chemisch afval",
+   "toelichting": "Lever Klein Chemisch Afval apart in om milieuvervuiling en gevaarlijke situaties te voorkomen."
+  },
+  {
+   "titelafval":  "brita waterfilter",
+   "loospunttitel":  "brita.nl",
+   "categorie":  "Overig afval",
+   "toelichting": "Waterfilters van het merk Brita kunnen worden ingeleverd voor recycling, zie www.brita.nl/brita/nl-nl/cms/cpd_5_5.grid. Is inleveren voor recycling te ingewikkeld, dan kan het waterfilter bij het restafval."
+  },
+  {
+   "titelafval":  "brom- en snorfiets",
+   "loospunttitel":  "Dealer of recyclingbedrijf aangesloten bij SRN",
+   "categorie":  "Scooters",
+   "toelichting": "Lever je afgedankte scooter, brom- of snorfiets in bij je dealer of ander innamepunt van SRN (zie www.scooterrecyclingnederland.nl). Zorg dat je een vrijwaringsbewijs krijgt: een bewijs dat de brom- of snorfiets niet meer van jou is. Inleveren is kostenloos, want sinds 2013 betaal je een recyclingbijdrage bij aankoop van een nieuw exemplaar. SRN zorgt daarmee voor verantwoorde recycling."
+  },
+  {
+   "titelafval":  "caravan",
+   "loospunttitel":  "Leverancier, onderhoudsbedrijf of importeur",
+   "categorie":  "Overig afval",
+   "toelichting": "Je kunt je oude caravan proberen in te leveren bij de leverancier, het onderhoudsbedrijf of de impoteur. Er zijn enkele gespecialiseerde caravansloperijen in Nederland. Je kunt je oude caravan al dan niet tegen betaling laten ophalen en slopen. Herbruikbare onderdelen worden dan gedemonteerd en zoveel mogelijk materialen worden gerecycled."
+  },
+  {
+   "titelafval":  "carbonpapier",
+  "loospunttitel":   "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "De doordruklaag / carbonlaag maakt deze papiersoort ongeschikt voor recycling."
+  },
+  {
+   "titelafval":  "cartridge",
+   "loospunttitel":  "Inleverbakken bij diverse winkels, of bij de milieustraat",
+   "categorie":  "Overig afval",
+   "toelichting": "Cartridges (leeg maar ook vol) zijn geld waard: ze worden soms ingezameld voor het goede doel, of je kunt ze zelf te gelde maken. Ze worden dan opnieuw gevuld, of gerecycled. In cartridges met een printerkop zit elektronica, deze kunnen ook ingeleverd als elektrische apparaten bij de WeCycle inleverbakken voor elektrische apparaten bij diverse winkels, bij winkel bij aanschaf van een nieuwe, of bij de milieustraat."
+  },
+  {
+    "titelafval": "cassetteband of videoband",
+    "loospunttitel": "Vuilnisbak (restafval)",
     "categorie": "Restafval",
-    "toelichting": "Bijzonder papier zoals vetvrij papier, stickerrugpapier, bakpapier en bijvoorbeeld het stripje van maandverband is bewerkt met een siliconen- of waslaagje. Dit dient om vocht, lijm of vet af te stoten. Stickers zijn juist behandeld met lijm. Zulk papier is daardoor niet geschikt voor recycling."
+    "toelichting":"Dozen van cassettebandjes of videobanden horen niet bij het PMD-afval. Het zijn geen verpakkingen, maar zijn onderdeel van het product."
   },
   {
-    "titel": "bouwafval",
-    "loospunt": "Milieustraat",
-    "categorie": "Grof huishoudelijk afval",
-    "toelichting": "Bouw- en sloopafval van een verbouwing in je eigen huis kun je bij de gemeentelijke milieustraat brengen. Soms is dit gratis en soms tegen betaling. Dat verschilt per gemeente. Vul in de afvalscheidingswijzer de soort bouwafval in voor een nauwkeuriger afdankadvies."
+    "titelafval": "cd",
+   "loospunttitel":  "Speciale inleverbakken of restafval",
+   "categorie":  "Restafval",
+    "toelichting":"CD-doosjes horen niet bij het PMD-afval. Het zijn geen verpakkingen, maar onderdeel van het product. Op sommige plaatsen worden CD's en CD-doosjes in speciale bakken, zogenaamde 'blipverts' gescheiden ingezameld. Zie voor plaatsen: http://blipvert.nl/locaties/ Is er geen inzamelbak in de buurt, dan horen de doosjes en CD's bij het restafval."
   },
   {
-    "titel": "brandstof en olie",
-    "loospunt": "Milieustraat",
+    "titelafval": "chemisch afval",
+    "loospunttitel": "Milieustraat",
     "categorie": "Klein chemisch afval",
-    "toelichting": "Lever Klein Chemisch Afval apart in om milieuvervuiling en gevaarlijke situaties te voorkomen."
+    "toelichting":"Lever Klein Chemisch Afval apart in om milieuvervuiling en gevaarlijke situaties te voorkomen."
   },
   {
-    "titel": "brom- en snorfiets",
-    "loospunt": "Dealer of recyclingbedrijf aangesloten bij SRN",
-    "categorie": "Scooters",
-    "toelichting": "Lever je afgedankte scooter, brom- of snorfiets in bij je dealer of ander innamepunt van SRN (zie www.scooterrecyclingnederland.nl). Zorg dat je een vrijwaringsbewijs krijgt: een bewijs dat de brom- of snorfiets niet meer van jou is. Inleveren is kostenloos, want sinds 2013 betaal je een recyclingbijdrage bij aankoop van een nieuw exemplaar. SRN zorgt daarmee voor verantwoorde recycling."
+    "titelafval": "chemisch toiletafval - en vloeistof",
+    "loospunttitel": "Toilet, afvoerpunt",
+   "categorie":  "Overig afval",
+    "toelichting":"De inhoud van een chemisch toilet mag in een afvoerpunt worden geloosd of door een toilet worden gespoeld dat is aangesloten op een openbaar riool. Een chemisch toilet bevat stoffen die bacteriegroei afremmen. Het is zeer schadelijk als die stoffen ongefilterd in het oppervlaktewater terecht zouden komen. In Nederland wordt het meeste rioolwater in een afvalwaterzuiveringsinstallatie gereinigd, voordat het op het oppervlaktewater wordt geloosd. Die stoffen leveren dan geen probleem meer op."
   },
   {
-    "titel": "caravan",
-    "loospunt": "Leverancier, onderhoudsbedrijf of importeur",
-    "categorie": "Overig afval",
-    "toelichting": "Je kunt je oude caravan proberen in te leveren bij de leverancier, het onderhoudsbedrijf of de impoteur. Er zijn enkele gespecialiseerde caravansloperijen in Nederland. Je kunt je oude caravan al dan niet tegen betaling laten ophalen en slopen. Herbruikbare onderdelen worden dan gedemonteerd en zoveel mogelijk materialen worden gerecycled."
+   "titelafval":  "cold pack",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Een cold pack kan het beste in zijn geheel met het restafval aangeboden worden. Knip het niet open, de inhoud mag niet door de gootsteen. Het is geen KCA."
   },
   {
-    "titel": "cartridge",
-    "loospunt": "Inleverbakken bij diverse winkels, of bij de milieustraat",
-    "categorie": "Overig afval",
-    "toelichting": "Cartridges (leeg maar ook vol) zijn geld waard: ze worden soms ingezameld voor het goede doel, of je kunt ze zelf te gelde maken. Ze worden dan opnieuw gevuld, of gerecycled. In cartridges met een printerkop zit elektronica, deze kunnen ook ingeleverd als elektrische apparaten bij de WeCycle inleverbakken voor elektrische apparaten bij diverse winkels, bij winkel bij aanschaf van een nieuwe, of bij de milieustraat."
-  },
-  {
-    "titel": "cd",
-    "loospunt": "Speciale inleverbakken of restafval",
-    "categorie": "Restafval",
-    "toelichting": "CD-doosjes horen niet bij het PMD-afval. Het zijn geen verpakkingen, maar onderdeel van het product. Op sommige plaatsen worden CD's en CD-doosjes in speciale bakken, zogenaamde 'blipverts' gescheiden ingezameld. Zie voor plaatsen: http://blipvert.nl/locaties/ Is er geen inzamelbak in de buurt, dan horen de doosjes en CD's bij het restafval."
-  },
-  {
-    "titel": "chemisch afval",
-    "loospunt": "Milieustraat",
-    "categorie": "Klein chemisch afval",
-    "toelichting": "Lever Klein Chemisch Afval apart in om milieuvervuiling en gevaarlijke situaties te voorkomen."
-  },
-  {
-    "titel": "cold pack",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Een cold pack kan het beste in zijn geheel met het restafval aangeboden worden. Knip het niet open, de inhoud mag niet door de gootsteen. Het is geen KCA."
-  },
-  {
-    "titel": "computer",
-    "loospunt": "Inleverbakken bij diverse winkels, winkel bij aanschaf van een nieuwe, of milieustraat",
+  "titelafval":   "computer",
+    "loospunttitel": "Inleverbakken bij diverse winkels, winkel bij aanschaf van een nieuwe, of milieustraat",
     "categorie": "Elektrische apparatuur",
-    "toelichting": "Zorg dat er geen vertrouwelijke gegevens meer op de computer staan, voordat je 'm weg doet."
+    "toelichting":"Zorg dat er geen vertrouwelijke gegevens meer op de computer staan, voordat je 'm weg doet."
   },
   {
-    "titel": "dakbedekking, bitumen, teer",
-    "loospunt": "Milieustraat",
-    "categorie": "Dakbedekking",
-    "toelichting": "Dakbedekkingsmateriaal van bitumen en teer kun je in de meeste gemeentes tegen betaling inleveren bij de milieustraat. Je kunt ook een container of éénkuubs afvalzak huren, die door een professionele afvalverwerker wordt opgehaald. In de prijs zijn ophaalkosten, milieubelasting en kosten van afvalverwerking inbegrepen. Nadat de container of afvalzak is opgehaald, wordt het bouw- en sloopafval op dezelfde manier verwerkt als het afval dat via het gemeentelijk afvaldepot ingezameld is."
+   "titelafval":  "computer, werkend",
+   "loospunttitel":  "Kringloopwinkel of aanbieden via website voor tweedehands goederen",
+   "categorie":  "Kringloop",
+   "toelichting": "Zorg dat er geen vertrouwelijke gegevens meer op de computer staan, voordat je 'm weg doet."
   },
   {
-    "titel": "dekbed en kussen",
-    "loospunt": "Vuilnisbak (restafval)",
+   "titelafval":  "dakbedekking, bitumen, teer",
+   "loospunttitel":  "Milieustraat",
+   "categorie":  "Dakbedekking",
+   "toelichting": "Dakbedekkingsmateriaal van bitumen en teer kun je in de meeste gemeentes tegen betaling inleveren bij de milieustraat. Je kunt ook een container of éénkuubs afvalzak huren, die door een professionele afvalverwerker wordt opgehaald. In de prijs zijn ophaalkosten, milieubelasting en kosten van afvalverwerking inbegrepen. Nadat de container of afvalzak is opgehaald, wordt het bouw- en sloopafval op dezelfde manier verwerkt als het afval dat via het gemeentelijk afvaldepot ingezameld is."
+  },
+  {
+   "titelafval":  "dekbed en kussen",
+   "loospunttitel":  "Vuilnisbak (restafval)",
     "categorie": "Restafval",
-    "toelichting": "Dekbedden en kussens zijn niet recyclebaar. Daarom horen ze bij het restafval."
+   "toelichting": "Dekbedden en kussens zijn niet recyclebaar. Daarom horen ze bij het restafval."
   },
   {
-    "titel": "deksels en doppen",
-    "loospunt": "PMD zak of bak",
+   "titelafval":  "deksels en doppen",
+   "loospunttitel":  "PMD zak of bak",
+   "categorie":  "PMD",
+   "toelichting": "Een losse deksel van blik of van plastic mag bij het PMD. Deksels, doppen, etiketten en kurken mogen ook op glazen potten en flessen blijven zitten en mogen mee de glasbak in."
+  },
+  {
+   "titelafval":  "verpakkingsglas",
+   "loospunttitel":  "Glasbak",
+   "categorie":  "Glas",
+   "toelichting": "Een losse deksel van blik of van plastic mag bij het PMD. Deksels, doppen, etiketten en kurken mogen ook op glazen potten en flessen blijven zitten en mogen mee de glasbak in."
+  },
+  {
+    "titelafval": "plastic cosmeticaflesje",
+    "loospunttitel": "PMD zak of bak",
     "categorie": "PMD",
-    "toelichting": "Een losse deksel van blik of van plastic mag bij het PMD. Deksels, doppen, etiketten en kurken mogen ook op glazen potten en flessen blijven zitten en mogen mee de glasbak in."
+    "toelichting":"Een losse deksel van blik of van plastic mag bij het PMD. Deksels, doppen, etiketten en kurken mogen ook op glazen potten en flessen blijven zitten en mogen mee de glasbak in."
   },
   {
-    "titel": "verpakkingsglas",
-    "loospunt": "Glasbak",
-    "categorie": "Glas",
-    "toelichting": "Een losse deksel van blik of van plastic mag bij het PMD. Deksels, doppen, etiketten en kurken mogen ook op glazen potten en flessen blijven zitten en mogen mee de glasbak in."
+   "titelafval":  "dierenpoep",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Alleen mest van kleine huisdieren mag in de gft-bak. Honden- en kattenpoep hoort bij het restafval. Honden- en kattenpoep mag niet in de GFT-bak en ook niet op de composthoop thuis, vanwege het risico van het overdragen van dierziektes via de compost. Ook kattenbakkorrels horen niet bij het GFT."
   },
   {
-    "titel": "plastic cosmeticaflesje",
-    "loospunt": "PMD zak of bak",
-    "categorie": "PMD",
-    "toelichting": "Een losse deksel van blik of van plastic mag bij het PMD. Deksels, doppen, etiketten en kurken mogen ook op glazen potten en flessen blijven zitten en mogen mee de glasbak in."
+    "titelafval": "diskette",
+    "loospunttitel": "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+    "toelichting":"Zorg dat er geen vertrouwelijke gegevens meer op de computer staan, voordat je 'm weg doet."
   },
   {
-    "titel": "dierenpoep",
-    "loospunt": "Vuilnisbak (restafval)",
+   "titelafval":  "dood huisdier",
+   "loospunttitel":  "Dierenarts of milieustraat",
+   "categorie":  "Overig afval",
+   "toelichting": "Dode honden, katten, hamsters, cavia's en dergelijke kun je naar de milieustraat brengen of naar de dierenarts. Bij de dierenarts kunnen er kosten aan verbonden zijn. Ook kunt je je huisdier laten cremeren of laten begraven op een dierenbegraafplaats. Begraven in eigen tuin mag, maar in verband met risico's voor volksgezondheid, veiligheid en milieu moet dat wel diep (minstens 75 centimeter). Voor hobbydieren die ook als landbouwhuisdieren gehouden worden (paarden, schapen en kippen) gelden andere regels. Deze moet je aanmelden bij destructiebedrijf Rendac (www.rendac.com), die het dier dan komen ophalen voor gecontroleerde afvoer. \nVind je buiten een dode vogel? www.sovon.nl/dodevogel houdt bij waar vogels aan overlijden, om zo de kennis over vogelsterfte te vergroten."
+  },
+  {
+   "titelafval":  "doordrukstrip",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Doordrukstrips zijn ongeschikt voor recycling, omdat de aluminium laag te stevig verlijmd is. Breng medicijnen terug naar de apotheek of doe ze bij KCA."
+  },
+  {
+   "titelafval": "doos voor gebak of bezorgpizza",
+   "loospunttitel":  "Vuilnisbak (restafval)",
     "categorie": "Restafval",
-    "toelichting": "Alleen mest van kleine huisdieren mag in de gft-bak. Honden- en kattenpoep hoort bij het restafval. Honden- en kattenpoep mag niet in de GFT-bak en ook niet op de composthoop thuis, vanwege het risico van het overdragen van dierziektes via de compost. Ook kattenbakkorrels horen niet bij het GFT."
+   "toelichting": "De dozen zijn vaak vervuild met etensresten en vet. Daardoor zijn ze niet geschikt voor recycling en mogen ze niet bij het oudpapier."
   },
   {
-    "titel": "diskette",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Zorg dat er geen vertrouwelijke gegevens meer op de computer staan, voordat je 'm weg doet."
+    "titelafval": "doosje van CD of casettebandje",
+   "loospunttitel":  "Speciale inleverbakken of restafval",
+   "categorie":  "Overig plastic",
+    "toelichting":"Alleen verpakkingsplastic hoort bij het PMD of de plastic-inzameling. Voor CD's en CD-doosjes staan op sommige plaatsen speciale inzamelbakken. Grote aantallen CD-doosjes kunnen ook voor recycling worden ingeleverd bij de milieustraat. Haal dan wel de schijfjes of bandjes eruit, die horen bij het restafval."
   },
   {
-    "titel": "doos voor gebak of bezorgpizza",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "De dozen zijn vaak vervuild met etensresten en vet. Daardoor zijn ze niet geschikt voor recycling en mogen ze niet bij het oudpapier."
+   "titelafval":  "drankenkarton",
+   "loospunttitel":  "PMD zak of bak",
+   "categorie":  "PMD",
+   "toelichting": "Vouw het lege pak plat en draai daarna de dop er weer op. Resten die in het pak achterblijven verstoren de recycling van de pakken, knijp de resten er daarom zo goed mogelijk uit. Andere verpakkingen dan drankpakken die gemaakt zijn van karton en een kunststof- of aluminiumlaagje, zoals chipsbussen, mogen niet bij het PMD."
   },
   {
-    "titel": "drankenkarton",
-    "loospunt": "PMD zak of bak",
-    "categorie": "PMD",
-    "toelichting": "Vouw het lege pak plat en draai daarna de dop er weer op. Resten die in het pak achterblijven verstoren de recycling van de pakken, knijp de resten er daarom zo goed mogelijk uit. Andere verpakkingen dan drankpakken die gemaakt zijn van karton en een kunststof- of aluminiumlaagje, zoals chipsbussen, mogen niet bij het PMD."
+   "titelafval":  "e-bike kapot",
+   "loospunttitel":  "Winkel bij aankoop van een nieuwe, milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Metaal",
+   "toelichting": "Lever de accu van je elektrische fiets gescheiden in, zodat deze gerecycled kan worden. Je kunt een afgedankte (elektrische)fiets vaak inleveren bij aanschaf van een nieuwe. Metalen en metalen producten kun je inleveren bij de milieustraat of weggebrengen naar een oudijzerhandel. Soms krijg je er nog geld voor. Ook kun je proberen om een afspraak te maken om het op te laten halen."
   },
   {
-    "titel": "e-bike kapot",
-    "loospunt": "Winkel bij aankoop van een nieuwe, milieustraat of grofvuil-ophaaldienst",
-    "categorie": "Metaal",
-    "toelichting": "Lever de accu van je elektrische fiets gescheiden in, zodat deze gerecycled kan worden. Je kunt een afgedankte (elektrische)fiets vaak inleveren bij aanschaf van een nieuwe. Metalen en metalen producten kun je inleveren bij de milieustraat of weggebrengen naar een oudijzerhandel. Soms krijg je er nog geld voor. Ook kun je proberen om een afspraak te maken om het op te laten halen."
+   "titelafval":  "elektrisch apparaat",
+   "loospunttitel":  "Inleverbakken bij diverse winkels, winkel bij aanschaf van een nieuwe, of milieustraat",
+   "categorie":  "Elektrische apparatuur",
+   "toelichting": "Een leverancier is verplicht om op verzoek een oud elektrisch apparaat voor je af te voeren bij aankoop van een nieuwe. Dit geldt ook voor webaankopen. Kleine elektrische apparaten (niet langer, breder of hoger dan 25 cm) kunnen in inzamelbakken in diverse bouwmarkten, elektronicawinkels en in sommige supermarkten worden ingeleverd. Elektronische apparaten kunnen ook altijd worden ingeleverd bij de milieustraat van de gemeente."
   },
   {
-    "titel": "elektrisch apparaat",
-    "loospunt": "Inleverbakken bij diverse winkels, winkel bij aanschaf van een nieuwe, of milieustraat",
-    "categorie": "Elektrische apparatuur",
-    "toelichting": "Een leverancier is verplicht om op verzoek een oud elektrisch apparaat voor je af te voeren bij aankoop van een nieuwe. Dit geldt ook voor webaankopen. Kleine elektrische apparaten (niet langer, breder of hoger dan 25 cm) kunnen in inzamelbakken in diverse bouwmarkten, elektronicawinkels en in sommige supermarkten worden ingeleverd. Elektronische apparaten kunnen ook altijd worden ingeleverd bij de milieustraat van de gemeente."
+   "titelafval":  "elektrisch apparaat, werkend",
+   "loospunttitel":  "Kringloopwinkel of aanbieden via website voor tweedehands goederen",
+   "categorie":  "Kringloop",
+    "toelichting":"Met veel kringloopwinkels kun je een afspraak maken om bruikbare spullen thuis op te halen."
   },
   {
-    "titel": "elektrisch gereedschap",
-    "loospunt": "Inzamelpunt goed doel, kringloopwinkel of aanbieden op website voor tweedehands verkoop",
+   "titelafval":  "elektrisch gereedschap",
+    "loospunttitel": "Inzamelpunt goed doel, kringloopwinkel of aanbieden op website voor tweedehands verkoop",
     "categorie": "Kringloop",
-    "toelichting": "Gereedschap wordt door o.a. stichting Gered Gereedschap of Dorcas ingezameld, om te worden verstuurd naar projecten in ontwikkelingslanden. Kapot gereedschap kan soms nog worden gerepareerd. Gered Gereedschap heeft inzamelbakken bij een grote bouwmarktketen staan. Op de website van Dorcas kun je zoeken naar inzamelpunten. Is elektrisch gereedschap niet meer te repareren, dan kan het gescheiden worden ingeleverd als elektrisch apparaat. Kleine elektrische apparaten (niet langer, breder of hoger dan 25 cm) kunnen in WeCycle-inzamelbakken in diverse bouwmarkten, elektronicawinkels en in sommige supermarkten worden ingeleverd. Een leverancier is verplicht om op verzoek een oud elektrisch apparaat voor je af te voeren bij aankoop van een nieuwe. Dit geldt ook voor webaankopen. Elektronische apparaten kunnen altijd bij de leverancier van een nieuwe versie worden ingeleverd of bij de milieustraat van de gemeente."
+    "toelichting":"Gereedschap wordt door o.a. stichting Gered Gereedschap of Dorcas ingezameld, om te worden verstuurd naar projecten in ontwikkelingslanden. Kapot gereedschap kan soms nog worden gerepareerd. Gered Gereedschap heeft inzamelbakken bij een grote bouwmarktketen staan. Op de website van Dorcas kun je zoeken naar inzamelpunten. Is elektrisch gereedschap niet meer te repareren, dan kan het gescheiden worden ingeleverd als elektrisch apparaat. Kleine elektrische apparaten (niet langer, breder of hoger dan 25 cm) kunnen in WeCycle-inzamelbakken in diverse bouwmarkten, elektronicawinkels en in sommige supermarkten worden ingeleverd. Een leverancier is verplicht om op verzoek een oud elektrisch apparaat voor je af te voeren bij aankoop van een nieuwe. Dit geldt ook voor webaankopen. Elektronische apparaten kunnen altijd bij de leverancier van een nieuwe versie worden ingeleverd of bij de milieustraat van de gemeente."
   },
   {
-    "titel": "elektrische kabel",
-    "loospunt": "Inleverbakken bij diverse winkels, winkel bij aanschaf van een nieuwe, of milieustraat",
+    "titelafval": "elektrisch tuingereedschap",
+   "loospunttitel":  "Winkel bij aankoop van een nieuwe, of milieustraat",
+   "categorie":  "Elektrische apparatuur",
+   "toelichting": "Kleine elektrische apparaten (niet langer, breder of hoger dan 25 cm) kunnen in WeCycle-inzamelbakken in diverse bouwmarkten, elektronicawinkels en in sommige supermarkten worden ingeleverd. Elektronische apparaten kunnen ook altijd bij de leverancier van een nieuwe versie worden ingeleverd of bij de milieustraat van de gemeente."
+  },
+  {
+   "titelafval":  "elektrisch tuingereedschap, werkend",
+   "loospunttitel":  "Inzamelpunt goed doel, kringloopwinkel of aanbieden op website voor tweedehands verkoop",
+   "categorie":  "Kringloop",
+   "toelichting": "Gereedschap wordt door o.a. stichting Gered Gereedschap of Dorcas ingezameld, om te worden verstuurd naar projecten in ontwikkelingslanden. Kapot gereedschap kan soms nog worden gerepareerd. Gered Gereedschap heeft inzamelbakken bij een grote bouwmarktketen staan. Op de website van Dorcas kun je zoeken naar inzamelpunten. Is elektrisch gereedschap niet meer te repareren, dan kan het gescheiden worden ingeleverd als elektrisch apparaat. Kleine elektrische apparaten (niet langer, breder of hoger dan 25 cm) kunnen in WeCycle-inzamelbakken in diverse bouwmarkten, elektronicawinkels en in sommige supermarkten worden ingeleverd. Een leverancier is verplicht om op verzoek een oud elektrisch apparaat voor je af te voeren bij aankoop van een nieuwe. Dit geldt ook voor webaankopen. Elektronische apparaten kunnen altijd bij de leverancier van een nieuwe versie worden ingeleverd of bij de milieustraat van de gemeente."
+  },
+  {
+    "titelafval": "elektrische kabel",
+    "loospunttitel": "Inleverbakken bij diverse winkels, winkel bij aanschaf van een nieuwe, of milieustraat",
     "categorie": "Elektrische apparatuur",
-    "toelichting": "Kabels worden behandeld als kleine elektrische apparaten. Leg een kabel apart en neem 'm de eerst volgende keer mee als je boodschappen doet bij een winkel met een WeCycle-inzamelbak."
+    "toelichting":"Kabels worden behandeld als kleine elektrische apparaten. Leg een kabel apart en neem 'm de eerst volgende keer mee als je boodschappen doet bij een winkel met een WeCycle-inzamelbak."
   },
   {
-    "titel": "energiezuinige lamp",
-    "loospunt": "Inleverbakken bij diverse winkels, zoals supermarkten, elektronicawinkels en bouwmarkten of bij de milieustraat.",
-    "categorie": "Spaarlampen",
-    "toelichting": "Leg de kapotte lamp bij je boodschappentas. Neem 'm mee naar de winkel als je boodschappen doet. Ledlampen mogen ook in de bak voor spaarlampen.\n\nWees voorzichtig met spaarlampen en tl-buizen, zorg dat ze niet breken. Breekt een spaarlamp toch? Open de ramen, zet luchtbehandelingsystemen uit en laat iedereen rustig de ruimte verlaten. Doe de binnendeur achter je dicht en lees de instructies van het RIVM  op www.rivm.nl/Onderwerpen/K/Kwik/Opruiminstructies. \n\nNa 15 minuten luchten kun je de scherven met rubber handschoenen aan opruimen en de restjes met een vochtige doek. Alleen als het écht niet anders kan en alleen op tapijt kun je een stofzuiger gebruiken. De stofzuiger heeft daarna ook een speciale behandeling nodig om geen kwik in huis te verspreiden. De restanten van de lamp kunnen bij de milieustraat worden ingeleverd als Klein Chemisch afval."
+  "titelafval":   "energiezuinige lamp",
+  "loospunttitel":   "Inleverbakken bij diverse winkels, zoals supermarkten, elektronicawinkels en bouwmarkten of bij de milieustraat.",
+   "categorie":  "Spaarlampen",
+   "toelichting": "Leg de kapotte lamp bij je boodschappentas. Neem 'm mee naar de winkel als je boodschappen doet. Ledlampen mogen ook in de bak voor spaarlampen.\n\nWees voorzichtig met spaarlampen en tl-buizen, zorg dat ze niet breken. Breekt een spaarlamp toch? Open de ramen, zet luchtbehandelingsystemen uit en laat iedereen rustig de ruimte verlaten. Doe de binnendeur achter je dicht en lees de instructies van het RIVM  op www.rivm.nl/Onderwerpen/K/Kwik/Opruiminstructies. \n\nNa 15 minuten luchten kun je de scherven met rubber handschoenen aan opruimen en de restjes met een vochtige doek. Alleen als het écht niet anders kan en alleen op tapijt kun je een stofzuiger gebruiken. De stofzuiger heeft daarna ook een speciale behandeling nodig om geen kwik in huis te verspreiden. De restanten van de lamp kunnen bij de milieustraat worden ingeleverd als Klein Chemisch afval."
   },
   {
-    "titel": "foto en filmmateriaal",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Foto- en filmmateriaal bevat te veel chemische stoffen om als grondstof te kunnen dienen voor bijvoorbeeld nieuw papier. Deze stoffen zijn niet zo schadelijk dat het materiaal bij KCA moet."
-  },
-  {
-    "titel": "gasfles, eenmalig",
-    "loospunt": "Milieustraat of restafval",
-    "categorie": "Overig afval",
-    "toelichting": "Lever niet-lege gasflessen in bij de milieustraat. Een lege gasfles voor eenmalig gebruik kan bij het restafaval of kan als oud ijzer worden ingeleverd bij de milieustraat."
-  },
-  {
-    "titel": "gasfles, navulbaar",
-    "loospunt": "Milieustraat",
-    "categorie": "Overig afval",
-    "toelichting": "Ook niet-lege gasflesjes voor eenmalig gebruik moeten bij de milieustraat worden ingeleverd. Je kunt een lege gasfles omwisselen bij aanschaf van een nieuwe vulling. Je krijgt geen statiegeld terug voor een lege fles. Wil je van de lege fles af, lever 'm dan in bij een winkel die gasflessen verkoopt of hervult. Ook de milieustraat heeft een inleverpunt voor gasflessen, brandblussers en andere drukhouders."
-  },
-  {
-    "titel": "geheugenchip en (bank)pas",
-    "loospunt": "Inleverbakken bij diverse winkels, winkel bij aanschaf van een nieuwe, of milieustraat",
-    "categorie": "Elektrische apparatuur",
-    "toelichting": "Kaarten met een chip erin moeten op dezelfde manier worden afgedankt als kleine elektrische apparaten. Maak de kaart onbruikbaar door deze door te knippen. Zo kunnen geen (persoonlijke) gegevens meer uitgelezen worden. Kaarten kunnen in WeCycle-inzamelbakken in diverse bouwmarkten, elektronicawinkels en in sommige supermarkten worden ingeleverd. Elektronische apparaten kunnen ook altijd bij de leverancier van een nieuwe versie worden ingeleverd of bij de milieustraat van de gemeente."
-  },
-  {
-    "titel": "gemotoriseerd huishoudelijk apparaat",
-    "loospunt": "Inzamelpunt goed doel, kringloopwinkel of aanbieden op website voor tweedehands verkoop",
+   "titelafval":  "fiets in goede staat",
+    "loospunttitel": "Kringloopwinkel of aanbieden aan fietsendealer of via website voor tweedehands goederen",
     "categorie": "Kringloop",
-    "toelichting": "Met veel kringloopwinkels kun je een afspraak maken om bruikbare spullen thuis op te halen."
+   "toelichting": "Met veel kringloopwinkels kun je een afspraak maken om bruikbare spullen thuis op te halen."
   },
   {
-    "titel": "geplastificeerd papier of karton",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Kun je papier niet scheuren, dan is het geplastificeerd. Geplastificeerd papier of karton heeft een dun laagje kunststof, dat het recyclingsproces van papier verstoort. Daarom hoort het bij het restafval."
+    "titelafval": "foto en filmmateriaal",
+    "loospunttitel": "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Foto- en filmmateriaal bevat te veel chemische stoffen om als grondstof te kunnen dienen voor bijvoorbeeld nieuw papier. Deze stoffen zijn niet zo schadelijk dat het materiaal bij KCA moet."
   },
   {
-    "titel": "gloei- of halogeenlamp",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Gloei- en halogeenlampen hebben  een andere samenstelling dan verpakkingsglas. Daarom horen ze niet in de glasbak, dat zou de glasrecycling verstoren. Een gloei- of halogeenlamp bevat ook geen gevaarlijke stoffen en dus hij hoeft niet in de inzamelbak voor spaarlampen."
+  "titelafval":   "gasfles, eenmalig, leeg",
+  "loospunttitel":   "Milieustraat of restafval",
+   "categorie":  "Overig afval",
+   "toelichting": "Lever niet-lege gasflessen in bij de milieustraat. Een lege gasfles voor eenmalig gebruik kan bij het restafaval of kan als oud ijzer worden ingeleverd bij de milieustraat."
   },
   {
-    "titel": "grof tuinafval",
-    "loospunt": "Milieustraat of grofvuil-ophaaldienst",
-    "categorie": "Grof tuinafval",
-    "toelichting": "Grof tuinafval kan worden ingeleverd bij de milieustraat. Soms kun je het ook op afspraak door de gemeente laten ophalen."
+    "titelafval": "gasfles, eenmalig, niet-leeg",
+   "loospunttitel":  "Milieustraat",
+   "categorie":  "Overig afval",
+   "toelichting": "De milieustraat heeft een inleverpunt voor gasflessen, brandblussers en andere drukhouders. Lege gasflessen voor eenmalig gebruik kunnen bij het restafval of als oud ijzer worden ingeleverd bij de milieustraat."
   },
   {
-    "titel": "grond",
-    "loospunt": "Gft-container (kleine hoeveelheden) of milieustraat",
-    "categorie": "Overig afval",
-    "toelichting": "Breng aarde, grond of zand naar de milieustraat. (Tuin)aarde, zand en klei mogen maar beperkt in de GFT-container of op de eigen composthoop. Denk bijvoorbeeld aan de inhoud van een bloempot of de aanhangende aarde bij onkruid. Informeer bij je gemeente hoe je grote hoeveelheden (meer dan 1 m3 of meer dan 1.500 kg) kunt afdanken."
+   "titelafval":  "gasfles, navulbaar",
+   "loospunttitel":  "Milieustraat",
+   "categorie":  "Overig afval",
+    "toelichting":"Ook niet-lege gasflesjes voor eenmalig gebruik moeten bij de milieustraat worden ingeleverd. Je kunt een lege gasfles omwisselen bij aanschaf van een nieuwe vulling. Je krijgt geen statiegeld terug voor een lege fles. Wil je van de lege fles af, lever 'm dan in bij een winkel die gasflessen verkoopt of hervult. Ook de milieustraat heeft een inleverpunt voor gasflessen, brandblussers en andere drukhouders."
   },
   {
-    "titel": "groot huishoudelijk apparaat",
-    "loospunt": "Winkel bij aankoop van een nieuwe, of de milieustraat",
-    "categorie": "Elektrische apparatuur",
-    "toelichting": "Vraag de installateur of bezorger van een nieuw apparaat om het oude apparaat meteen mee te nemen. Dat kan ook met webaankopen! Elektronische apparaten kunnen ook altijd worden ingeleverd bij de milieustraat van de gemeente."
+   "titelafval":  "geheugenchip en (bank)pas",
+   "loospunttitel":  "Inleverbakken bij diverse winkels, winkel bij aanschaf van een nieuwe, of milieustraat",
+   "categorie":  "Elektrische apparatuur",
+   "toelichting": "Kaarten met een chip erin moeten op dezelfde manier worden afgedankt als kleine elektrische apparaten. Maak de kaart onbruikbaar door deze door te knippen. Zo kunnen geen (persoonlijke) gegevens meer uitgelezen worden. Kaarten kunnen in WeCycle-inzamelbakken in diverse bouwmarkten, elektronicawinkels en in sommige supermarkten worden ingeleverd. Elektronische apparaten kunnen ook altijd bij de leverancier van een nieuwe versie worden ingeleverd of bij de milieustraat van de gemeente."
   },
   {
-    "titel": "handgereedschap",
-    "loospunt": "Inzamelpunt goed doel, kringloopwinkel of aanbieden op website voor tweedehands verkoop",
-    "categorie": "Kringloop",
-    "toelichting": "Gereedschap wordt door o.a. stichting Gered Gereedschap of Dorcas ingezameld, om te worden verstuurd naar projecten in ontwikkelingslanden. Kapot gereedschap kan soms nog worden gerepareerd. Gered Gereedschap heeft inzamelbakken bij een grote bouwmarktketen staan. Op de website van Dorcas kun je zoeken naar inzamelpunten. Is elektrisch gereedschap niet meer te repareren, dan kan het gescheiden worden ingeleverd als elektrisch apparaat. Kleine elektrische apparaten (niet langer, breder of hoger dan 25 cm) kunnen in WeCycle-inzamelbakken in diverse bouwmarkten, elektronicawinkels en in sommige supermarkten worden ingeleverd. Een leverancier is verplicht om op verzoek een oud elektrisch apparaat voor je af te voeren bij aankoop van een nieuwe. Dit geldt ook voor webaankopen. Elektronische apparaten kunnen altijd bij de leverancier van een nieuwe versie worden ingeleverd of bij de milieustraat van de gemeente."
+   "titelafval":  "geimpregneerd hout",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+  "categorie":   "Hout",
+  "toelichting":  "Geïmpregneerd hout, zoals van tuinschuttingen, bevat biociden, bijvoorbeeld een mengsel van koper en chroom, wat schadelijk kan zijn voor mens en milieu. Geimpregneerd hout kan daarom niet gerecycled worden, maar wordt verbrand in een afvalenergiecentrale. Geimpregneerd hout kan worden ingeleverd bij de gemeentelijke milieustraat. Grote stukken kunnen vaak op afspraak worden opgehaald als grof huishoudelijk afval. Soms moet daarvoor betaald worden. Informeer naar de mogelijkheden bij je gemeente."
   },
   {
-    "titel": "hard plastic",
-    "loospunt": "Milieustraat of restafval",
+    "titelafval": "gekleurd verpakkingsglas",
+   "loospunttitel":  "Glasbak",
+   "categorie":  "Glas",
+   "toelichting": "Alleen verpakkingsglas hoort thuis in de glasbak. Andere glassoorten, zoals vensterglas, hittebestendig glas (bijvoorbeeld een ovenschaal) en drinkglazen hebben een andere samenstelling en mogen niet in de glasbak. Vensterglas kun je inleveren als bouw- en sloopafval: vensterglas. Al het overige glaswerk hoort bij het restafval. Wanneer de glasbak verdeeld is in kleurbakken mag blauw glas bij het groene of 'bonte' glas."
+  },
+  {
+   "titelafval":  "gemotoriseerd huishoudelijk apparaat",
+   "loospunttitel":  "Inzamelpunt goed doel, kringloopwinkel of aanbieden op website voor tweedehands verkoop",
+   "categorie":  "Kringloop",
+   "toelichting": "Met veel kringloopwinkels kun je een afspraak maken om bruikbare spullen thuis op te halen."
+  },
+  {
+   "titelafval":  "geplastificeerd papier of karton",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+    "toelichting":"Kun je papier niet scheuren, dan is het geplastificeerd. Geplastificeerd papier of karton heeft een dun laagje kunststof, dat het recyclingsproces van papier verstoort. Daarom hoort het bij het restafval."
+  },
+  {
+   "titelafval":  "gloei- of halogeenlamp",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+    "toelichting":"Gloei- en halogeenlampen hebben  een andere samenstelling dan verpakkingsglas. Daarom horen ze niet in de glasbak, dat zou de glasrecycling verstoren. Een gloei- of halogeenlamp bevat ook geen gevaarlijke stoffen en dus hij hoeft niet in de inzamelbak voor spaarlampen."
+  },
+  {
+   "titelafval":  "graspol en -plag",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Grof tuinafval",
+   "toelichting": "Kleine hoeveelheden graspollen of plaggen mogen in de gft-bak of op de composthoop. Grote hoeveelheden, met veel zand er aan, kun je naar de milieustraat brengen. Ter plaatse bepalen medewerkers in welke bak het moet. Grof tuinafval kan worden ingeleverd bij de milieustraat. Soms kun je het ook op afspraak door de gemeente laten ophalen."
+  },
+  {
+   "titelafval":  "grof tuinafval",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Grof tuinafval",
+    "toelichting":"Grof tuinafval kan worden ingeleverd bij de milieustraat. Soms kun je het ook op afspraak door de gemeente laten ophalen."
+  },
+  {
+  "titelafval":   "grond",
+   "loospunttitel":  "Gft-container (kleine hoeveelheden) of milieustraat",
+   "categorie":  "Overig afval",
+   "toelichting": "Breng aarde, grond of zand naar de milieustraat. (Tuin)aarde, zand en klei mogen maar beperkt in de GFT-container of op de eigen composthoop. Denk bijvoorbeeld aan de inhoud van een bloempot of de aanhangende aarde bij onkruid. Informeer bij je gemeente hoe je grote hoeveelheden (meer dan 1 m3 of meer dan 1.500 kg) kunt afdanken."
+  },
+  {
+   "titelafval":  "groot huishoudelijk apparaat",
+   "loospunttitel":  "Winkel bij aankoop van een nieuwe, of de milieustraat",
+   "categorie":  "Elektrische apparatuur",
+   "toelichting": "Vraag de installateur of bezorger van een nieuw apparaat om het oude apparaat meteen mee te nemen. Dat kan ook met webaankopen! Elektronische apparaten kunnen ook altijd worden ingeleverd bij de milieustraat van de gemeente."
+  },
+  {
+   "titelafval":  "handgereedschap, werkend",
+   "loospunttitel":  "Inzamelpunt goed doel, kringloopwinkel of aanbieden op website voor tweedehands verkoop",
+   "categorie":  "Kringloop",
+   "toelichting": "Gereedschap wordt door o.a. stichting Gered Gereedschap of Dorcas ingezameld, om te worden verstuurd naar projecten in ontwikkelingslanden. Kapot gereedschap kan soms nog worden gerepareerd. Gered Gereedschap heeft inzamelbakken bij een grote bouwmarktketen staan. Op de website van Dorcas kun je zoeken naar inzamelpunten. Is elektrisch gereedschap niet meer te repareren, dan kan het gescheiden worden ingeleverd als elektrisch apparaat. Kleine elektrische apparaten (niet langer, breder of hoger dan 25 cm) kunnen in WeCycle-inzamelbakken in diverse bouwmarkten, elektronicawinkels en in sommige supermarkten worden ingeleverd. Een leverancier is verplicht om op verzoek een oud elektrisch apparaat voor je af te voeren bij aankoop van een nieuwe. Dit geldt ook voor webaankopen. Elektronische apparaten kunnen altijd bij de leverancier van een nieuwe versie worden ingeleverd of bij de milieustraat van de gemeente."
+  },
+  {
+   "titelafval":  "handpompje",
+   "loospunttitel":  "PMD zak of bak",
+   "categorie":  "PMD",
+   "toelichting": "Schroef het fleslichaam los van de pomp en werp de onderdelen los in het PMD."
+  },
+  {
+"titelafval": "hard plastic",
+   "loospunttitel":  "Milieustraat of restafval",
     "categorie": "Overig plastic",
-    "toelichting": "Alleen verpakkingsplastic hoort bij het PMD of de plastic-inzameling. Voor CD's en CD-doosjes staan op sommige plaatsen speciale inzamelbakken. Grote aantallen CD-doosjes kunnen ook voor recycling worden ingeleverd bij de milieustraat. Haal dan wel de schijfjes of bandjes eruit, die horen bij het restafval."
+    "toelichting":"Alleen verpakkingsplastic hoort bij het PMD of de plastic-inzameling. Voor CD's en CD-doosjes staan op sommige plaatsen speciale inzamelbakken. Grote aantallen CD-doosjes kunnen ook voor recycling worden ingeleverd bij de milieustraat. Haal dan wel de schijfjes of bandjes eruit, die horen bij het restafval."
   },
   {
-    "titel": "herbruikbaar meubel of huishoudelijk voorwerp",
-    "loospunt": "Kringloopwinkel of aanbieden via website voor tweedehands goederen",
+    "titelafval": "herbruikbaar meubel of huishoudelijk voorwerp",
+   "loospunttitel":  "Kringloopwinkel of aanbieden via website voor tweedehands goederen",
     "categorie": "Kringloop",
-    "toelichting": "Met veel kringloopwinkels kun je een afspraak maken om bruikbare spullen thuis op te halen."
+    "toelichting":"Met veel kringloopwinkels kun je een afspraak maken om bruikbare spullen thuis op te halen."
   },
   {
-    "titel": "hydrokorrels",
-    "loospunt": "Vuilnisbak (restafval)",
+   "titelafval":  "hout en houten plaatmateriaal",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Hout",
+   "toelichting": "Grote stukken kunnen vaak op afspraak worden opgehaald als grof huishoudelijk afval. Informeer naar de mogelijkheden bij je gemeente. Kleine stukken mogen bij het restafval."
+  },
+  {
+   "titelafval":  "huishoudelijk plastic product",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Alleen verpakkingsplastic mag bij de PMD inzameling. Ander plastic kan bij het restafval. Bij grote hoeveelheden kan het worden ingeleverd bij de gemeentelijke milieustraat."
+  },
+  {
+    "titelafval": "hydrokorrels",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Hydrokorrels worden in plantenbakken gebruikt om vocht vast te houden en zijn niet compsteerbaar. Ze horen dus bij het restafval."
+  },
+  {
+   "titelafval":  "hygieneproduct",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Gooi ze niet in het toilet. Deze kan dan verstopt raken. Gooi ze ook niet in de biobak, tenzij uw gemeente tot de paar gemeentes in de Flevopolder behoort waar dit is toegestaan. Hygiëneproducten zijn (nog) niet recyclebaar, maar daar wordt wel mee geëxperimenteerd. Luiers worden dan gescheiden ingezameld voor vergisting van de uitwerpselen, en recycling van het kunststof. Informeer hiernaar bij uw gemeente."
+  },
+  {
+   "titelafval":  "injectienaald",
+   "loospunttitel":  "Milieustraat",
+   "categorie":  "Klein chemisch afval",
+   "toelichting": "Injectienaalden kun je ook inleveren bij je eigen apotheek. Verpak ze zo, dat niemand zich eraan kan verwonden of infecties kan oplopen. Lever Klein Chemisch Afval apart in om milieuvervuiling en gevaarlijke situaties te voorkomen."
+  },
+  {
+   "titelafval":  "isolatiemateriaal",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Grof huishoudelijk afval",
+   "toelichting": "Isolatiematerialen breng je naar de milieustraat als grof huishoudelijk afval. Bij de milieustraat staan verschillende bakken voor verschillende afvalsoorten. Voor bouwmaterialen zijn er diverse bakken, bijvoorbeeld voor puin, hout en vlakglas. Voor schoon piepschuim (polystyreenschuim, EPS) is er ook een aparte bak. Het verschilt per gemeente hoeveel er betaald moet worden om bouwafval in te leveren. Soms kan het ook op afspraak opgehaald worden. Informeer voor mogelijkheden en kosten bij uw gemeente. Voor bouwafval kunt u ook een container huren of bij de bouwmarkt een éénkuubs afvalzak kopen. In de prijs van zo'n zak of container zitten ophaalkosten, milieubelasting en kosten van afvalverwerking inbegrepen."
+  },
+  {
+    "titelafval": "kaarsvet",
+   "loospunttitel":  "Vuilnisbak (restafval)",
     "categorie": "Restafval",
-    "toelichting": "Hydrokorrels worden in plantenbakken gebruikt om vocht vast te houden en zijn niet compsteerbaar. Ze horen dus bij het restafval."
+    "toelichting":"Kaarsvet en kaarsstompjes van oude kaarsen zijn gemakkelijk te gebruiken voor nieuwe kaarsen. Op diverse plaatsen, zoals bij sommige kringloopwinkels of kaarsenmakerijen kunnen ze worden ingeleverd. Hier is geen landelijke lijst van. Geen inleverpunt in de buurt gevonden?Doe ze dan bij het restafval."
   },
   {
-    "titel": "hygieneproduct",
-    "loospunt": "Vuilnisbak (restafval)",
+    "titelafval": "kaaspapier",
+    "loospunttitel": "Vuilnisbak (restafval)",
     "categorie": "Restafval",
-    "toelichting": "Gooi ze niet in het toilet. Deze kan dan verstopt raken. Gooi ze ook niet in de biobak, tenzij uw gemeente tot de paar gemeentes in de Flevopolder behoort waar dit is toegestaan. Hygiëneproducten zijn (nog) niet recyclebaar, maar daar wordt wel mee geëxperimenteerd. Luiers worden dan gescheiden ingezameld voor vergisting van de uitwerpselen, en recycling van het kunststof. Informeer hiernaar bij uw gemeente."
+   "toelichting": "Alleen als de plastic- en papierlaag makkelijk van elkaar te halen is en het papier niet vettig geworden is, mag het papier in de papierbak, en het plastic bij de het PMD. In andere gevallen is het restafval."
   },
   {
-    "titel": "injectienaald",
-    "loospunt": "Milieustraat",
-    "categorie": "Klein chemisch afval",
-    "toelichting": "Injectienaalden kun je ook inleveren bij je eigen apotheek. Verpak ze zo, dat niemand zich eraan kan verwonden of infecties kan oplopen. Lever Klein Chemisch Afval apart in om milieuvervuiling en gevaarlijke situaties te voorkomen."
+   "titelafval":  "kalkpapier",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Kalk- of calqueerpapier is papier gemaakt met de gebruikelijke cellulose als grondstof, maar met een olieachtige substantie behandeld om het een bepaalde mate van transparantie (opaciteit) te geven. Daardoor is het niet geschikt om bij het “gewone” oudpapier te doen (oliën, vetten, siliconen etc. zijn ongewenste stoffen bij de verwerking van oudpapier)."
   },
   {
-    "titel": "isolatiemateriaal",
-    "loospunt": "Milieustraat of grofvuil-ophaaldienst",
-    "categorie": "Grof huishoudelijk afval",
-    "toelichting": "Isolatiematerialen breng je naar de milieustraat als grof huishoudelijk afval. Bij de milieustraat staan verschillende bakken voor verschillende afvalsoorten. Voor bouwmaterialen zijn er diverse bakken, bijvoorbeeld voor puin, hout en vlakglas. Voor schoon piepschuim (polystyreenschuim, EPS) is er ook een aparte bak. Het verschilt per gemeente hoeveel er betaald moet worden om bouwafval in te leveren. Soms kan het ook op afspraak opgehaald worden. Informeer voor mogelijkheden en kosten bij uw gemeente. Voor bouwafval kunt u ook een container huren of bij de bouwmarkt een éénkuubs afvalzak kopen. In de prijs van zo'n zak of container zitten ophaalkosten, milieubelasting en kosten van afvalverwerking inbegrepen."
-  },
-  {
-    "titel": "kattenbakkorrels",
-    "loospunt": "Vuilnisbak (restafval)",
+    "titelafval": "kattenbakkorrels",
+    "loospunttitel": "Vuilnisbak (restafval)",
     "categorie": "Restafval",
-    "toelichting": "Kattenbakkorrels horen bij het restafval. Ze horen niet bij het GFT, ook niet als ze van natuurlijke grondstoffen zijn gemaakt. Ze mogen in geen geval door de WC worden gespoeld. Gooi kattenbakkorrels gemaakt van natuurlijke grondstoffen ook niet op de eigen composthoop, want kattenpoep kan ziektekiemen bevatten."
+    "toelichting":"Kattenbakkorrels horen bij het restafval. Ze horen niet bij het GFT, ook niet als ze van natuurlijke grondstoffen zijn gemaakt. Ze mogen in geen geval door de WC worden gespoeld. Gooi kattenbakkorrels gemaakt van natuurlijke grondstoffen ook niet op de eigen composthoop, want kattenpoep kan ziektekiemen bevatten."
   },
   {
-    "titel": "keukenafval",
-    "loospunt": "Gft-container",
+   "titelafval":  "keukenafval",
+   "loospunttitel":  "Gft-container",
     "categorie": "Groente-, fruit- en tuinafval (gft)",
-    "toelichting": "Gekookte en gebakken etensresten en vlees- en visafval mogen wel in de GFT bak, maar niet op de eigen composthoop. Ze zijn namelijk vaak zout en vet, en ze trekken ongedierte aan."
+    "toelichting":"Gekookte en gebakken etensresten en vlees- en visafval mogen wel in de GFT bak, maar niet op de eigen composthoop. Ze zijn namelijk vaak zout en vet, en ze trekken ongedierte aan."
   },
   {
-    "titel": "koel- of vrieskast",
-    "loospunt": "Winkel bij aankoop van een nieuwe, milieustraat of grofvuil ophaaldienst",
-    "categorie": "Koel- en vrieskasten",
-    "toelichting": "Een oude koel- of vrieskast kan het beste worden afgevoerd voor demontage, ook als hij nog werkt. Zet een oude koel- of vriekast niet onbeheerd aan de straat. Het koelsysteem kan lek raken, waardoor zeer schadelijke koudemiddelen vervliegen. Een leverancier moet op verzoek zorgen voor afvoer van een vervangen elektrisch apparaat. Dit geldt ook voor online aankopen. Inleveren kan ook altijd bij de milieustraat van de gemeente en meestal kan ook een afspraak worden gemaakt om een apparaat thuis op te halen.\nAlleen een koel- of vrieskast met energielabel A++ of A+++ is zo energiezuinig dat het de moeite loont deze in het tweedehands circuit van de hand te doen."
+   "titelafval":  "klein metalen voorwerp",
+   "loospunttitel":  "Milieustraat of restafval",
+   "categorie":  "Restafval",
+   "toelichting": "Kleine metalen voorwerpen als schroeven, spijkers, bouten, moeren en sleutels kunnen in grotere hoeveelheden gescheiden worden ingeleverd in de milieustraat als metalen. Een enkele schroef, spijker of sleutelkan bij het restafval: in de afvalverbrandingsinstallatie wordt dit gescheiden met magneten."
   },
   {
-    "titel": "koffiefilter en koffiedrab",
-    "loospunt": "Gft-container of eigen composthoop",
-    "categorie": "Groente-, fruit- en tuinafval (gft)",
-    "toelichting": "Koffiedrab door de gootsteen of het toilet spoelen kan verstopping veroorzaken. Een koffiepad is niet composteerbaar, die hoort bij het restafval."
-  },
-  {
-    "titel": "kunststof kozijn",
-    "loospunt": "Milieustraat",
-    "categorie": "Overig plastic",
-    "toelichting": "Kleine stukken kunnen ook in de vuilnisbak (restafval). Lever oude kunststof kozijnen in bij de milieustraat. De Stichting Recycling VKG regelt de recycling van kunststof kozijnen in Nederland. Op www.vkgkozijn.nl/zakelijk/vkg-recycle/ staan inzamelpunten waar professionele bouwers en particulieren gratis hun oude kunststof kozijnen kunnen inleveren."
-  },
-  {
-    "titel": "lege kca verpakking",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Een lege verpakking van een product dat als klein chemisch afval moet worden afgedankt, hoort bij het restafval. Lege kunststof flessen van b.v. terpentine of motorolie horen niet bij het PMD en ook niet bij het Klein Chemisch Afval."
-  },
-  {
-    "titel": "lijm en kit",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Lijm en kit hoeven niet bij het Klein Chemisch Afval. Gooi het bij voorkeur in een gesloten verpakking bij het restafval."
-  },
-  {
-    "titel": "luchtontvochtigingsvloeistof",
-    "loospunt": "Doorspoelen in gootsteen",
-    "categorie": "Overig afval",
-    "toelichting": "Vochtvreters bestaan uit een soort zout. Als dit vocht heeft opgenomen, mag de ontstane vloeistof door de gootsteen."
-  },
-  {
-    "titel": "magneet",
-    "loospunt": "Milieustraat of oudijzerhandel",
-    "categorie": "Metaal",
-    "toelichting": "Magneten bestaan uit legeringen van metalen die het smeltproces van staal kunnen verstoren. Lever ze daarom gescheiden in. Metalen en metalen producten kun je inleveren bij de milieustraat of weggebrengen naar een oudijzerhandel. Soms krijg je er nog geld voor. Ook kun je proberen om een afspraak te maken om het op te laten halen."
-  },
-  {
-    "titel": "matrassen en schuimplastic",
-    "loospunt": "Milieustraat of grofvuil-ophaaldienst",
-    "categorie": "Grof huishoudelijk afval",
-    "toelichting": "Vraag bij aankoop van een nieuwe matras of de winkel de oude wil innemen voor recycling. Daarnaast moet de milieustraat een mogelijkheid hebben om ze gescheiden in te nemen."
-  },
-  {
-    "titel": "medicijn",
-    "loospunt": "Milieustraat",
-    "categorie": "Klein chemisch afval",
-    "toelichting": "Medicijnen kun je ook inleveren bij de apotheek waar ze vandaan komen. Apotheken verplichten zich volgens hun eigen gedragscode om teruggebrachte medicijnen op de juiste wijze af te voeren. Sommige apotheken nemen ondanks deze gedragscode toch geen medicijnen terug. U kunt hierover een klacht indienen bij landelijkmeldpuntzorg.nl. \n\nLever Klein Chemisch Afval apart in om milieuvervuiling en gevaarlijke situaties te voorkomen. Gooi medicijnen niet in het toilet of de gootsteen."
-  },
-  {
-    "titel": "metalen verpakking",
-    "loospunt": "PMD zak of bak",
+   "titelafval":  "kleine sluitingen en doppen",
+   "loospunttitel":  "PMD zak of bak",
     "categorie": "PMD",
-    "toelichting": "Verwijder het eventueel aanwezige aluminiumfolie of aluminium trekdeksel van een plastic verpakking en doe dat los bij het PMD. Verwijder ook zo veel als mogelijk papieren onderdelen als stickers, maar mocht dat niet lukken, dan is dat niet zo'n heel groot probleem."
+    "toelichting":"Plastic en metalen onderdelen van verpakkingen die kleiner dan 4x4 cm zijn, zoals schroefdoppen, vielen voorheen door een zeef maar worden inmiddels ook gerecycled. Het sorteerproces is echter nog niet optimaal, zodat er nog doppen verloren gaan. De aanbeveling is daarom om de dop waar mogelijk op de fles/flacon te laten zitten. Dit is ook hygiënischer: een eventueel restant kan dan niet uit de verpakking lekken en gaan stinken."
   },
   {
-    "titel": "mobiele telefoon",
-    "loospunt": "Goede doelen of bedrijven die telefoons inzamelen of inkopen",
-    "categorie": "Elektrische apparatuur",
-    "toelichting": "Je kunt op internet een goed doel zoeken dat telefoons inzamelt of een bedrijf dat telefoons inkoopt. Ook kun je een werkende telefoon inleveren bij de winkel waar je hem gekocht hebt. Mobiele telefoons die nog werken zijn geld waard, voor jezelf of voor een goed doel. En telefoons bevatten elektronica met waardevolle zeldzame metalen, dus ook een kapotte telefoon is waardevol. In Nederland liggen miljoenen telefoons die niet meer worden gebruikt in de kast."
+   "titelafval":  "koel- of vrieskast",
+   "loospunttitel":  "Winkel bij aankoop van een nieuwe, milieustraat of grofvuil ophaaldienst",
+   "categorie":  "Koel- en vrieskasten",
+    "toelichting":"Een oude koel- of vrieskast kan het beste worden afgevoerd voor demontage, ook als hij nog werkt. Zet een oude koel- of vriekast niet onbeheerd aan de straat. Het koelsysteem kan lek raken, waardoor zeer schadelijke koudemiddelen vervliegen. Een leverancier moet op verzoek zorgen voor afvoer van een vervangen elektrisch apparaat. Dit geldt ook voor online aankopen. Inleveren kan ook altijd bij de milieustraat van de gemeente en meestal kan ook een afspraak worden gemaakt om een apparaat thuis op te halen.\nAlleen een koel- of vrieskast met energielabel A++ of A+++ is zo energiezuinig dat het de moeite loont deze in het tweedehands circuit van de hand te doen."
   },
   {
-    "titel": "niet-recyclebaar product",
-    "loospunt": "Vuilnisbak (restafval)",
+   "titelafval":  "koffiecupje",
+   "loospunttitel":  "Inleversysteem fabrikant of vuilnisbak (restafval)",
+   "categorie":  "Overig afval",
+   "toelichting": "De cupjes mogen niet in de zak voor plastic, blik en drinkpakken omdat er koffiedrab in zit. Daardoor kunnen ze niet als PMD gerecycled worden. Een aantal merken (Nespresso, l’Or) heeft een eigen inzamelsysteem. Je kunt hun cupjes bij de winkel inleveren of meegeven aan de bezorger van nieuwe cups (in een recyclingzakje), of je stuurt ze op. Is dit niet mogelijk, dan gooi je de koffiecupjes bij het restafval."
+  },
+  {
+   "titelafval":  "koffiefilter en koffiedrab",
+   "loospunttitel":  "Gft-container of eigen composthoop",
+   "categorie":  "Groente-, fruit- en tuinafval (gft)",
+   "toelichting": "Koffiedrab door de gootsteen of het toilet spoelen kan verstopping veroorzaken. Een koffiepad is niet composteerbaar, die hoort bij het restafval."
+  },
+  {
+  "titelafval":   "kunststof kozijn",
+   "loospunttitel":  "Milieustraat",
+   "categorie":  "Overig plastic",
+   "toelichting": "Kleine stukken kunnen ook in de vuilnisbak (restafval). Lever oude kunststof kozijnen in bij de milieustraat. De Stichting Recycling VKG regelt de recycling van kunststof kozijnen in Nederland. Op www.vkgkozijn.nl/zakelijk/vkg-recycle/ staan inzamelpunten waar professionele bouwers en particulieren gratis hun oude kunststof kozijnen kunnen inleveren."
+  },
+  {
+  "titelafval":   "kunststof kurk",
+   "loospunttitel":  "PMD zak of bak",
+   "categorie": "PMD",
+    "toelichting":"Een kurk op een wijn- of portfles mag ook met fles en al in de glasbak. Natuurkurk kan gescheiden ingeleverd worden. Dan wordt het gerecycled als isolatiemateriaal of bodembedekker. Voor inleveradressen zie www.kurkretour.nl of www.recycork.be."
+  },
+  {
+    "titelafval": "langspeelplaat",
+    "loospunttitel": "Vuilnisbak (restafval)",
     "categorie": "Restafval",
-    "toelichting": "Een product dat nog werkt, kun je ook naar de kringloopwinkel brengen of te koop aanbieden op een website voor tweedehands spullen."
+    "toelichting":"Een LP die nog goed afspeelbaar is, kun je naar de kringloopwinkel brengen of aanbieden op een website voor tweedehands spullen."
   },
   {
-    "titel": "olie en vet",
-    "loospunt": "Milieustraat en diverse brengpunten bij supermarkten, scholen en sportclubs",
-    "categorie": "Frituurolie",
-    "toelichting": "Frituurvet, (bak)olie en vette jus kun je in een afsluitbare verpakking zoals een melkpak of plastic fles met schroefdop schenken. Lever het in in een speciale inzamelbak bij de milieustraat of sommige supermarkten, kringloopwinkels en (sport-)clubs."
+    "titelafval": "lege kca verpakking",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Een lege verpakking van een product dat als klein chemisch afval moet worden afgedankt, hoort bij het restafval. Lege kunststof flessen van b.v. terpentine of motorolie horen niet bij het PMD en ook niet bij het Klein Chemisch Afval."
   },
   {
-    "titel": "oud ijzer en andere metalen",
-    "loospunt": "Milieustraat of oudijzerhandel",
-    "categorie": "Metaal",
-    "toelichting": "Kleine stukken kunnen ook bij het restafval. Metalen worden (deels) uit de resten van de vuilverbranding gehaald. Metalen en metalen producten kun je inleveren bij de milieustraat of weggebrengen naar een oudijzerhandel. Soms krijg je er nog geld voor. Ook kun je proberen om een afspraak te maken om het op te laten halen."
+   "titelafval":  "lijm en kit",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Lijm en kit hoeven niet bij het Klein Chemisch Afval. Gooi het bij voorkeur in een gesloten verpakking bij het restafval."
   },
   {
-    "titel": "overig grof afval",
-    "loospunt": "Milieustraat of grofvuil-ophaaldienst",
-    "categorie": "Grof huishoudelijk afval",
-    "toelichting": "Vraag bij aankoop van een nieuwe matras of de winkel de oude wil innemen voor recycling. Daarnaast moet de milieustraat een mogelijkheid hebben om ze gescheiden in te nemen."
+   "titelafval":  "luchtontvochtigingsvloeistof",
+   "loospunttitel":  "Doorspoelen in gootsteen",
+   "categorie":  "Overig afval",
+   "toelichting": "Vochtvreters bestaan uit een soort zout. Als dit vocht heeft opgenomen, mag de ontstane vloeistof door de gootsteen."
   },
   {
-    "titel": "overig kunststof afval",
-    "loospunt": "Milieustraat of grofvuil-ophaaldienst",
-    "categorie": "Grof huishoudelijk afval",
-    "toelichting": "Dit materiaal hoort bij het restafval en in grotere hoeveelheden, als het niet in de vuilniszak of -container past, valt het onder grof huishoudelijk afval. Het kan dan worden ingeleverd bij de milieustraat. Voor recyclebaar hard plastic, zoals PVC-pijpen, kan er een aparte container staan. Alleen plastic verpakkingsafval mag bij de Plastic- en Metalen verpakkingen en Drankenkartons (PMD)."
+  "titelafval":   "magneet",
+   "loospunttitel":  "Milieustraat of oudijzerhandel",
+   "categorie":  "Metaal",
+   "toelichting": "Magneten bestaan uit legeringen van metalen die het smeltproces van staal kunnen verstoren. Lever ze daarom gescheiden in. Metalen en metalen producten kun je inleveren bij de milieustraat of weggebrengen naar een oudijzerhandel. Soms krijg je er nog geld voor. Ook kun je proberen om een afspraak te maken om het op te laten halen."
   },
   {
-    "titel": "overige plastic producten",
-    "loospunt": "Vuilnisbak (restafval)",
+  "titelafval":   "matrasbeschermer",
+   "loospunttitel":  "Milieustraat of restafval",
+   "categorie":  "Restafval",
+   "toelichting": "Als de matrasbeschermer van doorgestikt materiaal is (met een soort kussentjes), of bestemd is voor onder je matras, dan is het restafval. Moltons en andere enkelvoudige textiel mag in de kledingcontainer."
+  },
+  {
+   "titelafval":  "matrassen en schuimplastic",
+    "loospunttitel": "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Grof huishoudelijk afval",
+   "toelichting": "Vraag bij aankoop van een nieuwe matras of de winkel de oude wil innemen voor recycling. Daarnaast moet de milieustraat een mogelijkheid hebben om ze gescheiden in te nemen."
+  },
+  {
+   "titelafval":  "medicijn",
+   "loospunttitel":  "Milieustraat",
+   "categorie":  "Klein chemisch afval",
+   "toelichting": "Medicijnen kun je ook inleveren bij de apotheek waar ze vandaan komen. Apotheken verplichten zich volgens hun eigen gedragscode om teruggebrachte medicijnen op de juiste wijze af te voeren. Sommige apotheken nemen ondanks deze gedragscode toch geen medicijnen terug. U kunt hierover een klacht indienen bij landelijkmeldpuntzorg.nl. \n\nLever Klein Chemisch Afval apart in om milieuvervuiling en gevaarlijke situaties te voorkomen. Gooi medicijnen niet in het toilet of de gootsteen."
+  },
+  {
+   "titelafval":  "mest van kleine huisdieren",
+   "loospunttitel":  "Gft-container of eigen composthoop",
+   "categorie":  "Groente-, fruit- en tuinafval (gft)",
+   "toelichting": "Een kleine hoeveelheid huisdierenmest (van vogels, cavia's of hamsters) kan in de GFT-container. Honden- en kattenpoep hoort niet bij het GFT, maar bij restafval."
+  },
+  {
+   "titelafval":  "metalen verpakking",
+   "loospunttitel":  "PMD zak of bak",
+   "categorie":  "PMD",
+   "toelichting": "Verwijder het eventueel aanwezige aluminiumfolie of aluminium trekdeksel van een plastic verpakking en doe dat los bij het PMD. Verwijder ook zo veel als mogelijk papieren onderdelen als stickers, maar mocht dat niet lukken, dan is dat niet zo'n heel groot probleem."
+  },
+  {
+    "titelafval": "meubilair",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Grof huishoudelijk afval",
+   "toelichting": "Meubels die nog goed bruikbaar zijn, kun je naar de kringloopwinkel brengen of te koop aanbieden op een website voor tweedehands spullen. Voor matrassen moet de milieustraat een mogelijkheid hebben om ze gescheiden in te nemen."
+  },
+  {
+    "titelafval": "mobiele telefoon",
+   "loospunttitel":  "Goede doelen of bedrijven die telefoons inzamelen of inkopen",
+   "categorie":  "Elektrische apparatuur",
+    "toelichting":"Je kunt op internet een goed doel zoeken dat telefoons inzamelt of een bedrijf dat telefoons inkoopt. Ook kun je een werkende telefoon inleveren bij de winkel waar je hem gekocht hebt. Mobiele telefoons die nog werken zijn geld waard, voor jezelf of voor een goed doel. En telefoons bevatten elektronica met waardevolle zeldzame metalen, dus ook een kapotte telefoon is waardevol. In Nederland liggen miljoenen telefoons die niet meer worden gebruikt in de kast."
+  },
+  {
+   "titelafval":  "niet-recyclebaar afval",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Sommige zaken zijn niet geschikt voor recycling, en ook niet zo schadelijk dat men er een aparte stroom voor heeft ingericht."
+  },
+  {
+   "titelafval":  "niet-recyclebaar groot afval",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Grof huishoudelijk afval",
+    "toelichting":"Een product dat nog werkt, kun je ook naar de kringloopwinkel brengen of te koop aanbieden op een website voor tweedehands spullen."
+  },
+  {
+   "titelafval":  "niet-recyclebaar product",
+  "loospunttitel":   "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Een product dat nog werkt, kun je ook naar de kringloopwinkel brengen of te koop aanbieden op een website voor tweedehands spullen."
+  },
+  {
+   "titelafval":  "niet-verpakkingsglas",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Alleen verpakkingsglas hoort in de glasbak. Dit product kan een andere samenstelling hebben die de glasrecycling verstoort."
+  },
+  {
+   "titelafval":  "olie en vet",
+   "loospunttitel":  "Milieustraat en diverse brengpunten bij supermarkten, scholen en sportclubs",
+   "categorie":  "Frituurolie",
+   "toelichting": "Frituurvet, (bak)olie en vette jus kun je in een afsluitbare verpakking zoals een melkpak of plastic fles met schroefdop schenken. Lever het in in een speciale inzamelbak bij de milieustraat of sommige supermarkten, kringloopwinkels en (sport-)clubs."
+  },
+  {
+   "titelafval":  "omsnoerband",
+   "loospunttitel":  "PMD",
+   "categorie":  "",
+   "toelichting": ""
+  },
+  {
+   "titelafval":  "ordner",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Een ordner is veelal van karton en/of plastic met een metalen ringband. Geplastificeerd karton gaat bij restafval, een losse metalen ringband kan in de milieustraat bij metalen."
+  },
+  {
+   "titelafval":  "oud ijzer en andere metalen",
+   "loospunttitel":  "Milieustraat of oudijzerhandel",
+   "categorie":  "Metaal",
+   "toelichting": "Kleine stukken kunnen ook bij het restafval. Metalen worden (deels) uit de resten van de vuilverbranding gehaald. Metalen en metalen producten kun je inleveren bij de milieustraat of weggebrengen naar een oudijzerhandel. Soms krijg je er nog geld voor. Ook kun je proberen om een afspraak te maken om het op te laten halen."
+  },
+  {
+   "titelafval":  "overig grof afval",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Grof huishoudelijk afval",
+   "toelichting": "Vraag bij aankoop van een nieuwe matras of de winkel de oude wil innemen voor recycling. Daarnaast moet de milieustraat een mogelijkheid hebben om ze gescheiden in te nemen."
+  },
+  {
+   "titelafval":  "overig kunststof afval",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Grof huishoudelijk afval",
+   "toelichting": "Dit materiaal hoort bij het restafval en in grotere hoeveelheden, als het niet in de vuilniszak of -container past, valt het onder grof huishoudelijk afval. Het kan dan worden ingeleverd bij de milieustraat. Voor recyclebaar hard plastic, zoals PVC-pijpen, kan er een aparte container staan. Alleen plastic verpakkingsafval mag bij de Plastic- en Metalen verpakkingen en Drankenkartons (PMD)."
+  },
+  {
+  "titelafval":  "overige plastic producten",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Alleen verpakkingsplastic mag bij de PMD inzameling. Ander plastic kan bij het restafval. Bij grote hoeveelheden kan het worden ingeleverd bij de gemeentelijke milieustraat."
+  },
+  {
+   "titelafval":  "pan",
+  "loospunttitel":   "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Een nog bruikbare pan kun je naar de kringloopwinkel brengen. Een anti-aanbakpan waarvan de (Teflon) beschermlaag beschadigd is, is niet meer bruikbaar."
+  },
+  {
+  "titelafval":   "papier en karton",
+   "loospunttitel":  "Papierbak",
+   "categorie":  "Oudpapier en karton",
+   "toelichting": "Om oudpapier en karton goed te kunnen hergebruiken, moet het gescheiden worden van het restafval, zodat het schoon en droog blijft. Een boek dat nog leesbaar is, kun je ook naar de kringloopwinkel brengen. Kunststof en papier dat waterafstotend is gemaakt verstoren de papierrecycling. Gooi daarom geen melk- en sappakken, gewaxte snoeppapiertjes, broodzakken en foto's bij het oud papier."
+  },
+  {
+   "titelafval":  "papier met waslaagje",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+    "toelichting":"Soms heeft papier een waslaagje tegen uitdrogen (bijvoorbeeld papieren broodzakken) of om vetvlekken te voorkomen (bijvoorbeeld chocoladevlokken) of om vocht af te stoten (kartonnen diepvriesverpakkingen). De was zorgt ervoor dat het papier of karton niet geschikt is voor recycling. Daarom hoort het bij het restafval.\nOok wanneer een papieren broodzak deels van plastic is, gaat het papier van de zak bij restafval. Het plastic gedeelte kan eventueel bij PMD, maar geeft dan weinig milieuwinst."
+  },
+  {
+  "titelafval":   "papieren verpakking met plastic of aluminiumlaagje",
+  "loospunttitel":   "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Het plastic en/of aluminiumlaagje zorgt dat de verpakking niet recyclebaar is."
+  },
+  {
+   "titelafval":  "piepschuim EPS",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Grof huishoudelijk afval",
+   "toelichting": "Grote stukken piepschuim verpakkingen en piepschuim isolatiemateriaal kun je apart inleveren bij de milieustraat van de gemeente. Soms kun je ook een afspraak maken om het te laten ophalen als grof huishoudelijk afval. Vervuilde piepschuim verpakkingen als vleesschaaltjes horen bij het restafval. Ook kleine stukken piepschuim kunnen bij het restafval. Piepschuim hoort nooit bij het PMD-afval."
+  },
+  {
+   "titelafval":  "piepschuim schaaltje",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Vervuilde piepschuim verpakkingen als vleesschaaltjes horen bij het restafval. Kleine stukken piepschuim kunnen ook bij het restafval. Grote stukken piepschuim verpakkingen en isolatiemateriaal kunnen worden ingeleverd bij de milieustraat van de gemeente. Je kunt ook een afspraak maken om het te laten ophalen als grof huishoudelijk afval."
+  },
+  {
+   "titelafval":  "plakband",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Een vel papier met een klein stukje plakband mag bij het oud papier."
+  },
+  {
+   "titelafval":  "plastic bakje of kuipje",
+   "loospunttitel":  "PMD zak of bak",
+   "categorie":  "PMD",
+   "toelichting": "Verwijder een aanwezig aluminium - of plastic afdekfolie en doe dat los bij het PMD."
+  },
+  {
+  "titelafval":   "wegwerpbekertje",
+   "loospunttitel":  "PMD zak of bak",
+  "categorie":   "PMD",
+  "toelichting":  "Wegwerpbekertjes zijn een verpakking als je ze gevuld koopt, bijvoorbeeld op het station. Lege bekertjes horen dan bij Plastic - en Metalen verpakkingen en Drankkartons (PMD). Koop je wegwerpbekertjes voor een kinderfeestje of picknick, dan is het formeel geen verpakking en horen ze na gebruik officieel bij het restafval. \nPapieren bekertjes hebben een plasticcoating om de beker vloeistofdicht te maken. Ze kunnen daarom met de ingezamelde drankkartons gerecycled worden. Ze mogen niet in de oudpapierbak. Het plastic kan de papierrecycling verstoren.\nWegwerpbekertjes kunnen bij voldoende bekers (bijvoorbeeld in een kantoorsituatie) ook als aparte stroom opgehaald en gerecycled worden. Zie www.bekerrecycling.nl."
+  },
+  {
+  "titelafval":   "plastic fles",
+   "loospunttitel":  "PMD zak of bak",
+   "categorie": "PMD",
+   "toelichting": "Laat de dop er op: deze is doorgaans ook van plastic en voorkomt geklieder. Verwijder eventueel krimpfolie om flessen en flacons door het van de fles af te knippen en apart in het PMD te werpen."
+  },
+  {
+   "titelafval":  "plastic groente- of fruitnetje",
+    "loospunttitel": "Vuilnisbak (restafval)",
     "categorie": "Restafval",
-    "toelichting": "Alleen verpakkingsplastic mag bij de PMD inzameling. Ander plastic kan bij het restafval. Bij grote hoeveelheden kan het worden ingeleverd bij de gemeentelijke milieustraat."
+    "toelichting":"De netjes zijn van kunststof en mogen officieel bij het plastic afval. Toch adviseert Milieu Centaal om ze bij het restafval te doen. De netjes geven namelijk problemen in de sorteerinstallatie van kunststof verpakkingsafval: de netjes draaien zich om de messen van de maalmolens, waardoor de machine moet worden stilgelegd en de netjes van de messen afgesneden moeten worden. Ook blijft ander afval in de netjes vasthaken, waardoor je geen schone sorteerstromen krijgt."
   },
   {
-    "titel": "papier en karton",
-    "loospunt": "Papierbak",
-    "categorie": "Oudpapier en karton",
-    "toelichting": "Om oudpapier en karton goed te kunnen hergebruiken, moet het gescheiden worden van het restafval, zodat het schoon en droog blijft. Een boek dat nog leesbaar is, kun je ook naar de kringloopwinkel brengen. Kunststof en papier dat waterafstotend is gemaakt verstoren de papierrecycling. Gooi daarom geen melk- en sappakken, gewaxte snoeppapiertjes, broodzakken en foto's bij het oud papier."
+  "titelafval":   "plastic potje",
+   "loospunttitel":  "PMD zak of bak",
+   "categorie":  "PMD",
+   "toelichting": "Laat de dop er op: deze is doorgaans ook van plastic en voorkomt geklieder. Verwijder eventueel krimpfolie om flessen en flacons door het van de fles af te knippen en apart in het PMD te werpen."
   },
   {
-    "titel": "papieren verpakking met plastic of aluminiumlaagje",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Het plastic en/of aluminiumlaagje zorgt dat de verpakking niet recyclebaar is."
-  },
-  {
-    "titel": "piepschuim",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Vervuilde piepschuim verpakkingen als vleesschaaltjes horen bij het restafval. Kleine stukken piepschuim kunnen ook bij het restafval. Grote stukken piepschuim verpakkingen en isolatiemateriaal kunnen worden ingeleverd bij de milieustraat van de gemeente. Je kunt ook een afspraak maken om het te laten ophalen als grof huishoudelijk afval."
-  },
-  {
-    "titel": "plakband",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Een vel papier met een klein stukje plakband mag bij het oud papier."
-  },
-  {
-    "titel": "plastic fles",
-    "loospunt": "PMD zak of bak",
+   "titelafval":  "plastic schaaltje",
+   "loospunttitel":  "PMD zak of bak",
     "categorie": "PMD",
-    "toelichting": "Laat de dop er op: deze is doorgaans ook van plastic en voorkomt geklieder. Verwijder eventueel krimpfolie om flessen en flacons door het van de fles af te knippen en apart in het PMD te werpen."
+   "toelichting": "Een schaaltje van piepschuim waar vlees in verpakt was, hoort bij het restafval. Verwijder een eventueel aanwezige afdekfolie en doe dat los bij PMD."
   },
   {
-    "titel": "plastic verpakking met metaallaagje",
-    "loospunt": "Vuilnisbak (restafval)",
+   "titelafval":  "plastic statiegeldfles",
+   "loospunttitel":  "Supermarkt",
+   "categorie":  "Statiegeldflessen",
+   "toelichting": "Een plastic statiegeldfles kun je inleveren bij de supermarkt. Je krijgt het statiegeld terug en het materiaal van de fles wordt gerecycled."
+  },
+  {
+  "titelafval":   "plastic tube",
+  "loospunttitel":   "PMD zak of bak",
+   "categorie":  "PMD",
+   "toelichting": "Laat de dop er op: deze is doorgaans ook van plastic en voorkomt geklieder. Verwijder eventueel krimpfolie om flessen en flacons door het van de fles af te knippen en apart in het PMD te werpen."
+  },
+  {
+    "titelafval": "plastic verpakking met metaallaagje",
+    "loospunttitel": "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Het aluminium laagje maakt het folie ongeschikt voor plasticrecycling."
+  },
+  {
+   "titelafval":  "plastic verpakkingen overig",
+   "loospunttitel":  "PMD zak of bak",
+   "categorie":  "PMD",
+   "toelichting": "PMD is alleen voor verpakkingen: zorg dat de verpakking leeg is voor je hem in de PMD zak of bak doet. Een papieren sticker op een plastic verpakking mag blijven zitten als hij niet makkelijk te verwijderen is."
+  },
+  {
+   "titelafval":  "plastic zakje of folie",
+   "loospunttitel":  "PMD zak of bak",
+   "categorie": "PMD",
+   "toelichting": "Een transparante folie, zoals om vleeswaren of bloemen, mag bij PMD. Een zak of folie met een glimmend metaallaagje, zoals een chipszak of koffiepak, is niet goed recyclebaar en hoort bij het restafval. Verwijder papieren stickers waar mogelijk, maar als dat niet lukt, dan is het niet zo'n groot probleem."
+  },
+  {
+   "titelafval":  "plastic zuivelbeker",
+   "loospunttitel":  "PMD zak of bak",
+   "categorie":  "PMD",
+   "toelichting": "Verwijder het eventueel aanwezige aluminiumfolie of aluminium trekdeksel van een plastic verpakking en doe dat los bij het PMD. Verwijder ook zo veel als mogelijk papieren onderdelen als stickers, maar mocht dat niet lukken, dan is dat niet zo'n heel groot probleem."
+  },
+  {
+   "titelafval":  "puin",
+   "loospunttitel":  "Milieustraat",
+   "categorie":  "Puin",
+    "toelichting":"Bouw- en sloopafval van een verbouwing in je eigen huis kun je bij de gemeentelijke milieustraat brengen. Soms is dit gratis en soms tegen betaling. Dat verschilt per gemeente. Vul in de afvalscheidingswijzer de soort bouwafval in voor een nauwkeuriger afdankadvies."
+  },
+  {
+   "titelafval":  "rookmelder of koolmonoxidemelder",
+   "loospunttitel":  "Inleverbakken bij diverse winkels, winkel bij aanschaf van een nieuwe, of milieustraat",
+   "categorie":  "Elektrische apparatuur",
+   "toelichting": "Een rookmelder of koolmonoxidemelder kan het beste worden ingeleverd als elektrisch apparaat, ook als hij nog werkt. Rookmelders moeten zeer betrouwbaar zijn. Na 10 jaar loopt de kwaliteit snel terug en neemt de betrouwbaarheid af. Bij een tweedehands rookmelder weet de koper niet wat er mee gebeurd is en of hij nog betrouwbaar is. Oude types ioniserende rookmelders bevatten een klein beetje radioactief materiaal. Je kunt ze als elektrisch apparaat inleveren. Ga er wel extra voorzichtig mee om. Maak ze niet open en gooi ze in geen geval bij het restafval. Ze worden uit de stroom andere elektrische apparaten gesorteerd en door een gespecialiseerd bedrijf verwerkt. Het radioactieve materiaal wordt er op een veilige manier uitgehaald, waarna de rest geschikt is voor recycling. Ioniserende rookmelders zijn herkenbaar aan het radioactief-teken. Kleine elektrische apparaten (niet langer, breder of hoger dan 25 cm) kunnen in WeCycle-inzamelbakken in diverse bouwmarkten, elektronicawinkels en in sommige supermarkten worden ingeleverd. Elektronische apparaten kunnen ook altijd bij de leverancier van een nieuwe versie worden ingelever of bij de milieustraat van de gemeente."
+  },
+  {
+   "titelafval":  "sanitairpapier",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "WC-papier, keukenpapier en papieren zakdoekjes die gebruikt zijn om etensresten op te vegen, of de neus te snuiten, zijn te sterk vervuild om gerecycled te kunnen worden als oud papier. Echter, als het ongekleurd en onbedrukt papier betreft, mag het wel met vervuiling en al in de biobak. Ongebruikte servetjes, keukenpapier en tissues daarentegen mogen in de oudpapierbak. Ongebruikt WC-papier is van te lage kwaliteit om nog een keer te recyclen."
+  },
+  {
+   "titelafval":  "scherp voorwerp",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Zorg dat een vuilnisman zich niet kan verwonden. Wikkel het voorwerp in een stuk papier of karton."
+  },
+  {
+   "titelafval":  "schoenen",
+   "loospunttitel":  "Kledingbak",
+   "categorie":  "Textiel",
+    "toelichting":"Schoenen kunnen meestal in de kledingbak of -zak. Lever schoenen per paar samengebonden aan in de kledingcontainer. Ook oude en versleten schoenen mogen bij het textiel."
+  },
+  {
+   "titelafval":  "schoonmaakdoekje",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Spoel wegwerp-schoonmaakdoekjes en billendoekjes niet door de WC. Dit kan verstopping van het riool veroorzaken. Gewoon toiletpapier mag altijd doorgespoeld worden. Vochtig toiletpapier mag door het toilet gespoeld worden indien dat op de verpakking wordt aangegeven."
+  },
+  {
+   "titelafval":  "schoonmaakmiddel",
+   "loospunttitel":  "Vuilnisbak (restafval)",
     "categorie": "Restafval",
-    "toelichting": "Het aluminium laagje maakt het folie ongeschikt voor plasticrecycling."
+   "toelichting": "Bijtende of agressieve schoonmaakmiddelen kunnen een 'gevaar logo' op de fles hebben staan. Dat betekent niet automatisch dat ze ook onder 'klein chemisch afval' vallen. Een restant schoonmaakmiddel kun je het beste opgebruiken. Wil je er vanaf, dan kan het met fles en al bij het restafval."
   },
   {
-    "titel": "plastic verpakkingen overig",
-    "loospunt": "PMD zak of bak",
-    "categorie": "PMD",
-    "toelichting": "PMD is alleen voor verpakkingen: zorg dat de verpakking leeg is voor je hem in de PMD zak of bak doet. Een papieren sticker op een plastic verpakking mag blijven zitten als hij niet makkelijk te verwijderen is."
+   "titelafval":  "schrijfgerei",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Schoolspullen om mee te schrijven of tekenen zijn niet geschikt voor hergebruik als grondstof voor iets anders. Gebruik je pen, stift, potlood of gum dus tot hij op is. Puntenslijpsel gaat ook bij restafval. Plastic pennen of stiften mogen niet bij PMD."
   },
   {
-    "titel": "puin",
-    "loospunt": "Milieustraat",
-    "categorie": "Puin",
-    "toelichting": "Bouw- en sloopafval van een verbouwing in je eigen huis kun je bij de gemeentelijke milieustraat brengen. Soms is dit gratis en soms tegen betaling. Dat verschilt per gemeente. Vul in de afvalscheidingswijzer de soort bouwafval in voor een nauwkeuriger afdankadvies."
+   "titelafval":  "servies en aardewerk",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+  "toelichting":  "Alleen verpakkingsglas hoort in de glasbak. Dit product kan een andere samenstelling hebben die de glasrecycling verstoort."
   },
   {
-    "titel": "rookmelder of koolmonoxidemelder",
-    "loospunt": "Inleverbakken bij diverse winkels, winkel bij aanschaf van een nieuwe, of milieustraat",
-    "categorie": "Elektrische apparatuur",
-    "toelichting": "Een rookmelder of koolmonoxidemelder kan het beste worden ingeleverd als elektrisch apparaat, ook als hij nog werkt. Rookmelders moeten zeer betrouwbaar zijn. Na 10 jaar loopt de kwaliteit snel terug en neemt de betrouwbaarheid af. Bij een tweedehands rookmelder weet de koper niet wat er mee gebeurd is en of hij nog betrouwbaar is. Oude types ioniserende rookmelders bevatten een klein beetje radioactief materiaal. Je kunt ze als elektrisch apparaat inleveren. Ga er wel extra voorzichtig mee om. Maak ze niet open en gooi ze in geen geval bij het restafval. Ze worden uit de stroom andere elektrische apparaten gesorteerd en door een gespecialiseerd bedrijf verwerkt. Het radioactieve materiaal wordt er op een veilige manier uitgehaald, waarna de rest geschikt is voor recycling. Ioniserende rookmelders zijn herkenbaar aan het radioactief-teken. Kleine elektrische apparaten (niet langer, breder of hoger dan 25 cm) kunnen in WeCycle-inzamelbakken in diverse bouwmarkten, elektronicawinkels en in sommige supermarkten worden ingeleverd. Elektronische apparaten kunnen ook altijd bij de leverancier van een nieuwe versie worden ingelever of bij de milieustraat van de gemeente."
+  "titelafval":   "slachtafval door jacht",
+  "loospunttitel":   "Milieustraat",
+  "categorie":   "Overig afval",
+  "toelichting":  "Consumenten hebben weinig te maken met slachtafval, aangezien zelf slachten door particulieren verboden is. Slachtafval kan wel ontstaan bij de jacht als het gejaagde dier verkocht wordt aan derden."
   },
   {
-    "titel": "sanitairpapier",
-    "loospunt": "Vuilnisbak (restafval)",
+  "titelafval":   "speelgoed",
+  "loospunttitel":   "Kringloopwinkel of aanbieden via website voor tweedehands goederen",
+   "categorie":  "Kringloop",
+   "toelichting": "Met veel kringloopwinkels kun je een afspraak maken om bruikbare spullen thuis op te halen."
+  },
+  {
+   "titelafval":  "spuitbus",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Zowel lege spuitbussen als spuitbussen met een restant horen bij het restafval, tenzij uw gemeente bepaald heeft dat lege spuitbussen bij het PMD mogen. Check hiervoor uw gemeente. Het metaal van de spuitbus kan grotendeels uit de asresten van de afvalverbrandingsinstallatie gevist worden."
+  },
+  {
+   "titelafval":  "steekschuim",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Steekschuim (Oasis) is niet composteerbaar. Het hoort bij het restafval."
+  },
+  {
+  "titelafval":   "textiel",
+   "loospunttitel":  "Kledingbak",
+   "categorie":  "Textiel",
+   "toelichting": "Natte of met olie en verf vervuilde kleding/textiel is niet meer te recyclen, die kan in de vuilnisbak (restafval)."
+  },
+  {
+   "titelafval":  "textiel, nat of vuil",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Nat of vies textiel, zoals met olie of verf verontreinigd textiel, is niet meer te recyclen en hoort niet in de kledingcontainer."
+  },
+  {
+  "titelafval":   "theezakje en koffiepad",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Koffiepads en theezakjes horen niet bij het PMD of GFT. In het filterpapier van koffiepads en de meeste theezakjes is kunststof verwerkt. Losse koffie en thee mogen niet door de gootsteen, maar hoort in de GFT-bak."
+  },
+  {
+   "titelafval":  "thermisch papier",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+  "categorie":   "Restafval",
+   "toelichting": "Op kassabonnen en faxpapier zit vaak thermische inkt. Hierdoor is het niet geschikt voor recycling."
+  },
+  {
+   "titelafval":  "thuiszorgafval",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Als de thuiszorgmedewerker het materiaal heeft meegenomen, is deze officieel ook verantwoordelijk voor het afvoeren ervan. In verband met de hygiëne moet materiaal dat in contact is geweest met bloed en urine etcera bij het restafval. Ook verpakkingen van medicijn-vloeistoffen, denk aan ampullen en infuuszakken, horen bij het restafval. Restanten van medicijnen en injectie- of infuusnaalden moeten apart ingeleverd worden, bij de apotheek waar ze aangeschaft zijn, of bij de milieustraat."
+  },
+  {
+   "titelafval":  "TL-, spaar- of ledlamp",
+   "loospunttitel":  "Inleverbakken bij diverse winkels, of bij de milieustraat",
+   "categorie":  "Energiezuinige lampen",
+   "toelichting": "Leg de kapotte lamp bij je boodschappentas. Neem 'm mee naar de winkel als je boodschappen doet. Ledlampen mogen ook in de bak voor spaarlampen.\n\nWees voorzichtig met spaarlampen en tl-buizen, zorg dat ze niet breken. Breekt een spaarlamp toch? Open de ramen, zet luchtbehandelingsystemen uit en laat iedereen rustig de ruimte verlaten. Doe de binnendeur achter je dicht en lees de instructies van het RIVM  op www.rivm.nl/Onderwerpen/K/Kwik/Opruiminstructies. \n\nNa 15 minuten luchten kun je de scherven met rubber handschoenen aan opruimen en de restjes met een vochtige doek. Alleen als het écht niet anders kan en alleen op tapijt kun je een stofzuiger gebruiken. De stofzuiger heeft daarna ook een speciale behandeling nodig om geen kwik in huis te verspreiden. De restanten van de lamp kunnen bij de milieustraat worden ingeleverd als Klein Chemisch afval."
+  },
+  {
+  "titelafval":   "toiletpapier",
+   "loospunttitel":  "Toilet",
+   "categorie":  "Overig afval",
+   "toelichting": "WC papier hoort na gedane zaken natuurlijk in de WC. Het papier is zo gemaakt dat het in het riool uit elkaar valt, zodat het geen verstoppingen kan veroorzaken.  Als u WC papier buiten het toilet gebruikt (bijvoorbeeld om olie op te vegen), dan mag dit bij het restafval. Vochtig toiletpapier en andere papieren schoonmaakdoekjes kunnen verstoppingen veroorzaken: dit mag alleen in het toilet als dit op de verpakking wordt aangegeven."
+  },
+  {
+  "titelafval":   "tuinafval en plantenresten",
+  "loospunttitel":   "Gft-container of eigen composthoop",
+  "categorie":   "Groente-, fruit- en tuinafval (gft)",
+   "toelichting": "Op de eigen composthoop is variatie belangrijk. Heb je teveel van één soort, gooi dan een deel in de gft-bak, zodat het composteringsproces niet verstoord raakt."
+  },
+  {
+   "titelafval":  "tuingereedschap",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+  "categorie":   "Metaal",
+   "toelichting": "Metalen en metalen producten kun je inleveren bij de milieustraat of weggebrengen naar een oudijzerhandel. Soms krijg je er nog geld voor. Ook kun je proberen om een afspraak te maken om het op te laten halen."
+  },
+  {
+   "titelafval":  "verf- en lijmverpakking",
+  "loospunttitel":   "Vuilnisbak (restafval)",
+  "categorie":   "Restafval",
+  "toelichting":  "Een lege verpakking van een product dat als klein chemisch afval moet worden afgedankt, hoort bij het restafval. Lege kunststof flessen van b.v. terpentine of motorolie horen niet bij het PMD en ook niet bij het Klein Chemisch Afval."
+  },
+  {
+   "titelafval":  "verf en toebehoren",
+   "loospunttitel":  "Milieustraat",
+   "categorie":  "Klein chemisch afval",
+   "toelichting": "Een lege en opgedroogde verfpot mag bij het restafval. Lever Klein Chemisch Afval apart in om milieuvervuiling en gevaarlijke situaties te voorkomen."
+  },
+  {
+   "titelafval":  "verf, droog",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Vloeibare verf (niet-lege pot of spuitbus) hoort wel bij het Klein Chemisch Afval."
+  },
+  {
+   "titelafval":  "verpakking melkpoeder",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Een losse deksel van blik of van plastic mag bij het PMD. Deksels, doppen, etiketten en kurken mogen ook op glazen potten en flessen blijven zitten en mogen mee de glasbak in."
+  },
+  {
+   "titelafval":  "verpakking van papier met plastic",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+  "toelichting":  "Het plastic en papier kan uit elkaar gescheurd worden. Dan mag het plastic bij PMD en het papier bij het oud papier. Anders mag de verpakking in zijn geheel bij het restafval."
+  },
+  {
+ "titelafval":    "verpakkingen van composteerbaar plastic",
+  "loospunttitel":   "Vuilnisbak (restafval)",
+   "categorie":  "Overig afval",
+   "toelichting": "Alleen composteerbare zakken (met Kiemplantlogo of OK-compostlogo) die gebruikt worden voor GFT-inzameling mogen in de biobak. Andere composteerbare verpakkingen, en composteerbare producten zoals wegwerpbestek, schaaltjes, moeten bij het restafval. De doorlooptijd in industriële composteringsinstallatie is namelijk zo kort dat composteerbare verpakkingen in die tijd niet goed afbreken, dus hoe minder ervan in de biobak hoe beter. Ook thuis op de composthoop vergaan dergelijke materialen niet goed."
+  },
+  {
+  "titelafval":   "verpakkingen van niet-composteerbaar plastic",
+   "loospunttitel":  "PMD zak of bak",
+   "categorie":  "PMD",
+   "toelichting": "Biobased verpakkingen gemaakt van bio PE en bio PET horen bij het PMD. Ze zijn gemaakt van plantaardige grondstoffen, maar chemisch gelijk aan PE en PET gemaakt van fossiele grondstoffen en kunnen tegelijk gerecycled worden. De termen Bioplastic, Biobased plastic en composteerbaar plastic worden vaak door elkaar gebruikt, maar betekenen niet hetzelfde. Biobased plastics zijn gemaakt van natuurlijke grondstoffen, maar dat betekent niet automatisch dat ze composteerbaar zijn."
+  },
+  {
+   "titelafval":  "verzorgingsproduct",
+   "loospunttitel":  "Vuilnisbak (restafval)",
+   "categorie":  "Restafval",
+   "toelichting": "Restjes (tot 10 procent van een verpakking) van schoonmaakmiddelen, shampoo, doucheschuim, conditioner, tandpasta en andere producten die bij normaal gebruik door de gootsteen wegspoelen, mogen door de gootsteen. Lever de lege fles of lege tube gescheiden in bij de plastic- of glasinzameling. Als er meer dan 10% in zit raden we aan het met fles en al bij het restafval te gooien."
+  },
+  {
+   "titelafval":  "verzorgingsproduct, vettig",
+   "loospunttitel":  "Vuilnisbak (restafval)",
     "categorie": "Restafval",
-    "toelichting": "WC-papier, keukenpapier en papieren zakdoekjes die gebruikt zijn om etensresten op te vegen, of de neus te snuiten, zijn te sterk vervuild om gerecycled te kunnen worden als oud papier. Echter, als het ongekleurd en onbedrukt papier betreft, mag het wel met vervuiling en al in de biobak. Ongebruikte servetjes, keukenpapier en tissues daarentegen mogen in de oudpapierbak. Ongebruikt WC-papier is van te lage kwaliteit om nog een keer te recyclen."
+   "toelichting": "Restanten van vettige producten voor persoonlijke verzorging zoals bodylotion en zonnebrandolie mogen niet door de gootsteen omdat dat problemen kan opleveren in de riolering. Gooi ze met verpakking en al bij het restafval."
   },
   {
-    "titel": "schoenen",
-    "loospunt": "Kledingbak",
-    "categorie": "Textiel",
-    "toelichting": "Schoenen kunnen meestal in de kledingbak of -zak. Lever schoenen per paar samengebonden aan in de kledingcontainer. Ook oude en versleten schoenen mogen bij het textiel."
+   "titelafval":  "vinylzeil",
+   "loospunttitel":  "Milieustraat of grofvuil-ophaaldienst",
+   "categorie":  "Grof huishoudelijk afval",
+   "toelichting": "Vinylzeil en harde vinyltegels van voor 1993 kunnen asbest bevatten. Asbest is kankerverwekkend. Zorg bij twijfel dat het zeil op een verantwoorde manier wordt verwijderd. Asbesthoudend materiaal kan op de juiste manier verpakt worden ingeleverd bij de milieustraat. Zie ook www.milieucentraal.nl/asbest"
   },
   {
-    "titel": "schoonmaakmiddel",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Bijtende of agressieve schoonmaakmiddelen kunnen een 'gevaar logo' op de fles hebben staan. Dat betekent niet automatisch dat ze ook onder 'klein chemisch afval' vallen. Een restant schoonmaakmiddel kun je het beste opgebruiken. Wil je er vanaf, dan kan het met fles en al bij het restafval."
+   "titelafval":  "vlakglas",
+   "loospunttitel":  "Bak voor vlakglas bij milieustraat of bij de glashandel",
+   "categorie": "Vlakglas",
+   "toelichting": "Vlakglas, zoals vensterglas, glas van fotolijsten en spiegelglas heeft een andere samenstelling dan verpakkingsglas en verstoort het recyclingsproces van verpakkingsglas."
   },
   {
-    "titel": "servies en aardewerk",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Alleen verpakkingsglas hoort in de glasbak. Dit product kan een andere samenstelling hebben die de glasrecycling verstoort."
-  },
-  {
-    "titel": "speelgoed",
-    "loospunt": "Kringloopwinkel of aanbieden via website voor tweedehands goederen",
-    "categorie": "Kringloop",
-    "toelichting": "Met veel kringloopwinkels kun je een afspraak maken om bruikbare spullen thuis op te halen."
-  },
-  {
-    "titel": "spuitbus",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Zowel lege spuitbussen als spuitbussen met een restant horen bij het restafval, tenzij uw gemeente bepaald heeft dat lege spuitbussen bij het PMD mogen. Check hiervoor uw gemeente. Het metaal van de spuitbus kan grotendeels uit de asresten van de afvalverbrandingsinstallatie gevist worden."
-  },
-  {
-    "titel": "textiel",
-    "loospunt": "Kledingbak",
-    "categorie": "Textiel",
-    "toelichting": "Natte of met olie en verf vervuilde kleding/textiel is niet meer te recyclen, die kan in de vuilnisbak (restafval)."
-  },
-  {
-    "titel": "thermisch papier",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Restafval",
-    "toelichting": "Op kassabonnen en faxpapier zit vaak thermische inkt. Hierdoor is het niet geschikt voor recycling."
-  },
-  {
-    "titel": "TL-, spaar- of ledlamp",
-    "loospunt": "Inleverbakken bij diverse winkels, of bij de milieustraat",
-    "categorie": "Energiezuinige lampen",
-    "toelichting": "Leg de kapotte lamp bij je boodschappentas. Neem 'm mee naar de winkel als je boodschappen doet. Ledlampen mogen ook in de bak voor spaarlampen.\n\nWees voorzichtig met spaarlampen en tl-buizen, zorg dat ze niet breken. Breekt een spaarlamp toch? Open de ramen, zet luchtbehandelingsystemen uit en laat iedereen rustig de ruimte verlaten. Doe de binnendeur achter je dicht en lees de instructies van het RIVM  op www.rivm.nl/Onderwerpen/K/Kwik/Opruiminstructies. \n\nNa 15 minuten luchten kun je de scherven met rubber handschoenen aan opruimen en de restjes met een vochtige doek. Alleen als het écht niet anders kan en alleen op tapijt kun je een stofzuiger gebruiken. De stofzuiger heeft daarna ook een speciale behandeling nodig om geen kwik in huis te verspreiden. De restanten van de lamp kunnen bij de milieustraat worden ingeleverd als Klein Chemisch afval."
-  },
-  {
-    "titel": "verf en toebehoren",
-    "loospunt": "Milieustraat",
-    "categorie": "Klein chemisch afval",
-    "toelichting": "Een lege en opgedroogde verfpot mag bij het restafval. Lever Klein Chemisch Afval apart in om milieuvervuiling en gevaarlijke situaties te voorkomen."
-  },
-  {
-    "titel": "verpakkingen van composteerbaar plastic",
-    "loospunt": "Vuilnisbak (restafval)",
-    "categorie": "Overig afval",
-    "toelichting": "Alleen composteerbare zakken (met Kiemplantlogo of OK-compostlogo) die gebruikt worden voor GFT-inzameling mogen in de biobak. Andere composteerbare verpakkingen, en composteerbare producten zoals wegwerpbestek, schaaltjes, moeten bij het restafval. De doorlooptijd in industriële composteringsinstallatie is namelijk zo kort dat composteerbare verpakkingen in die tijd niet goed afbreken, dus hoe minder ervan in de biobak hoe beter. Ook thuis op de composthoop vergaan dergelijke materialen niet goed."
-  },
-  {
-    "titel": "vinylzeil",
-    "loospunt": "Milieustraat of grofvuil-ophaaldienst",
-    "categorie": "Grof huishoudelijk afval",
-    "toelichting": "Vinylzeil en harde vinyltegels van voor 1993 kunnen asbest bevatten. Asbest is kankerverwekkend. Zorg bij twijfel dat het zeil op een verantwoorde manier wordt verwijderd. Asbesthoudend materiaal kan op de juiste manier verpakt worden ingeleverd bij de milieustraat. Zie ook www.milieucentraal.nl/asbest"
-  },
-  {
-    "titel": "vlakglas",
-    "loospunt": "Bak voor vlakglas bij milieustraat of bij de glashandel",
-    "categorie": "Vlakglas",
-    "toelichting": "Vlakglas, zoals vensterglas, glas van fotolijsten en spiegelglas heeft een andere samenstelling dan verpakkingsglas en verstoort het recyclingsproces van verpakkingsglas."
-  },
-  {
-    "titel": "vloeibare voedingsmiddelen",
-    "loospunt": "Doorspoelen in gootsteen",
-    "categorie": "Overig afval",
-    "toelichting": "Onschadelijke vloeistoffen kunnen door de gootsteen worden weggespoeld. Giet een restje soep door een zeef of vergiet in de gootsteen; de vaste bestanddelen zoals balletjes, vermicelli en groente kunnen bij het GFT.  In de afvalwaterzuivering wordt rioolwater gezuiverd, waarna het geschikt is voor lozing op het oppervlaktewater."
+   "titelafval":  "vloeibare voedingsmiddelen",
+   "loospunttitel":  "Doorspoelen in gootsteen",
+   "categorie":  "Overig afval",
+   "toelichting": "Onschadelijke vloeistoffen kunnen door de gootsteen worden weggespoeld. Giet een restje soep door een zeef of vergiet in de gootsteen; de vaste bestanddelen zoals balletjes, vermicelli en groente kunnen bij het GFT.  In de afvalwaterzuivering wordt rioolwater gezuiverd, waarna het geschikt is voor lozing op het oppervlaktewater."
   }
 ]

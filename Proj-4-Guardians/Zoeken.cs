@@ -20,14 +20,14 @@ namespace Proj_4_Guardians
         private ListView _lv;
         private ArrayAdapter _adapter;
 
-        public static List<categorie> m_categorien;
+        public static List<afvalproduct> m_afvalproduct;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Zoeken);
             ActionBar.Hide();
-            m_categorien = MainActivity.m_categorien;
+            m_afvalproduct = MainActivity.m_afvalproduct;
 
             _lv = FindViewById<ListView>(Resource.Id.lv);
             _sv = FindViewById<SearchView>(Resource.Id.sv);
@@ -43,15 +43,14 @@ namespace Proj_4_Guardians
 
         public List<string> DataToList()
         {
-            List<string> newlist = new List<string>();            
-            // ↓voor de beschrijving van product↓
-            foreach (var product in m_categorien)
-            {                
-                newlist.Add(product.name.ToLower());                
+            List<string> newlist = new List<string>();
+            foreach (var product in m_afvalproduct)
+            {
+                newlist.Add(product.product.ToLower());
             }
             return newlist;
         }
-
+        
         void _lv_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
         {
 

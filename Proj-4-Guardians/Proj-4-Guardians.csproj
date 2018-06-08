@@ -137,9 +137,10 @@
     <AndroidAsset Include="Assets\categorie.json" />
     <AndroidAsset Include="Assets\locaties.json" />
     <AndroidAsset Include="Assets\soort.json" />
+    <AndroidAsset Include="Assets\recycler2.json" />
+    <AndroidAsset Include="Assets\prod.json" />
     <None Include="GettingStarted.Xamarin" />
     <None Include="packages.config" />
-    <None Include="Assets\product.json" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />

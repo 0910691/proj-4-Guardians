@@ -1,0 +1,7134 @@
+﻿[
+  {
+    "product": "aanhangwagen",
+    "afval": "aanhangwagen"
+  },
+  {
+    "product": "aanhanger",
+    "afval": "aanhangwagen"
+  },
+  {
+    "product": "kar",
+    "afval": "aanhangwagen"
+  },
+  {
+    "product": "aardappel- en citrusschillen, bloemen",
+    "afval": "aardappel- en citrusschillen, bloemen"
+  },
+  {
+    "product": "aardappelschillen",
+    "afval": "aardappel- en citrusschillen, bloemen"
+  },
+  {
+    "product": "bloemen",
+    "afval": "aardappel- en citrusschillen, bloemen"
+  },
+  {
+    "product": "citrusfruitschillen",
+    "afval": "aardappel- en citrusschillen, bloemen"
+  },
+  {
+    "product": "sinaasappelschil",
+    "afval": "aardappel- en citrusschillen, bloemen"
+  },
+  {
+    "product": "sinaasappelschillen",
+    "afval": "aardappel- en citrusschillen, bloemen"
+  },
+  {
+    "product": "uitgebloeide bloemen",
+    "afval": "aardappel- en citrusschillen, bloemen"
+  },
+  {
+    "product": "accu van (brom-)fiets",
+    "afval": "accu van (brom-)fiets"
+  },
+  {
+    "product": "bromfietsaccu",
+    "afval": "accu van (brom-)fiets"
+  },
+  {
+    "product": "scooteraccu",
+    "afval": "accu van (brom-)fiets"
+  },
+  {
+    "product": "snorfietsaccu",
+    "afval": "accu van (brom-)fiets"
+  },
+  {
+    "product": "aluminiumfolie",
+    "afval": "aluminiumfolie"
+  },
+  {
+    "product": "alufolie",
+    "afval": "aluminiumfolie"
+  },
+  {
+    "product": "aluminium folie",
+    "afval": "aluminiumfolie"
+  },
+  {
+    "product": "chocolade wikkel",
+    "afval": "aluminiumfolie"
+  },
+  {
+    "product": "chocoladewikkel",
+    "afval": "aluminiumfolie"
+  },
+  {
+    "product": "snoepwikkel",
+    "afval": "aluminiumfolie"
+  },
+  {
+    "product": "zilverfolie",
+    "afval": "aluminiumfolie"
+  },
+  {
+    "product": "zilverpapier",
+    "afval": "aluminiumfolie"
+  },
+  {
+    "product": "as",
+    "afval": "as"
+  },
+  {
+    "product": "asbakresten",
+    "afval": "as"
+  },
+  {
+    "product": "asresten",
+    "afval": "as"
+  },
+  {
+    "product": "barbecue as",
+    "afval": "as"
+  },
+  {
+    "product": "briketten",
+    "afval": "as"
+  },
+  {
+    "product": "houtas",
+    "afval": "as"
+  },
+  {
+    "product": "houtskoolresten",
+    "afval": "as"
+  },
+  {
+    "product": "kolen",
+    "afval": "as"
+  },
+  {
+    "product": "kooltjes",
+    "afval": "as"
+  },
+  {
+    "product": "open haard as",
+    "afval": "as"
+  },
+  {
+    "product": "vuurkorf as",
+    "afval": "as"
+  },
+  {
+    "product": "asbesthoudend afval",
+    "afval": "asbesthoudend afval"
+  },
+  {
+    "product": "asbest",
+    "afval": "asbesthoudend afval"
+  },
+  {
+    "product": "eternit",
+    "afval": "asbesthoudend afval"
+  },
+  {
+    "product": "auto",
+    "afval": "auto"
+  },
+  {
+    "product": "camper",
+    "afval": "auto"
+  },
+  {
+    "product": "motorfiets",
+    "afval": "auto"
+  },
+  {
+    "product": "scootmobiel",
+    "afval": "auto"
+  },
+  {
+    "product": "autoaccu",
+    "afval": "autoaccu"
+  },
+  {
+    "product": "accu van motorvoertuig",
+    "afval": "autoaccu"
+  },
+  {
+    "product": "autoband",
+    "afval": "autoband"
+  },
+  {
+    "product": "autowiel",
+    "afval": "autowiel"
+  },
+  {
+    "product": "batterij",
+    "afval": "batterij"
+  },
+  {
+    "product": "accu van elektrisch apparaat",
+    "afval": "batterij"
+  },
+  {
+    "product": "oplaadbare batterijen",
+    "afval": "batterij"
+  },
+  {
+    "product": "smartphonebatterij",
+    "afval": "batterij"
+  },
+  {
+    "product": "telefoonbatterij",
+    "afval": "batterij"
+  },
+  {
+    "product": "bedrijfsafval",
+    "afval": "bedrijfsafval"
+  },
+  {
+    "product": "behang",
+    "afval": "behang"
+  },
+  {
+    "product": "behangpapier",
+    "afval": "behang"
+  },
+  {
+    "product": "vinylbehang",
+    "afval": "behang"
+  },
+  {
+    "product": "biels",
+    "afval": "biels"
+  },
+  {
+    "product": "bielzen",
+    "afval": "biels"
+  },
+  {
+    "product": "spoorbiels",
+    "afval": "biels"
+  },
+  {
+    "product": "bijzonder papier",
+    "afval": "bijzonder papier"
+  },
+  {
+    "product": "bakpapier",
+    "afval": "bijzonder papier"
+  },
+  {
+    "product": "etiketten",
+    "afval": "bijzonder papier"
+  },
+  {
+    "product": "ovenpapier",
+    "afval": "bijzonder papier"
+  },
+  {
+    "product": "papieren bakvormpje",
+    "afval": "bijzonder papier"
+  },
+  {
+    "product": "siliconenpapier",
+    "afval": "bijzonder papier"
+  },
+  {
+    "product": "sticker",
+    "afval": "bijzonder papier"
+  },
+  {
+    "product": "stickerrugpapier",
+    "afval": "bijzonder papier"
+  },
+  {
+    "product": "stripje van maandverband of inlegkruisje",
+    "afval": "bijzonder papier"
+  },
+  {
+    "product": "vetvrij papier",
+    "afval": "bijzonder papier"
+  },
+  {
+    "product": "zelfklevend",
+    "afval": "bijzonder papier"
+  },
+  {
+    "product": "bouwafval",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "beton",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "cement",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "deur",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "laminaat",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "ondervloer",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "plavuizen",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "purschuim",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "sloopafval",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "stenen",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "stucgaas",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "tuintegels",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "wapeningsgaas",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "zachtboard",
+    "afval": "bouwafval"
+  },
+  {
+    "product": "brandblusser",
+    "afval": "brandblusser"
+  },
+  {
+    "product": "lege brandblusser",
+    "afval": "brandblusser"
+  },
+  {
+    "product": "brandstof en olie",
+    "afval": "brandstof en olie"
+  },
+  {
+    "product": "afgewerkte olie",
+    "afval": "brandstof en olie"
+  },
+  {
+    "product": "benzine",
+    "afval": "brandstof en olie"
+  },
+  {
+    "product": "diesel",
+    "afval": "brandstof en olie"
+  },
+  {
+    "product": "lampenolie",
+    "afval": "brandstof en olie"
+  },
+  {
+    "product": "lampolie",
+    "afval": "brandstof en olie"
+  },
+  {
+    "product": "motorolie",
+    "afval": "brandstof en olie"
+  },
+  {
+    "product": "oliefilters",
+    "afval": "brandstof en olie"
+  },
+  {
+    "product": "petroleum",
+    "afval": "brandstof en olie"
+  },
+  {
+    "product": "remolie",
+    "afval": "brandstof en olie"
+  },
+  {
+    "product": "smeerolie",
+    "afval": "brandstof en olie"
+  },
+  {
+    "product": "brita waterfilter",
+    "afval": "brita waterfilter"
+  },
+  {
+    "product": "brom- en snorfiets",
+    "afval": "brom- en snorfiets"
+  },
+  {
+    "product": "brommer",
+    "afval": "brom- en snorfiets"
+  },
+  {
+    "product": "scooter",
+    "afval": "brom- en snorfiets"
+  },
+  {
+    "product": "snorfiets",
+    "afval": "brom- en snorfiets"
+  },
+  {
+    "product": "caravan",
+    "afval": "caravan"
+  },
+  {
+    "product": "stacaravan",
+    "afval": "caravan"
+  },
+  {
+    "product": "vouwwagen",
+    "afval": "caravan"
+  },
+  {
+    "product": "carbonpapier",
+    "afval": "carbonpapier"
+  },
+  {
+    "product": "cartridge",
+    "afval": "cartridge"
+  },
+  {
+    "product": "cartridge met printkop",
+    "afval": "cartridge"
+  },
+  {
+    "product": "inktcartridge",
+    "afval": "cartridge"
+  },
+  {
+    "product": "lege cartridge",
+    "afval": "cartridge"
+  },
+  {
+    "product": "printercartridge",
+    "afval": "cartridge"
+  },
+  {
+    "product": "tonercartridge",
+    "afval": "cartridge"
+  },
+  {
+    "product": "volle cartridge",
+    "afval": "cartridge"
+  },
+  {
+    "product": "cassetteband of videoband",
+    "afval": "cassetteband of videoband"
+  },
+  {
+    "product": "cassettebandjes",
+    "afval": "cassetteband of videoband"
+  },
+  {
+    "product": "geluidsbanden",
+    "afval": "cassetteband of videoband"
+  },
+  {
+    "product": "hoes videoband",
+    "afval": "cassetteband of videoband"
+  },
+  {
+    "product": "magneetbanden",
+    "afval": "cassetteband of videoband"
+  },
+  {
+    "product": "muziekcassette",
+    "afval": "cassetteband of videoband"
+  },
+  {
+    "product": "vhs videoband",
+    "afval": "cassetteband of videoband"
+  },
+  {
+    "product": "videoband",
+    "afval": "cassetteband of videoband"
+  },
+  {
+    "product": "videobanden",
+    "afval": "cassetteband of videoband"
+  },
+  {
+    "product": "cd",
+    "afval": "cd"
+  },
+  {
+    "product": "cd-roms",
+    "afval": "cd"
+  },
+  {
+    "product": "dvd",
+    "afval": "cd"
+  },
+  {
+    "product": "chemisch afval",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "analoge thermostaat",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "anti-muggenspul (deet)",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "antivries",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "bestrijdingsmiddelen",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "etsvloeistof",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "fotofixeermiddel",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "foto-ontwikkelaar",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "gif",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "houtverduurzamingsmiddelen",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "impregneermiddelen",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "insecticiden",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "klein chemisch afval",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "koelelement van koelkast",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "koelvloeistof",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "kwikbarometer",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "kwikschakelaar",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "kwikthermometer",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "mierenlokdoosje",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "rattengif",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "salpeterzuur",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "toner poeder",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "vloeibare gootsteenontstopper",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "wasbezine",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "zoutzuur",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "zwavelzuur",
+    "afval": "chemisch afval"
+  },
+  {
+    "product": "chemisch toiletafval - en vloeistof",
+    "afval": "chemisch toiletafval - en vloeistof"
+  },
+  {
+    "product": "cold pack",
+    "afval": "cold pack"
+  },
+  {
+    "product": "ice pack",
+    "afval": "cold pack"
+  },
+  {
+    "product": "kompres",
+    "afval": "cold pack"
+  },
+  {
+    "product": "medisch koelelement",
+    "afval": "cold pack"
+  },
+  {
+    "product": "computer",
+    "afval": "computer"
+  },
+  {
+    "product": "beeldscherm",
+    "afval": "computer"
+  },
+  {
+    "product": "computerapparatuur",
+    "afval": "computer"
+  },
+  {
+    "product": "computermodem",
+    "afval": "computer"
+  },
+  {
+    "product": "computermuis",
+    "afval": "computer"
+  },
+  {
+    "product": "externe harde schijf",
+    "afval": "computer"
+  },
+  {
+    "product": "harddisk",
+    "afval": "computer"
+  },
+  {
+    "product": "laptop",
+    "afval": "computer"
+  },
+  {
+    "product": "monitor",
+    "afval": "computer"
+  },
+  {
+    "product": "pc",
+    "afval": "computer"
+  },
+  {
+    "product": "printer",
+    "afval": "computer"
+  },
+  {
+    "product": "toetsenbord",
+    "afval": "computer"
+  },
+  {
+    "product": "computer, werkend",
+    "afval": "computer, werkend"
+  },
+  {
+    "product": "notebook",
+    "afval": "computer, werkend"
+  },
+  {
+    "product": "dakbedekking, bitumen, teer",
+    "afval": "dakbedekking, bitumen, teer"
+  },
+  {
+    "product": "bitumineuze dakbedekking",
+    "afval": "dakbedekking, bitumen, teer"
+  },
+  {
+    "product": "vloeibare dakpasta",
+    "afval": "dakbedekking, bitumen, teer"
+  },
+  {
+    "product": "dekbed en kussen",
+    "afval": "dekbed en kussen"
+  },
+  {
+    "product": "hoofdkussen",
+    "afval": "dekbed en kussen"
+  },
+  {
+    "product": "kussen",
+    "afval": "dekbed en kussen"
+  },
+  {
+    "product": "slaapzak",
+    "afval": "dekbed en kussen"
+  },
+  {
+    "product": "stoelkussen",
+    "afval": "dekbed en kussen"
+  },
+  {
+    "product": "deksels en doppen",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "capsule wijnfles",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "deksel glazen pot",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "deksel jampot",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "deksel plastic",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "deksel pot",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "deksels",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "draaidop",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "metalen deksel",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "plastic draaidop (bv. van melkpak)",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "potdeksel blik",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "potdeksel plastic",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "schroefdop wijnfles",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "verpakkingsglas",
+    "afval": "deksels en doppen"
+  },
+  {
+    "product": "deodorantroller, glas",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "appelmoespot",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "babyvoedingpot",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "cosmeticafles",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "drankenverpakking",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "drankverpakking",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "fles",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "frisdrankfles",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "glazen flessen",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "glazen pot met kaarsvet",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "groentepot",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "honingpot",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "jampot",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "kruidenpot",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "maispot",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "mayonaisepot",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "nagellakflesje",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "olijfoliefles",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "parfumflesje",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "pastasauspot",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "pindakaaspot",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "potje babyvoeding",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "potje cocktailsaus",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "sambalpot",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "sausfles",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "waterfles",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "wijnfles",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "zuivelfles",
+    "afval": "verpakkingsglas"
+  },
+  {
+    "product": "plastic cosmeticaflesje",
+    "afval": "plastic cosmeticaflesje"
+  },
+  {
+    "product": "deodorantroller, plastic",
+    "afval": "plastic cosmeticaflesje"
+  },
+  {
+    "product": "make up flesje plastic",
+    "afval": "plastic cosmeticaflesje"
+  },
+  {
+    "product": "nagellakremover plastic",
+    "afval": "plastic cosmeticaflesje"
+  },
+  {
+    "product": "parfumflesje plastic",
+    "afval": "plastic cosmeticaflesje"
+  },
+  {
+    "product": "zonnebrandcreme fles plastic",
+    "afval": "plastic cosmeticaflesje"
+  },
+  {
+    "product": "zonnebrandolie fles plastic",
+    "afval": "plastic cosmeticaflesje"
+  },
+  {
+    "product": "dierenpoep",
+    "afval": "dierenpoep"
+  },
+  {
+    "product": "paardemest",
+    "afval": "dierenpoep"
+  },
+  {
+    "product": "honden- of kattenpoep",
+    "afval": "dierenpoep"
+  },
+  {
+    "product": "hondenpoep",
+    "afval": "dierenpoep"
+  },
+  {
+    "product": "kattepoep",
+    "afval": "dierenpoep"
+  },
+  {
+    "product": "diskette",
+    "afval": "diskette"
+  },
+  {
+    "product": "diskettes",
+    "afval": "diskette"
+  },
+  {
+    "product": "floppy",
+    "afval": "diskette"
+  },
+  {
+    "product": "dood huisdier",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "cavia",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "haan",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "hamster",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "hen",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "hond",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "kadaver",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "kat",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "kater",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "kip",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "konijn",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "muis",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "poes",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "rat",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "reu",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "vogeltje",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "dode vogel",
+    "afval": "dood huisdier"
+  },
+  {
+    "product": "doordrukstrip",
+    "afval": "doordrukstrip"
+  },
+  {
+    "product": "blister",
+    "afval": "doordrukstrip"
+  },
+  {
+    "product": "kauwgom doordrukstrip",
+    "afval": "doordrukstrip"
+  },
+  {
+    "product": "medicijnendoordrukstrip",
+    "afval": "doordrukstrip"
+  },
+  {
+    "product": "medicijnstrips",
+    "afval": "doordrukstrip"
+  },
+  {
+    "product": "medicijnverpakking",
+    "afval": "doordrukstrip"
+  },
+  {
+    "product": "pillendoordrukstrip",
+    "afval": "doordrukstrip"
+  },
+  {
+    "product": "pillenstrip",
+    "afval": "doordrukstrip"
+  },
+  {
+    "product": "doos voor gebak of bezorgpizza",
+    "afval": "doos voor gebak of bezorgpizza"
+  },
+  {
+    "product": "gebaksdoos",
+    "afval": "doos voor gebak of bezorgpizza"
+  },
+  {
+    "product": "pizzadoos van bezorgpizza",
+    "afval": "doos voor gebak of bezorgpizza"
+  },
+  {
+    "product": "doosje van cd of casettebandje",
+    "afval": "doosje van CD of casettebandje"
+  },
+  {
+    "product": "cd cases",
+    "afval": "doosje van CD of casettebandje"
+  },
+  {
+    "product": "cd-doosje",
+    "afval": "doosje van CD of casettebandje"
+  },
+  {
+    "product": "cd-hoesje",
+    "afval": "doosje van CD of casettebandje"
+  },
+  {
+    "product": "dvd-doosje",
+    "afval": "doosje van CD of casettebandje"
+  },
+  {
+    "product": "dvd-hoesje",
+    "afval": "doosje van CD of casettebandje"
+  },
+  {
+    "product": "cd doos",
+    "afval": "doosje van CD of casettebandje"
+  },
+  {
+    "product": "drankenkarton",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "appelsappak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "chocolademelkpak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "chocomelkpak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "drankkarton",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "drankpak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "drink pak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "drinkkarton",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "drinkpak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "drinkpakje",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "drinkpakken",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "drinkyoghurtpak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "dubbelfris",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "frisdrankpak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "karnemelkpak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "kartonnen potje van appelstroop",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "koffiemelkpak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "melk pak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "melkkarton",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "melkpak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "melkpakken",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "melkverpakking",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "pak melk",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "pak vla",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "pakjes",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "pakken",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "pakken melk",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "pmd",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "sappak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "sausverpakking",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "soep in pak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "tetrapak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "vlapak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "vruchtensappak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "yoghurtpak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "zuivelpak",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "zuivelpakken",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "zuivelverpakking",
+    "afval": "drankenkarton"
+  },
+  {
+    "product": "e-bike kapot",
+    "afval": "e-bike kapot"
+  },
+  {
+    "product": "elektrische fiets",
+    "afval": "e-bike kapot"
+  },
+  {
+    "product": "elektrisch apparaat",
+    "afval": "e-bike kapot"
+  },
+  {
+    "product": "accuboormachine",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "afstandsbediening",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "alcoholtest digitaal",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "armatuur lamp",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "baardtrimmer",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "bandrecorder",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "blender",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "bloedglucosemeter",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "broodbakmachine",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "broodrooster",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "cassetterecorder",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "cd-speler",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "citruspers",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "digitale fotocamera",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "dildo",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "dompelaar",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "draadloze telefoon",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "dvd-recorder",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "dvd-speler",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "electronica",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektrisch fornuis",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektrische blikopener",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektrische deken",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektrische eierkoker",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektrische gitaar",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektrische keukenwekker",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektrische monddouche",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektrische personenweegschaal",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektrische tandenborstel",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektronisch muziekinstrument",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektronisch speelgoed",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektronische sigaret",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "energiemeter",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "epileerapparaat",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "fietslamp",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "fietsverlichting",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "flessenwarmer",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "fohn",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "föhn",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "frituurpan",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "geluidsboxen",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "haardroger",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "haarkrulborstel",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "hoofdtelefoon",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "horloge",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "kaars, elektrisch",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "kerstverlichting",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "keukenmachine",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "keyboard",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "klok",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "klokradio",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "koffiepadmachine",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "koffiezetapparaat",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "kopieerapparaat tafelmodel",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "koptelefoon",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "kruimeldief",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "krulset",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "ladyshave",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "lampenfitting",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "lavalamp",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "lichtschakelaar",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "luidsprekers",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "mixer",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "mp3 speler",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "printplaat",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "radio",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "rekenmachine",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "rijstpan",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "scheerapparaat",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "staafmixer",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "stappenteller",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "starter",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "stereo-installatie",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "stofzuiger",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "stoomapparaat",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "stopcontact",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "strijkbout",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "strijkijzer",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "synthesizer",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "tablet",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "telefoon",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "televisie",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "thermometer digitaal",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "thermostaatklok",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "tomtom",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "tostiapparaat",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "trafo",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "transformator",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "tuner",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "uvc-lamp",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "vaste telefoon",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "ventilator",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "versterker",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "videorecorder",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "walkman",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "waterkoker",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "wekker op batterijen",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "wekkerradio",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "wereldontvanger",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "zaklamp",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "zaklantaarn",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektrisch apparaat, werkend",
+    "afval": "elektrisch apparaat, werkend"
+  },
+  {
+    "product": "adapter",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "zonnepaneel",
+    "afval": "elektrisch apparaat"
+  },
+  {
+    "product": "elektrisch gereedschap",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "bandschuurmachine",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "boormachine",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "borduurmachine",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "breimachine",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "cirkelzaag",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "decoupeerzaag",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "elektrisch gereedschap, werkend",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "freesmachine",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "heteluchtpistool",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "lasapparaat",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "lijmpistool",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "multitool",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "naaimachine",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "schaafmachine",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "schroefmachine",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "schuurmachine",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "slijpmachine",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "slijpschijf",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "slijptol",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "soldeerbout",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "verfafbrander",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "zaagmachine",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "elektrisch tuingereedschap",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "bladblazer",
+    "afval": "elektrisch gereedschap"
+  },
+  {
+    "product": "elektrische heggenschaar",
+    "afval": "elektrisch tuingereedschap"
+  },
+  {
+    "product": "grasmaaier",
+    "afval": "elektrisch tuingereedschap"
+  },
+  {
+    "product": "kettingzaag",
+    "afval": "elektrisch tuingereedschap"
+  },
+  {
+    "product": "elektrisch tuingereedschap, werkend",
+    "afval": "elektrisch tuingereedschap, werkend"
+  },
+  {
+    "product": "heggenschaar",
+    "afval": "elektrisch tuingereedschap"
+  },
+  {
+    "product": "elektrische kabel",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "aansluitkabel",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "charger",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "electriciteitsdraad",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "electriciteitskabel",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "elektriciteitsdraad",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "kabel",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "kabels",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "oordopjes",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "oortjes",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "oplader",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "snoer",
+    "afval": "elektrisch tuingereedschap"
+  },
+  {
+    "product": "snoeren",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "startkabel",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "stekkerdoos",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "stekkers",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "stroomkabel",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "verlengsnoer",
+    "afval": "elektrische kabel"
+  },
+  {
+    "product": "energiezuinige lamp",
+    "afval": "energiezuinige lamp"
+  },
+  {
+    "product": "ledlamp",
+    "afval": "energiezuinige lamp"
+  },
+  {
+    "product": "spaarlamp",
+    "afval": "energiezuinige lamp"
+  },
+  {
+    "product": "tl",
+    "afval": "energiezuinige lamp"
+  },
+  {
+    "product": "fiets in goede staat",
+    "afval": "fiets in goede staat"
+  },
+  {
+    "product": "e-bike",
+    "afval": "fiets in goede staat"
+  },
+  {
+    "product": "foto en filmmateriaal",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "8mm film",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "dia's",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "foto",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "fotonegatieven",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "fotorolletje",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "kleurenfilmpje",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "kleurenfoto",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "negatieven van foto's",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "rontgenfoto",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "röntgenfoto",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "super 8 film",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "zwart/wit filmpje",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "zwart-wit foto",
+    "afval": "foto en filmmateriaal"
+  },
+  {
+    "product": "gasfles, eenmalig, leeg",
+    "afval": "gasfles, eenmalig, leeg"
+  },
+  {
+    "product": "campinggaz blikje",
+    "afval": "gasfles, eenmalig, leeg"
+  },
+  {
+    "product": "gasblikje",
+    "afval": "gasfles, eenmalig, leeg"
+  },
+  {
+    "product": "gasfles, eenmalig, niet-leeg",
+    "afval": "gasfles, eenmalig, niet-leeg"
+  },
+  {
+    "product": "gasblikje met restant gas",
+    "afval": "gasfles, eenmalig, niet-leeg"
+  },
+  {
+    "product": "gasfles, navulbaar",
+    "afval": "gasfles, navulbaar"
+  },
+  {
+    "product": "grote gasfles",
+    "afval": "gasfles, navulbaar"
+  },
+  {
+    "product": "geheugenchip en (bank)pas",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "compactflash",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "geheugenkaart",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "microsd",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "microsd-card",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "sd",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "sd-card",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "simkaart",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "usb-stick",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "xd",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "xd-card",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "bankpas",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "betaalpas",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "creditcard",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "ov chipkaart",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "pas",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "pasje",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "pinpas",
+    "afval": "geheugenchip en (bank)pas"
+  },
+  {
+    "product": "geimpregneerd hout",
+    "afval": "geimpregneerd hout"
+  },
+  {
+    "product": "geïmpregneerd hout",
+    "afval": "geimpregneerd hout"
+  },
+  {
+    "product": "geïmpregneerd tuinhout",
+    "afval": "geimpregneerd hout"
+  },
+  {
+    "product": "gekleurd verpakkingsglas",
+    "afval": "gekleurd verpakkingsglas"
+  },
+  {
+    "product": "blauw glas",
+    "afval": "gekleurd verpakkingsglas"
+  },
+  {
+    "product": "bruin glas",
+    "afval": "gekleurd verpakkingsglas"
+  },
+  {
+    "product": "groen glas",
+    "afval": "gekleurd verpakkingsglas"
+  },
+  {
+    "product": "miron violet glas",
+    "afval": "gekleurd verpakkingsglas"
+  },
+  {
+    "product": "rood glas",
+    "afval": "gekleurd verpakkingsglas"
+  },
+  {
+    "product": "gemotoriseerd huishoudelijk apparaat",
+    "afval": "gemotoriseerd huishoudelijk apparaat"
+  },
+  {
+    "product": "motormaaier",
+    "afval": "gemotoriseerd huishoudelijk apparaat"
+  },
+  {
+    "product": "zitmaaier",
+    "afval": "gemotoriseerd huishoudelijk apparaat"
+  },
+  {
+    "product": "geplastificeerd papier of karton",
+    "afval": "geplastificeerd papier of karton"
+  },
+  {
+    "product": "broodzak van papier",
+    "afval": "geplastificeerd papier of karton"
+  },
+  {
+    "product": "mix zak",
+    "afval": "geplastificeerd papier of karton"
+  },
+  {
+    "product": "papier met plastic laagje",
+    "afval": "geplastificeerd papier of karton"
+  },
+  {
+    "product": "gloei- of halogeenlamp",
+    "afval": "gloei- of halogeenlamp"
+  },
+  {
+    "product": "autolamp",
+    "afval": "gloei- of halogeenlamp"
+  },
+  {
+    "product": "gloeilamp",
+    "afval": "gloei- of halogeenlamp"
+  },
+  {
+    "product": "gloeilampen",
+    "afval": "gloei- of halogeenlamp"
+  },
+  {
+    "product": "halogeenlamp",
+    "afval": "gloei- of halogeenlamp"
+  },
+  {
+    "product": "kerstlampjes",
+    "afval": "gloei- of halogeenlamp"
+  },
+  {
+    "product": "lamp",
+    "afval": "gloei- of halogeenlamp"
+  },
+  {
+    "product": "peertje",
+    "afval": "gloei- of halogeenlamp"
+  },
+  {
+    "product": "reflectorlamp",
+    "afval": "gloei- of halogeenlamp"
+  },
+  {
+    "product": "graspol en -plag",
+    "afval": "graspol en -plag"
+  },
+  {
+    "product": "grasplaggen",
+    "afval": "graspol en -plag"
+  },
+  {
+    "product": "graspollen met zand",
+    "afval": "graspol en -plag"
+  },
+  {
+    "product": "graszoden",
+    "afval": "graspol en -plag"
+  },
+  {
+    "product": "grof tuinafval",
+    "afval": "grof tuinafval"
+  },
+  {
+    "product": "boomstronk",
+    "afval": "grof tuinafval"
+  },
+  {
+    "product": "takkenbos",
+    "afval": "grof tuinafval"
+  },
+  {
+    "product": "grond",
+    "afval": "grond"
+  },
+  {
+    "product": "aarde",
+    "afval": "grond"
+  },
+  {
+    "product": "zand",
+    "afval": "grond"
+  },
+  {
+    "product": "potgrond",
+    "afval": "grond"
+  },
+  {
+    "product": "bouwzand",
+    "afval": "grond"
+  },
+  {
+    "product": "groot huishoudelijk apparaat",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "afwasmachine",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "bruingoed",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "cv-ketel",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "droogmachine",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "droogtrommel",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "elektrische oven",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "gasfornuis",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "gasoven",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "keramische kookplaat",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "magnetron",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "radiatorkacheltje",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "vaatwasmachine",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "vaatwasser",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "verwarmingsketel",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "wasdroger",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "wasmachine",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "witgoed",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "zonnehemel",
+    "afval": "groot huishoudelijk apparaat"
+  },
+  {
+    "product": "handgereedschap, werkend",
+    "afval": "handgereedschap, werkend"
+  },
+  {
+    "product": "ringsleutel",
+    "afval": "handgereedschap, werkend"
+  },
+  {
+    "product": "schroevendraaier",
+    "afval": "handgereedschap, werkend"
+  },
+  {
+    "product": "steeksleutel",
+    "afval": "handgereedschap, werkend"
+  },
+  {
+    "product": "waterpas",
+    "afval": "handgereedschap, werkend"
+  },
+  {
+    "product": "handpompje",
+    "afval": "handpompje"
+  },
+  {
+    "product": "plastic handpompje",
+    "afval": "handpompje"
+  },
+  {
+    "product": "pompje",
+    "afval": "handpompje"
+  },
+  {
+    "product": "verstuiver schoonmaakmiddel",
+    "afval": "handpompje"
+  },
+  {
+    "product": "zeeppompje",
+    "afval": "handpompje"
+  },
+  {
+    "product": "hard plastic",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "afdruiprek",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "afvoerpijp",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "afwasteil",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "afwasteiltje",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "babyfles",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "bakje en deksel",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "bidon",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "cassettedoosje",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "dia-cassettebox",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "diadoos",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "diadozen",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "dopper",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "gieter",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "hardplastic",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "hervulbare fles voor onderweg",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "jerrycan",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "koffer",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "krat",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "meeneemfles",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "perspex",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "plastic drinkfles",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "plastic geen verpakking",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "plexiglas",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "pvc",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "regenpijp",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "speelgoed",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "toiletbril",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "tupperware",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "wc bril",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "wc-bril",
+    "afval": "hard plastic"
+  },
+  {
+    "product": "herbruikbaar meubel of huishoudelijk voorwerp",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "(verklarend) woordenboek",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "bank",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "bankstel",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "bestek",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "boek",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "boeken",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "borden",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "bouwdoos",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "deuren",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "driewieler",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "fluit",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "houten kast",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "kast",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "kinderromans",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "leesboek",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "lepel",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "mes",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "meubilair",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "mok",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "piano",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "poezie",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "prentenboek",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "schaatsen",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "servies",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "stoel",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "strips",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "trommel",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "tuinstoel",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "vaas",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "vloerkleed",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "vork",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "wasrek",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "bolletje wol",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "bol wol",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "breiwol",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "breigaren",
+    "afval": "herbruikbaar meubel of huishoudelijk voorwerp"
+  },
+  {
+    "product": "hout en houten plaatmateriaal",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "geschilderd hout",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "geverfd hout",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "houten kaasdoosje",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "houten wijnkist",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "mdf",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "meubelplaat",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "multiplex",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "onbewerkt hout",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "pallet",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "planken",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "schoon hout",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "spaanplaat",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "triplex",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "tuinhout",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "vervuild hout",
+    "afval": "hout en houten plaatmateriaal"
+  },
+  {
+    "product": "huishoudelijk plastic product",
+    "afval": "huishoudelijk plastic product"
+  },
+  {
+    "product": "insteekhoezen",
+    "afval": "huishoudelijk plastic product"
+  },
+  {
+    "product": "plastic bestek",
+    "afval": "huishoudelijk plastic product"
+  },
+  {
+    "product": "rietjes",
+    "afval": "huishoudelijk plastic product"
+  },
+  {
+    "product": "showtas",
+    "afval": "huishoudelijk plastic product"
+  },
+  {
+    "product": "snelhechter",
+    "afval": "huishoudelijk plastic product"
+  },
+  {
+    "product": "tabblad, plastic",
+    "afval": "huishoudelijk plastic product"
+  },
+  {
+    "product": "wegwerpservies",
+    "afval": "huishoudelijk plastic product"
+  },
+  {
+    "product": "hydrokorrels",
+    "afval": "hydrokorrels"
+  },
+  {
+    "product": "hygieneproduct",
+    "afval": "hygieneproduct"
+  },
+  {
+    "product": "incontinentiemateriaal",
+    "afval": "hygieneproduct"
+  },
+  {
+    "product": "inlegkruisjes",
+    "afval": "hygieneproduct"
+  },
+  {
+    "product": "luiers",
+    "afval": "hygieneproduct"
+  },
+  {
+    "product": "maandverband",
+    "afval": "hygieneproduct"
+  },
+  {
+    "product": "pamper",
+    "afval": "hygieneproduct"
+  },
+  {
+    "product": "pampers",
+    "afval": "hygieneproduct"
+  },
+  {
+    "product": "tampons",
+    "afval": "hygieneproduct"
+  },
+  {
+    "product": "zoogcompres",
+    "afval": "hygieneproduct"
+  },
+  {
+    "product": "injectienaald",
+    "afval": "injectienaald"
+  },
+  {
+    "product": "insulinepen",
+    "afval": "injectienaald"
+  },
+  {
+    "product": "spuit",
+    "afval": "injectienaald"
+  },
+  {
+    "product": "isolatiemateriaal",
+    "afval": "isolatiemateriaal"
+  },
+  {
+    "product": "dakisolatie",
+    "afval": "isolatiemateriaal"
+  },
+  {
+    "product": "glaswol",
+    "afval": "isolatiemateriaal"
+  },
+  {
+    "product": "rockwool",
+    "afval": "isolatiemateriaal"
+  },
+  {
+    "product": "steenwol",
+    "afval": "isolatiemateriaal"
+  },
+  {
+    "product": "kaarsvet",
+    "afval": "isolatiemateriaal"
+  },
+  {
+    "product": "kaars",
+    "afval": "isolatiemateriaal"
+  },
+  {
+    "product": "kaarsen",
+    "afval": "kaarsvet"
+  },
+  {
+    "product": "kaarsresten",
+    "afval": "kaarsvet"
+  },
+  {
+    "product": "paraffine",
+    "afval": "kaarsvet"
+  },
+  {
+    "product": "kaaspapier",
+    "afval": "kaaspapier"
+  },
+  {
+    "product": "kalkpapier",
+    "afval": "kalkpapier"
+  },
+  {
+    "product": "calqueerpapier",
+    "afval": "kalkpapier"
+  },
+  {
+    "product": "schetspapier",
+    "afval": "kalkpapier"
+  },
+  {
+    "product": "kattenbakkorrels",
+    "afval": "kattenbakkorrels"
+  },
+  {
+    "product": "houtkorrels",
+    "afval": "kattenbakkorrels"
+  },
+  {
+    "product": "kattebakkorrels",
+    "afval": "kattenbakkorrels"
+  },
+  {
+    "product": "kattebakvulling",
+    "afval": "kattenbakkorrels"
+  },
+  {
+    "product": "kattengrind",
+    "afval": "kattenbakkorrels"
+  },
+  {
+    "product": "kattengrit",
+    "afval": "kattenbakkorrels"
+  },
+  {
+    "product": "keukenafval",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "botjes",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "kippenbot",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "visafval",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "visgraten",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "vleesbotten",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "koffiecup, composteerbaar",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "mosselschelp",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "oesterschelpen",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "papieren zakdoekje, gebruikt",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "sint jacobsschelpen",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "tissues, gebruikt",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "vuil keukenpapier",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "wijngaardslakkenhuisjes",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "zakdoekje, gebruikt",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "bananenschil",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "bananenschillen",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "doppen van pinda's en noten",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "eierschalen",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "eierschillen",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "fruitafval",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "groenteafval",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "klokhuis",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "koffie",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "losse thee",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "stronken",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "theebladeren",
+    "afval": "keukenafval"
+  },
+  {
+    "product": "klein metalen voorwerp",
+    "afval": "klein metalen voorwerp"
+  },
+  {
+    "product": "borgring",
+    "afval": "klein metalen voorwerp"
+  },
+  {
+    "product": "bouten",
+    "afval": "klein metalen voorwerp"
+  },
+  {
+    "product": "moeren",
+    "afval": "klein metalen voorwerp"
+  },
+  {
+    "product": "nippel",
+    "afval": "klein metalen voorwerp"
+  },
+  {
+    "product": "schroef",
+    "afval": "klein metalen voorwerp"
+  },
+  {
+    "product": "schroeven",
+    "afval": "klein metalen voorwerp"
+  },
+  {
+    "product": "sleutel",
+    "afval": "klein metalen voorwerp"
+  },
+  {
+    "product": "sleutelhanger",
+    "afval": "klein metalen voorwerp"
+  },
+  {
+    "product": "sleutels",
+    "afval": "klein metalen voorwerp"
+  },
+  {
+    "product": "spijkers",
+    "afval": "klein metalen voorwerp"
+  },
+  {
+    "product": "kleine sluitingen en doppen",
+    "afval": "kleine sluitingen en doppen"
+  },
+  {
+    "product": "bierdopje",
+    "afval": "kleine sluitingen en doppen"
+  },
+  {
+    "product": "bierdoppen",
+    "afval": "kleine sluitingen en doppen"
+  },
+  {
+    "product": "dop",
+    "afval": "kleine sluitingen en doppen"
+  },
+  {
+    "product": "kroonkurk",
+    "afval": "kleine sluitingen en doppen"
+  },
+  {
+    "product": "sluitlipje broodzak",
+    "afval": "kleine sluitingen en doppen"
+  },
+  {
+    "product": "koel- of vrieskast",
+    "afval": "koel- of vrieskast"
+  },
+  {
+    "product": "diepvries",
+    "afval": "koel- of vrieskast"
+  },
+  {
+    "product": "diepvriezer",
+    "afval": "koel- of vrieskast"
+  },
+  {
+    "product": "koelkast",
+    "afval": "koel- of vrieskast"
+  },
+  {
+    "product": "vrieskist",
+    "afval": "koel- of vrieskast"
+  },
+  {
+    "product": "koffiecupje",
+    "afval": "koffiecupje"
+  },
+  {
+    "product": "dolce gusto koffiecup",
+    "afval": "koffiecupje"
+  },
+  {
+    "product": "koffie cups",
+    "afval": "koffiecupje"
+  },
+  {
+    "product": "koffiecapsule",
+    "afval": "koffiecupje"
+  },
+  {
+    "product": "koffiecups",
+    "afval": "koffiecupje"
+  },
+  {
+    "product": "nespresso cups",
+    "afval": "koffiecupje"
+  },
+  {
+    "product": "nespresso koffiecups",
+    "afval": "koffiecupje"
+  },
+  {
+    "product": "nespressocups",
+    "afval": "koffiecupje"
+  },
+  {
+    "product": "koffiefilter en koffiedrab",
+    "afval": "koffiefilter en koffiedrab"
+  },
+  {
+    "product": "gebruikte koffiefilter",
+    "afval": "koffiefilter en koffiedrab"
+  },
+  {
+    "product": "koffiedik",
+    "afval": "koffiefilter en koffiedrab"
+  },
+  {
+    "product": "koffieprut",
+    "afval": "koffiefilter en koffiedrab"
+  },
+  {
+    "product": "kunststof kozijn",
+    "afval": "kunststof kozijn"
+  },
+  {
+    "product": "kunststof kurk",
+    "afval": "kunststof kurk"
+  },
+  {
+    "product": "langspeelplaat",
+    "afval": "langspeelplaat"
+  },
+  {
+    "product": "elpee",
+    "afval": "langspeelplaat"
+  },
+  {
+    "product": "grammofoonplaten",
+    "afval": "langspeelplaat"
+  },
+  {
+    "product": "langspeelplaten",
+    "afval": "langspeelplaat"
+  },
+  {
+    "product": "lp",
+    "afval": "langspeelplaat"
+  },
+  {
+    "product": "lege kca verpakking",
+    "afval": "lege kca verpakking"
+  },
+  {
+    "product": "chloorbleekverpakking",
+    "afval": "lege kca verpakking"
+  },
+  {
+    "product": "chloorverpakking",
+    "afval": "lege kca verpakking"
+  },
+  {
+    "product": "lampoliefles",
+    "afval": "lege kca verpakking"
+  },
+  {
+    "product": "lege verpakking bestrijdingsmiddelen",
+    "afval": "lege kca verpakking"
+  },
+  {
+    "product": "petroleumverpakking",
+    "afval": "lege kca verpakking"
+  },
+  {
+    "product": "terpentinefles",
+    "afval": "lege kca verpakking"
+  },
+  {
+    "product": "verpakking gootsteenontstopper",
+    "afval": "lege kca verpakking"
+  },
+  {
+    "product": "wasbenzinefles",
+    "afval": "lege kca verpakking"
+  },
+  {
+    "product": "lijm en kit",
+    "afval": "lijm en kit"
+  },
+  {
+    "product": "behanglijm",
+    "afval": "lijm en kit"
+  },
+  {
+    "product": "kit",
+    "afval": "lijm en kit"
+  },
+  {
+    "product": "kitkoker",
+    "afval": "lijm en kit"
+  },
+  {
+    "product": "lijm",
+    "afval": "lijm en kit"
+  },
+  {
+    "product": "tegellijm",
+    "afval": "lijm en kit"
+  },
+  {
+    "product": "luchtontvochtigingsvloeistof",
+    "afval": "luchtontvochtigingsvloeistof"
+  },
+  {
+    "product": "luchtontvochtigervloeistof",
+    "afval": "luchtontvochtigingsvloeistof"
+  },
+  {
+    "product": "vochtvretervloeistof",
+    "afval": "luchtontvochtigingsvloeistof"
+  },
+  {
+    "product": "magneet",
+    "afval": "magneet"
+  },
+  {
+    "product": "magneten",
+    "afval": "magneet"
+  },
+  {
+    "product": "matrasbeschermer",
+    "afval": "matrasbeschermer"
+  },
+  {
+    "product": "matrashoes",
+    "afval": "matrasbeschermer"
+  },
+  {
+    "product": "molton",
+    "afval": "matrasbeschermer"
+  },
+  {
+    "product": "matrassen en schuimplastic",
+    "afval": "matrassen en schuimplastic"
+  },
+  {
+    "product": "foam",
+    "afval": "matrassen en schuimplastic"
+  },
+  {
+    "product": "matrassen",
+    "afval": "matrassen en schuimplastic"
+  },
+  {
+    "product": "polyetherschuim",
+    "afval": "matrassen en schuimplastic"
+  },
+  {
+    "product": "schuimfolie",
+    "afval": "matrassen en schuimplastic"
+  },
+  {
+    "product": "schuimplastic",
+    "afval": "matrassen en schuimplastic"
+  },
+  {
+    "product": "schuimrubber",
+    "afval": "matrassen en schuimplastic"
+  },
+  {
+    "product": "medicijn",
+    "afval": "medicijn"
+  },
+  {
+    "product": "damp vloeistof e-smoker",
+    "afval": "medicijn"
+  },
+  {
+    "product": "drugs",
+    "afval": "medicijn"
+  },
+  {
+    "product": "geneesmiddelen",
+    "afval": "medicijn"
+  },
+  {
+    "product": "medicijnen",
+    "afval": "medicijn"
+  },
+  {
+    "product": "neusspray",
+    "afval": "medicijn"
+  },
+  {
+    "product": "nicotinekauwgom",
+    "afval": "medicijn"
+  },
+  {
+    "product": "nicotinepleisters",
+    "afval": "medicijn"
+  },
+  {
+    "product": "nicotinevloeistof",
+    "afval": "medicijn"
+  },
+  {
+    "product": "paracetamol",
+    "afval": "medicijn"
+  },
+  {
+    "product": "pillen",
+    "afval": "medicijn"
+  },
+  {
+    "product": "tabletten",
+    "afval": "medicijn"
+  },
+  {
+    "product": "vitaminepillen",
+    "afval": "medicijn"
+  },
+  {
+    "product": "voedingssupplementen",
+    "afval": "medicijn"
+  },
+  {
+    "product": "mest van kleine huisdieren",
+    "afval": "mest van kleine huisdieren"
+  },
+  {
+    "product": "drol",
+    "afval": "mest van kleine huisdieren"
+  },
+  {
+    "product": "hooi",
+    "afval": "mest van kleine huisdieren"
+  },
+  {
+    "product": "houtsnippers vogelkooi",
+    "afval": "mest van kleine huisdieren"
+  },
+  {
+    "product": "kak",
+    "afval": "mest van kleine huisdieren"
+  },
+  {
+    "product": "keutel",
+    "afval": "mest van kleine huisdieren"
+  },
+  {
+    "product": "mest van klein huisdier",
+    "afval": "mest van kleine huisdieren"
+  },
+  {
+    "product": "pies",
+    "afval": "mest van kleine huisdieren"
+  },
+  {
+    "product": "poep",
+    "afval": "mest van kleine huisdieren"
+  },
+  {
+    "product": "schijt",
+    "afval": "mest van kleine huisdieren"
+  },
+  {
+    "product": "stro",
+    "afval": "mest van kleine huisdieren"
+  },
+  {
+    "product": "stront",
+    "afval": "mest van kleine huisdieren"
+  },
+  {
+    "product": "metalen verpakking",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "aluminium bakje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "aluminium schaal",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "aluminium verpakking",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "aluminiumbakje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "aluminiumblikje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "bierblikje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "blik",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "blikje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "blikje cola",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "blikje knakworst",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "blikjes",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "blikken",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "conservenblik",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "deksel zuivelbeker",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "drankblikje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "drankenblikje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "hondenvoerblik",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "karvan cevitam",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "kattenvoerblik",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "limonade blik",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "limonadeblik",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "limonadebus",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "maisblikje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "mayonaise tube",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "sardienblikje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "siroopfles",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "soepblik",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "theeblikje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "theelichtcupje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "tube",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "tube mayonaise",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "tubes",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "visblikje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "voedselblik",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "waxinelichtcupje",
+    "afval": "metalen verpakking"
+  },
+  {
+    "product": "meubels",
+    "afval": "meubilair"
+  },
+  {
+    "product": "rieten mand",
+    "afval": "meubilair"
+  },
+  {
+    "product": "rotan",
+    "afval": "meubilair"
+  },
+  {
+    "product": "mobiele telefoon",
+    "afval": "mobiele telefoon"
+  },
+  {
+    "product": "cellphone",
+    "afval": "mobiele telefoon"
+  },
+  {
+    "product": "iphone",
+    "afval": "mobiele telefoon"
+  },
+  {
+    "product": "mobieltje",
+    "afval": "mobiele telefoon"
+  },
+  {
+    "product": "pokkie",
+    "afval": "mobiele telefoon"
+  },
+  {
+    "product": "smartphone",
+    "afval": "mobiele telefoon"
+  },
+  {
+    "product": "niet-recyclebaar afval",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "(blikje) schoensmeer",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "aansteker",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "antiworteldoek",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "autoplamuur",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "ballon",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "ballonnen",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "bijenwas",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "boetseerklei",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "boter verpakking",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "boterpapier",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "boterverpakking",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "boterwikkel",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "breeklicht",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "brillen",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "brommerhelm",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "busje fotorolletje",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "cadeaulint",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "condoom",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "condooms",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "contactlenzen",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "correctievloeistof",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "deurmat",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "dons",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "douchegordijn",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "elastiek",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "fietsband",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "fietshelm",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "flosdraad",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "gasaansteker",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "gloeistaven",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "glow-in-the-dark",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "haar van mens of dier",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "handenwarmer",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "haren van mens of dier",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "heater pack",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "helm",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "hotbag",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "houtrotvuller",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "ijslolliestokje hout",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "ijsstokje",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "inhoud stofzuigerzak",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "instant handwarmer",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "kaaskorst",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "kaaskorst met plastic",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "kaaskorsten",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "kapotje",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "kauwgom",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "kleurdoekjes",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "koelelement voor koelbox",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "koolstoffilter afzuigkap",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "kunstmest",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "latex huishoudhandschoenen",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "leesbril",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "lenzen",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "light stick",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "luchtbed",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "lucifers",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "mat",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "matje in vleesbakje",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "meubelolie",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "mosselen",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "motorhelm",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "nagels",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "nylon",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "pakje sigaretten",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "pannenspons",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "paperclips",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "papieren servetje, gebruikt",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "papieren tafellaken",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "paraplu",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "party stick",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "plamuur",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "rest afval",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "restafval",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "rubber",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "sateprikkers",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "satéprikkers",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "schelpen (strandschelpen)",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "schelpenzand",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "schoenpoets",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "schoon toiletpapier",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "schoon wc papier",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "schuurpapier",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "schuursponsje",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "servet papier, gebruikt",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "shag",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "sigaren",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "sigaretten",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "sigarettenpeuken",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "silicagel",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "skihelm",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "smeervet",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "snelontkalker",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "spons",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "steenpapier (gemaakt van krijt en plastic)",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "stickers",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "stofzuigerzak met inhoud",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "stoppen",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "strooizout",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "swifferdoekjes",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "tabak",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "tandenstoker",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "tegelvoeg",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "touw",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "typex",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "veren",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "vlooienband",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "vochtabsorber zakjes",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "vochtvreter gel of zouten",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "vogelkooizand",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "vulmateriaal kussen",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "vuurwerkresten",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "waterfilter (actieve kool)",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "watjes",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "wattenstaafje",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "wegwerpscheermesje",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "zekeringen",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "zilverpoets",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "zwenkwielen",
+    "afval": "niet-recyclebaar afval"
+  },
+  {
+    "product": "niet-recyclebaar groot afval",
+    "afval": "niet-recyclebaar groot afval"
+  },
+  {
+    "product": "kunstgras",
+    "afval": "niet-recyclebaar groot afval"
+  },
+  {
+    "product": "kunstkerstboom",
+    "afval": "niet-recyclebaar groot afval"
+  },
+  {
+    "product": "ski",
+    "afval": "niet-recyclebaar groot afval"
+  },
+  {
+    "product": "skistok",
+    "afval": "niet-recyclebaar groot afval"
+  },
+  {
+    "product": "strijkplank",
+    "afval": "niet-recyclebaar groot afval"
+  },
+  {
+    "product": "niet-recyclebaar product",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "alcoholtest wegwerp",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "analoge weegschaal",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "analoog muziekinstrument",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "babyspeen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "bal",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "ballen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "bamboe servies",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "barometer (zonder kwik)",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "binnenband auto",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "binnenband fiets",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "fietszadel",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "flesspeen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "fopspeen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "globe",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "halsband",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "katrollen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "kerstbal",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "kleding tag",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "kledinghanger",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "kleerhanger",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "knaapje",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "kunstbloemen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "kwast",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "make up",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "meetlat",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "neopreen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "opwindbare wekker",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "opzetborstel van elektrische tandenborstel",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "passer",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "penselen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "plakstift",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "plastic tafelzeil",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "rubberen warmwaterkruik",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "schaar",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "siliconen keukenartikelen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "skischoen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "speen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "springtouw",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "surfpak",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "tandwielen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "tennisbal",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "thermoskan",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "thermostaatkraan",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "tuinslang",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "verfroller",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "waterfilter voor membraanfiltratie",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "wetsuit",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "zuigspeen",
+    "afval": "niet-recyclebaar product"
+  },
+  {
+    "product": "niet-verpakkingsglas",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "bierglas",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "bloemenvaas",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "draaiplateau van magnetron",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "drinkglas",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "glazen schaaltje",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "keramisch glas",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "koffiekan",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "kristalglas",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "limonadeglas",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "magnetronschaal",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "opaal glas",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "ovenschaal",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "pannendeksel",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "theeglas",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "vuurvast glas",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "waterglas",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "wijnglas",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "wit glas (opaal)",
+    "afval": "niet-verpakkingsglas"
+  },
+  {
+    "product": "olie en vet",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "bakolie",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "bakvet",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "boter",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "frietvet",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "frituurolie",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "frituurvet",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "gestold",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "jus",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "margarine",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "olie",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "olijfolie",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "roomboter",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "slaolie",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "vet",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "vloeibaar frituurvet",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "vloeibaar of gestold",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "wokolie",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "zonnebloemolie",
+    "afval": "olie en vet"
+  },
+  {
+    "product": "omsnoerband",
+    "afval": "omsnoerband"
+  },
+  {
+    "product": "bindingsstrip",
+    "afval": "omsnoerband"
+  },
+  {
+    "product": "strapex",
+    "afval": "omsnoerband"
+  },
+  {
+    "product": "strapping",
+    "afval": "omsnoerband"
+  },
+  {
+    "product": "verpakkingsband",
+    "afval": "omsnoerband"
+  },
+  {
+    "product": "ordner",
+    "afval": "ordner"
+  },
+  {
+    "product": "mappen",
+    "afval": "ordner"
+  },
+  {
+    "product": "multomap",
+    "afval": "ordner"
+  },
+  {
+    "product": "ringband",
+    "afval": "ordner"
+  },
+  {
+    "product": "oud ijzer en andere metalen",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "aluminium geen verpakking",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "dakgoot",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "fiets",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "fietsdynamo",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "fluitketel",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "gaas",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "ijzer",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "ijzerdraad",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "kippengaas",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "koper",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "koperdraad",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "kraan",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "laselectrode",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "lood",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "metalen bakvorm",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "metalen warmwaterkruik",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "nietjes",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "radiator",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "regenpijp van metaal",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "roestvrijstaal",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "rvs",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "springvorm",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "staal",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "typemachine (mechanisch)",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "zink",
+    "afval": "oud ijzer en andere metalen"
+  },
+  {
+    "product": "overig grof afval",
+    "afval": "overig grof afval"
+  },
+  {
+    "product": "autostoeltje kind",
+    "afval": "overig grof afval"
+  },
+  {
+    "product": "glasvezel",
+    "afval": "overig grof afval"
+  },
+  {
+    "product": "golfplaat",
+    "afval": "overig grof afval"
+  },
+  {
+    "product": "grof vuil",
+    "afval": "overig grof afval"
+  },
+  {
+    "product": "grofvuil",
+    "afval": "overig grof afval"
+  },
+  {
+    "product": "stucfolie",
+    "afval": "overig grof afval"
+  },
+  {
+    "product": "stucloper",
+    "afval": "overig grof afval"
+  },
+  {
+    "product": "overig kunststof afval",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "afdekfolie",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "afdekzeil",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "bouwzeil",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "emmer",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "gevelplaten",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "kunststof",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "kunststof bouwmateriaal",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "lamellen",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "landbouwplastic",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "pegenpijp",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "plastic doos",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "plastic wasmand",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "vijverfolie",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "wasmand",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "zwembadje",
+    "afval": "overig kunststof afval"
+  },
+  {
+    "product": "overige plastic producten",
+    "afval": "overige plastic producten"
+  },
+  {
+    "product": "afwasborstel",
+    "afval": "overige plastic producten"
+  },
+  {
+    "product": "ijslolliestokje plastic",
+    "afval": "overige plastic producten"
+  },
+  {
+    "product": "plastic bak",
+    "afval": "overige plastic producten"
+  },
+  {
+    "product": "plastic bord",
+    "afval": "overige plastic producten"
+  },
+  {
+    "product": "tandenborstels",
+    "afval": "overige plastic producten"
+  },
+  {
+    "product": "pan",
+    "afval": "pan"
+  },
+  {
+    "product": "braadpan",
+    "afval": "pan"
+  },
+  {
+    "product": "koekenpan",
+    "afval": "pan"
+  },
+  {
+    "product": "koekenpan met anti-aanbaklaag",
+    "afval": "pan"
+  },
+  {
+    "product": "koekepan",
+    "afval": "pan"
+  },
+  {
+    "product": "kookpan",
+    "afval": "pan"
+  },
+  {
+    "product": "melkpan",
+    "afval": "pan"
+  },
+  {
+    "product": "tefalpan",
+    "afval": "pan"
+  },
+  {
+    "product": "teflonpan",
+    "afval": "pan"
+  },
+  {
+    "product": "wok",
+    "afval": "pan"
+  },
+  {
+    "product": "wokpan",
+    "afval": "pan"
+  },
+  {
+    "product": "papier en karton",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "agenda (met metalen of plastic spiraal)",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "ansichtkaarten",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "beschuitrol binnenverpakking",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "brochures",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "cadeaupapier",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "cellulose",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "celstof",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "computeruitdraai",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "cosmeticadoosje",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "doos",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "doosje hagelslag",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "eierdoos",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "envelop",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "envelop met venster",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "glanspapier",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "glossy",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "hagelslagdoosje",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "havermoutzak",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "inpakpapier",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "kalender (met metalen of plastic spiraal)",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "karton",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "kartonnen doos",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "kartonnen verpakking",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "keukenrol",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "kranten",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "kraskaart",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "lege wc-rol",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "papier",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "papier met nietjes",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "papierdoos",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "papieren servetje, ongebruikt",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "papieren zak",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "papieren zakdoekje, ongebruikt",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "papiersnippers",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "pergamijnpapier (bubbeltjespapier op chocolaatjes)",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "pergamijnpapier (tussenbladen fotoalbum)",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "pizzadoos van diepvriespizza",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "reclamedrukwerk",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "reclamefolder",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "schoenendoos",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "schoolagenda",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "schoolschrift",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "schoon keukenpapier",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "schrift",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "schrijfblok (met metalen of plastic spiraal)",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "schrijfpapier",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "servet papier, ongebruikt",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "sigarettendoosje",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "spiraalblok (met metalen of plastic spiraal)",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "spiraalkalender (met metalen of plastic spiraal)",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "telefoongids",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "theedoosje",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "tijdschrift",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "tissues, ongebruikt",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "toiletrol",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "vensterenvelop",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "vloeipapier",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "waspoederdoos",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "wc rol",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "wikkel",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "zakdoekje, ongebruikt",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "paperfoam",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "eierdoos rondeeleieren",
+    "afval": "papier en karton"
+  },
+  {
+    "product": "papier met waslaagje",
+    "afval": "papier met waslaagje"
+  },
+  {
+    "product": "broodzak",
+    "afval": "papier met waslaagje"
+  },
+  {
+    "product": "broodzak met plastic",
+    "afval": "papier met waslaagje"
+  },
+  {
+    "product": "broodzak met venster",
+    "afval": "papier met waslaagje"
+  },
+  {
+    "product": "diepvriesverpakking (karton)",
+    "afval": "papier met waslaagje"
+  },
+  {
+    "product": "doosje chocoladevlokken",
+    "afval": "papier met waslaagje"
+  },
+  {
+    "product": "frietzak",
+    "afval": "papier met waslaagje"
+  },
+  {
+    "product": "oliebollenzak",
+    "afval": "papier met waslaagje"
+  },
+  {
+    "product": "papier (met of zonder venster)",
+    "afval": "papier met waslaagje"
+  },
+  {
+    "product": "snackzak",
+    "afval": "papier met waslaagje"
+  },
+  {
+    "product": "snoeppapier",
+    "afval": "papier met waslaagje"
+  },
+  {
+    "product": "papieren verpakking met plastic of aluminiumlaagje",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "bus pringles",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "caprisun",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "chips bus",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "chipsbus",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "chipskoker",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "croissantdeegverpakking",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "gouden onderlegger",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "goudgelakt aluminiumfolie",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "karton onder vis",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "nutrilonverpakking",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "opvolgmelk",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "pringles bus",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "saus zakje",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "sauszakje",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "scheurzakje oploskoffie",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "scheurzakje soep",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "zilverpapier (geen folie)",
+    "afval": "papieren verpakking met plastic of aluminiumlaagje"
+  },
+  {
+    "product": "piepschuim eps",
+    "afval": "piepschuim EPS"
+  },
+  {
+    "product": "eps",
+    "afval": "piepschuim EPS"
+  },
+  {
+    "product": "groot piepschuim",
+    "afval": "piepschuim EPS"
+  },
+  {
+    "product": "piepschuim verpakking",
+    "afval": "piepschuim EPS"
+  },
+  {
+    "product": "polystyreen",
+    "afval": "piepschuim EPS"
+  },
+  {
+    "product": "tempex",
+    "afval": "piepschuim EPS"
+  },
+  {
+    "product": "verpakkingspiepschuim",
+    "afval": "piepschuim EPS"
+  },
+  {
+    "product": "opvulmateriaal van piepschuim",
+    "afval": "piepschuim EPS"
+  },
+  {
+    "product": "piepschuim schaaltje",
+    "afval": "piepschuim schaaltje"
+  },
+  {
+    "product": "vleesschaaltjes",
+    "afval": "piepschuim schaaltje"
+  },
+  {
+    "product": "plakband",
+    "afval": "plakband"
+  },
+  {
+    "product": "duct tape",
+    "afval": "plakband"
+  },
+  {
+    "product": "schildersplakband",
+    "afval": "plakband"
+  },
+  {
+    "product": "schilderstape",
+    "afval": "plakband"
+  },
+  {
+    "product": "tape",
+    "afval": "plakband"
+  },
+  {
+    "product": "verhuistape",
+    "afval": "plakband"
+  },
+  {
+    "product": "plastic bakje of kuipje",
+    "afval": "plastic bakje of kuipje"
+  },
+  {
+    "product": "boterkuipje",
+    "afval": "plastic bakje of kuipje"
+  },
+  {
+    "product": "fruitbakje",
+    "afval": "plastic bakje of kuipje"
+  },
+  {
+    "product": "ijsbak",
+    "afval": "plastic bakje of kuipje"
+  },
+  {
+    "product": "koffiemelkcupje",
+    "afval": "plastic bakje of kuipje"
+  },
+  {
+    "product": "patatbakje",
+    "afval": "plastic bakje of kuipje"
+  },
+  {
+    "product": "toetje",
+    "afval": "plastic bakje of kuipje"
+  },
+  {
+    "product": "vleesverpakking",
+    "afval": "plastic bakje of kuipje"
+  },
+  {
+    "product": "wegwerpbekertje",
+    "afval": "wegwerpbekertje"
+  },
+  {
+    "product": "koffiebekertje plastic",
+    "afval": "wegwerpbekertje"
+  },
+  {
+    "product": "plastic beker",
+    "afval": "wegwerpbekertje"
+  },
+  {
+    "product": "wegwerpbekertje plastic",
+    "afval": "wegwerpbekertje"
+  },
+  {
+    "product": "bekertje",
+    "afval": "wegwerpbekertje"
+  },
+  {
+    "product": "koffiebekertje papier of karton",
+    "afval": "wegwerpbekertje"
+  },
+  {
+    "product": "papieren beker",
+    "afval": "wegwerpbekertje"
+  },
+  {
+    "product": "papieren bekertje",
+    "afval": "wegwerpbekertje"
+  },
+  {
+    "product": "wegwerpbekertje papier",
+    "afval": "wegwerpbekertje"
+  },
+  {
+    "product": "kartonnen bekertje",
+    "afval": "wegwerpbekertje"
+  },
+  {
+    "product": "plastic bekertje",
+    "afval": "wegwerpbekertje"
+  },
+  {
+    "product": "plastic fles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "afwasmiddelfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "ammoniafles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "badschuimfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "bleekmiddelfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "bleekwaterfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "cola",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "cosmeticaflesje",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "doseerbol wasmiddel",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "douchegelfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "flacons",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "glorix",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "knijpfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "kunststof fles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "limonade fles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "limonadefles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "melkfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "pet- fles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "petfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "plant bottle fles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "schoonmaakmiddelenfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "shampoofles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "spiritusfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "vruchtensapfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "wasmiddelenfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "wasverzachterfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "zeepflacon",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "zeepfles",
+    "afval": "plastic fles"
+  },
+  {
+    "product": "plastic groente- of fruitnetje",
+    "afval": "plastic groente- of fruitnetje"
+  },
+  {
+    "product": "fruitnetje",
+    "afval": "plastic groente- of fruitnetje"
+  },
+  {
+    "product": "mandarijnnetje",
+    "afval": "plastic groente- of fruitnetje"
+  },
+  {
+    "product": "sinaasappelnetje",
+    "afval": "plastic groente- of fruitnetje"
+  },
+  {
+    "product": "uiennetje",
+    "afval": "plastic groente- of fruitnetje"
+  },
+  {
+    "product": "vogelvoernetje",
+    "afval": "plastic groente- of fruitnetje"
+  },
+  {
+    "product": "plastic potje",
+    "afval": "plastic potje"
+  },
+  {
+    "product": "bloempot",
+    "afval": "plastic potje"
+  },
+  {
+    "product": "gelpotje",
+    "afval": "plastic potje"
+  },
+  {
+    "product": "medicijnenpotje",
+    "afval": "plastic potje"
+  },
+  {
+    "product": "potje van medicijnen",
+    "afval": "plastic potje"
+  },
+  {
+    "product": "potje van vitamines",
+    "afval": "plastic potje"
+  },
+  {
+    "product": "vitaminepotje",
+    "afval": "plastic potje"
+  },
+  {
+    "product": "plastic schaaltje",
+    "afval": "plastic schaaltje"
+  },
+  {
+    "product": "schaaltje voor kaas",
+    "afval": "plastic schaaltje"
+  },
+  {
+    "product": "schaaltje voor vleeswaren",
+    "afval": "plastic schaaltje"
+  },
+  {
+    "product": "plastic statiegeldfles",
+    "afval": "plastic statiegeldfles"
+  },
+  {
+    "product": "coca cola statiegeldfles",
+    "afval": "plastic statiegeldfles"
+  },
+  {
+    "product": "grote plastic fles",
+    "afval": "plastic statiegeldfles"
+  },
+  {
+    "product": "plastic tube",
+    "afval": "plastic tube"
+  },
+  {
+    "product": "bodylotiontube",
+    "afval": "plastic tube"
+  },
+  {
+    "product": "cremetube",
+    "afval": "plastic tube"
+  },
+  {
+    "product": "geltube",
+    "afval": "plastic tube"
+  },
+  {
+    "product": "tandpastatube",
+    "afval": "plastic tube"
+  },
+  {
+    "product": "tube tandpasta",
+    "afval": "plastic tube"
+  },
+  {
+    "product": "plastic verpakking met metaallaagje",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "aluminium binnenkant",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "chips verpakking",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "chips zak",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "chipsverpakking",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "chipszak",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "chipszakken",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "koekverpakking",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "koffiebonen verpakking",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "koffiebonenzak",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "koffiepadzak",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "koffiepak",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "koffieverpakking",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "koffiezak",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "plastic met aluminium binnenlaagje",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "plastic verpakking met aluminium binnenlaagje",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "plastic zak met zilverkleurige binnenkant",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "senseo verpakking",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "soep in zak",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "soepzak",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "verpakking koffie",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "zak chips",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "zakje kattenvoer",
+    "afval": "plastic verpakking met metaallaagje"
+  },
+  {
+    "product": "plastic verpakkingen overig",
+    "afval": "plastic verpakkingen overig"
+  },
+  {
+    "product": "cd-spindle",
+    "afval": "plastic verpakkingen overig"
+  },
+  {
+    "product": "chinees",
+    "afval": "plastic verpakkingen overig"
+  },
+  {
+    "product": "folie boterkuipje",
+    "afval": "plastic verpakkingen overig"
+  },
+  {
+    "product": "houder elektrische luchtverfrisser",
+    "afval": "plastic verpakkingen overig"
+  },
+  {
+    "product": "houder toiletreiniger",
+    "afval": "plastic verpakkingen overig"
+  },
+  {
+    "product": "pdm",
+    "afval": "plastic verpakkingen overig"
+  },
+  {
+    "product": "plantenpot",
+    "afval": "plastic verpakkingen overig"
+  },
+  {
+    "product": "plantentray",
+    "afval": "plastic verpakkingen overig"
+  },
+  {
+    "product": "polypropyleen verpakking",
+    "afval": "plastic verpakkingen overig"
+  },
+  {
+    "product": "wc-blokje verpakking",
+    "afval": "plastic verpakkingen overig"
+  },
+  {
+    "product": "plastic zakje of folie",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "bloemenfolie",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "boodschappentas",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "boterhamzakjes",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "broodzakje",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "bubbeltjesplastic",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "buitenverpakking beschuitrol",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "cellofaan",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "folie om folders en tijdschriften",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "huishoudfolie",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "kaasverpakking",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "kattenvoerzak",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "krimpfolie",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "noppenfolie",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "pastazak",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "plastic folie",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "plastic folie om bloemen en planten",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "plastic tas",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "plastic zak",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "plastic zakje",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "rijstzak",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "saladeverpakking",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "snoepzak",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "tasje",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "vershoudfolie",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "vleeswarenverpakking",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "zakje bloemenvoedsel",
+    "afval": "plastic zakje of folie"
+  },
+  {
+    "product": "plastic zuivelbeker",
+    "afval": "plastic zuivelbeker"
+  },
+  {
+    "product": "danoontje",
+    "afval": "plastic zuivelbeker"
+  },
+  {
+    "product": "ijsbeker",
+    "afval": "plastic zuivelbeker"
+  },
+  {
+    "product": "vlabeker",
+    "afval": "plastic zuivelbeker"
+  },
+  {
+    "product": "yoghurtbeker",
+    "afval": "plastic zuivelbeker"
+  },
+  {
+    "product": "zuivelbeker",
+    "afval": "plastic zuivelbeker"
+  },
+  {
+    "product": "puin",
+    "afval": "puin"
+  },
+  {
+    "product": "baksteen",
+    "afval": "puin"
+  },
+  {
+    "product": "bakstenen",
+    "afval": "puin"
+  },
+  {
+    "product": "bloempotten",
+    "afval": "puin"
+  },
+  {
+    "product": "dakpannen",
+    "afval": "puin"
+  },
+  {
+    "product": "gasbetonblokken",
+    "afval": "puin"
+  },
+  {
+    "product": "gipsplaat",
+    "afval": "puin"
+  },
+  {
+    "product": "grind",
+    "afval": "puin"
+  },
+  {
+    "product": "grindtegels",
+    "afval": "puin"
+  },
+  {
+    "product": "kalkzandsteen",
+    "afval": "puin"
+  },
+  {
+    "product": "metselwerk",
+    "afval": "puin"
+  },
+  {
+    "product": "muurtegels",
+    "afval": "puin"
+  },
+  {
+    "product": "natuursteen",
+    "afval": "puin"
+  },
+  {
+    "product": "schoon puin",
+    "afval": "puin"
+  },
+  {
+    "product": "stoeptegels",
+    "afval": "puin"
+  },
+  {
+    "product": "tegels",
+    "afval": "puin"
+  },
+  {
+    "product": "toiletpot",
+    "afval": "puin"
+  },
+  {
+    "product": "wc-pot",
+    "afval": "puin"
+  },
+  {
+    "product": "rookmelder of koolmonoxidemelder",
+    "afval": "rookmelder of koolmonoxidemelder"
+  },
+  {
+    "product": "sanitairpapier",
+    "afval": "sanitairpapier"
+  },
+  {
+    "product": "scherp voorwerp",
+    "afval": "scherp voorwerp"
+  },
+  {
+    "product": "scheermesje",
+    "afval": "scherp voorwerp"
+  },
+  {
+    "product": "schoenen",
+    "afval": "schoenen"
+  },
+  {
+    "product": "gympen",
+    "afval": "schoenen"
+  },
+  {
+    "product": "laarzen",
+    "afval": "schoenen"
+  },
+  {
+    "product": "oude schoenen",
+    "afval": "schoenen"
+  },
+  {
+    "product": "sandalen",
+    "afval": "schoenen"
+  },
+  {
+    "product": "schoeisel",
+    "afval": "schoenen"
+  },
+  {
+    "product": "sportschoenen",
+    "afval": "schoenen"
+  },
+  {
+    "product": "wandelschoenen",
+    "afval": "schoenen"
+  },
+  {
+    "product": "schoonmaakdoekje",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "babydoekje",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "billendoekjes",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "brillendoekje",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "luierdoekje",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "natte doekjes",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "reinigingsdoekje",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "snoetenpoetsers",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "wegwerpschoonmaakdoekjes",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "schoonmaakmiddel",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "aceton",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "ammonia",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "ammoniak",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "bleekmiddel",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "chloor",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "chroomreiniger",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "ethanol",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "glansmiddel",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "glycerine",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "koperpoets",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "luchtverfrisser",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "ontsmettingsmiddelen",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "ontvettingsmiddel",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "ovenreiniger",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "ruitontdooier",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "slotontdooier",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "spiritus",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "vlekkenwater",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "vlekverwijderaar",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "wasmiddel",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "wasverzachter",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "waterstofperoxide",
+    "afval": "schoonmaakdoekje"
+  },
+  {
+    "product": "wc eend",
+    "afval": "schoonmaakmiddel"
+  },
+  {
+    "product": "schrijfgerei",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "accentueerstift",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "ballpoint",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "balpen",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "balpenvulling",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "gum",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "inkt",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "inktpatronen",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "kleurpotloden",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "kleurpotlood",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "markeerstiften",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "merkstift",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "pen",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "pennen",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "permanente markers",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "potloden",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "potlood",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "puntenslijpsel",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "schrijfmachinelinten",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "viltstiften",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "whiteboardmarkers",
+    "afval": "schrijfgerei"
+  },
+  {
+    "product": "servies en aardewerk",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "aardewerk",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "beker aardewerk",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "bloemenvaas aardewerk",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "bord aardewerk",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "jeneverkruik",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "keramiek",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "koffiebeker",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "kruik aardewerk",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "porcelein",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "porselein",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "schaal",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "serviesgoed",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "vaas aardewerk",
+    "afval": "servies en aardewerk"
+  },
+  {
+    "product": "slachtafval door jacht",
+    "afval": "slachtafval door jacht"
+  },
+  {
+    "product": "houten speelgoed",
+    "afval": "speelgoed"
+  },
+  {
+    "product": "plastic speelgoed",
+    "afval": "speelgoed"
+  },
+  {
+    "product": "spuitbus",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "deodorantbus",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "deodorantspuitbus",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "gaspatroon slagroomspuit",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "haarlakbus",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "haarspray",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "lachgas patroon",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "lege spuitbus",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "scheerschuim spuitbus",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "slagroom",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "slagroombus",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "slagroomspuitbus",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "spuitbus bestrijdingsmiddelen",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "spuitbus meubelreiniger",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "spuitbus schoenen",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "spuitbussen",
+    "afval": "spuitbus"
+  },
+  {
+    "product": "steekschuim",
+    "afval": "steekschuim"
+  },
+  {
+    "product": "oase",
+    "afval": "steekschuim"
+  },
+  {
+    "product": "oasis",
+    "afval": "steekschuim"
+  },
+  {
+    "product": "tent",
+    "afval": "textiel"
+  },
+  {
+    "product": "textiel",
+    "afval": "textiel"
+  },
+  {
+    "product": "badpak",
+    "afval": "textiel"
+  },
+  {
+    "product": "beddengoed",
+    "afval": "textiel"
+  },
+  {
+    "product": "beha",
+    "afval": "textiel"
+  },
+  {
+    "product": "bh",
+    "afval": "textiel"
+  },
+  {
+    "product": "bikini",
+    "afval": "textiel"
+  },
+  {
+    "product": "broek",
+    "afval": "textiel"
+  },
+  {
+    "product": "buitensportjas",
+    "afval": "textiel"
+  },
+  {
+    "product": "dassen",
+    "afval": "textiel"
+  },
+  {
+    "product": "dekbedovertrek",
+    "afval": "textiel"
+  },
+  {
+    "product": "dekens",
+    "afval": "textiel"
+  },
+  {
+    "product": "fleece (trui of deken)",
+    "afval": "textiel"
+  },
+  {
+    "product": "gordijn",
+    "afval": "textiel"
+  },
+  {
+    "product": "gore tex",
+    "afval": "textiel"
+  },
+  {
+    "product": "handdoek",
+    "afval": "textiel"
+  },
+  {
+    "product": "handschoenen",
+    "afval": "textiel"
+  },
+  {
+    "product": "handtas",
+    "afval": "textiel"
+  },
+  {
+    "product": "hemd",
+    "afval": "textiel"
+  },
+  {
+    "product": "hoeden",
+    "afval": "textiel"
+  },
+  {
+    "product": "jack",
+    "afval": "textiel"
+  },
+  {
+    "product": "jas",
+    "afval": "textiel"
+  },
+  {
+    "product": "jurk",
+    "afval": "textiel"
+  },
+  {
+    "product": "jute",
+    "afval": "textiel"
+  },
+  {
+    "product": "kapotte kleding",
+    "afval": "textiel"
+  },
+  {
+    "product": "katoen",
+    "afval": "textiel"
+  },
+  {
+    "product": "klamboe",
+    "afval": "textiel"
+  },
+  {
+    "product": "kleding",
+    "afval": "textiel"
+  },
+  {
+    "product": "knuffels",
+    "afval": "textiel"
+  },
+  {
+    "product": "kousen",
+    "afval": "textiel"
+  },
+  {
+    "product": "kussensloop",
+    "afval": "textiel"
+  },
+  {
+    "product": "laken",
+    "afval": "textiel"
+  },
+  {
+    "product": "lakens",
+    "afval": "textiel"
+  },
+  {
+    "product": "leer",
+    "afval": "textiel"
+  },
+  {
+    "product": "lompen",
+    "afval": "textiel"
+  },
+  {
+    "product": "microvezel stofdoek",
+    "afval": "textiel"
+  },
+  {
+    "product": "microvezeldoek",
+    "afval": "textiel"
+  },
+  {
+    "product": "nylons",
+    "afval": "textiel"
+  },
+  {
+    "product": "onderbroek",
+    "afval": "textiel"
+  },
+  {
+    "product": "ondergoed",
+    "afval": "textiel"
+  },
+  {
+    "product": "onderkleding",
+    "afval": "textiel"
+  },
+  {
+    "product": "oude kleding",
+    "afval": "textiel"
+  },
+  {
+    "product": "pak",
+    "afval": "textiel"
+  },
+  {
+    "product": "panty",
+    "afval": "textiel"
+  },
+  {
+    "product": "petten",
+    "afval": "textiel"
+  },
+  {
+    "product": "poetsdoek",
+    "afval": "textiel"
+  },
+  {
+    "product": "pyjama",
+    "afval": "textiel"
+  },
+  {
+    "product": "regenjas",
+    "afval": "textiel"
+  },
+  {
+    "product": "riem",
+    "afval": "textiel"
+  },
+  {
+    "product": "rok",
+    "afval": "textiel"
+  },
+  {
+    "product": "rugzak",
+    "afval": "textiel"
+  },
+  {
+    "product": "servet",
+    "afval": "textiel"
+  },
+  {
+    "product": "sloffen",
+    "afval": "textiel"
+  },
+  {
+    "product": "sloop",
+    "afval": "textiel"
+  },
+  {
+    "product": "slopen",
+    "afval": "textiel"
+  },
+  {
+    "product": "sokken",
+    "afval": "textiel"
+  },
+  {
+    "product": "spijkerbroek",
+    "afval": "textiel"
+  },
+  {
+    "product": "strijkplank overtrek",
+    "afval": "textiel"
+  },
+  {
+    "product": "stropdassen",
+    "afval": "textiel"
+  },
+  {
+    "product": "tafellaken",
+    "afval": "textiel"
+  },
+  {
+    "product": "tas",
+    "afval": "textiel"
+  },
+  {
+    "product": "tassen",
+    "afval": "textiel"
+  },
+  {
+    "product": "tenthoes",
+    "afval": "textiel"
+  },
+  {
+    "product": "tentzak",
+    "afval": "textiel"
+  },
+  {
+    "product": "theedoek",
+    "afval": "textiel"
+  },
+  {
+    "product": "trui",
+    "afval": "textiel"
+  },
+  {
+    "product": "t-shirt",
+    "afval": "textiel"
+  },
+  {
+    "product": "vaatdoek",
+    "afval": "textiel"
+  },
+  {
+    "product": "vest",
+    "afval": "textiel"
+  },
+  {
+    "product": "vitrage",
+    "afval": "textiel"
+  },
+  {
+    "product": "vodden",
+    "afval": "textiel"
+  },
+  {
+    "product": "washandje",
+    "afval": "textiel"
+  },
+  {
+    "product": "woontextiel",
+    "afval": "textiel"
+  },
+  {
+    "product": "zwembroek",
+    "afval": "textiel"
+  },
+  {
+    "product": "zwemkleding",
+    "afval": "textiel"
+  },
+  {
+    "product": "kleine stukjes stof",
+    "afval": "textiel"
+  },
+  {
+    "product": "restanten stof",
+    "afval": "textiel"
+  },
+  {
+    "product": "textiel, nat of vuil",
+    "afval": "textiel, nat of vuil"
+  },
+  {
+    "product": "kleding (nat of vervuild)",
+    "afval": "textiel, nat of vuil"
+  },
+  {
+    "product": "vuile poetsdoek",
+    "afval": "textiel, nat of vuil"
+  },
+  {
+    "product": "vuile poetslap",
+    "afval": "textiel, nat of vuil"
+  },
+  {
+    "product": "theezakje en koffiepad",
+    "afval": "theezakje en koffiepad"
+  },
+  {
+    "product": "koffie pads",
+    "afval": "theezakje en koffiepad"
+  },
+  {
+    "product": "koffiepad",
+    "afval": "theezakje en koffiepad"
+  },
+  {
+    "product": "koffiepads",
+    "afval": "theezakje en koffiepad"
+  },
+  {
+    "product": "pads",
+    "afval": "theezakje en koffiepad"
+  },
+  {
+    "product": "senseo",
+    "afval": "theezakje en koffiepad"
+  },
+  {
+    "product": "senseo pads",
+    "afval": "theezakje en koffiepad"
+  },
+  {
+    "product": "senseopads",
+    "afval": "theezakje en koffiepad"
+  },
+  {
+    "product": "theezakje",
+    "afval": "theezakje en koffiepad"
+  },
+  {
+    "product": "thermisch papier",
+    "afval": "thermisch papier"
+  },
+  {
+    "product": "faxpapier",
+    "afval": "thermisch papier"
+  },
+  {
+    "product": "kassabon",
+    "afval": "thermisch papier"
+  },
+  {
+    "product": "kassabonnetjes",
+    "afval": "thermisch papier"
+  },
+  {
+    "product": "thuiszorgafval",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "bebloed verband",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "blaascatheter",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "catheter",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "catheterzak",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "dialysezak",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "drain",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "gaasje",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "glazen medicijnampullen",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "infuuszak",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "insulinepatronen",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "katheter",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "leukoplast",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "pleister",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "stomamateriaal",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "stomazak",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "urinecatheter",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "verband",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "verbandmiddelen",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "wondpleister",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "medisch afval",
+    "afval": "thuiszorgafval"
+  },
+  {
+    "product": "tl-, spaar- of ledlamp",
+    "afval": "TL-, spaar- of ledlamp"
+  },
+  {
+    "product": "led lamp",
+    "afval": "TL-, spaar- of ledlamp"
+  },
+  {
+    "product": "led lampen",
+    "afval": "TL-, spaar- of ledlamp"
+  },
+  {
+    "product": "led-lamp",
+    "afval": "TL-, spaar- of ledlamp"
+  },
+  {
+    "product": "neonlamp",
+    "afval": "TL-, spaar- of ledlamp"
+  },
+  {
+    "product": "spaarlampen",
+    "afval": "TL-, spaar- of ledlamp"
+  },
+  {
+    "product": "tl buis",
+    "afval": "TL-, spaar- of ledlamp"
+  },
+  {
+    "product": "tl-buis",
+    "afval": "TL-, spaar- of ledlamp"
+  },
+  {
+    "product": "tl-buizen",
+    "afval": "TL-, spaar- of ledlamp"
+  },
+  {
+    "product": "toiletpapier",
+    "afval": "toiletpapier"
+  },
+  {
+    "product": "gebruikt wc-papier",
+    "afval": "toiletpapier"
+  },
+  {
+    "product": "vochtig toiletpapier",
+    "afval": "toiletpapier"
+  },
+  {
+    "product": "wc papier",
+    "afval": "toiletpapier"
+  },
+  {
+    "product": "tuinafval en plantenresten",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "beukensnippers",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "bladeren",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "dennennaalden",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "gras",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "groenafval",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "houtsnippers",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "hulstblad",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "kamerplanten",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "onkruid",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "organisch materiaal",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "planten",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "plantenresten",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "tuinafval",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "tuinkersbodem",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "zaagsel",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "zonnebloem",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "kerstboom",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "snoeihout",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "takken",
+    "afval": "tuinafval en plantenresten"
+  },
+  {
+    "product": "tuingereedschap",
+    "afval": "tuingereedschap"
+  },
+  {
+    "product": "hark",
+    "afval": "tuingereedschap"
+  },
+  {
+    "product": "schep",
+    "afval": "tuingereedschap"
+  },
+  {
+    "product": "spade",
+    "afval": "tuingereedschap"
+  },
+  {
+    "product": "verf- en lijmverpakking",
+    "afval": "verf- en lijmverpakking"
+  },
+  {
+    "product": "bisonkit-verpakking aluminium",
+    "afval": "verf- en lijmverpakking"
+  },
+  {
+    "product": "bisonkit-verpakking plastic",
+    "afval": "verf- en lijmverpakking"
+  },
+  {
+    "product": "leeg verfblik",
+    "afval": "verf- en lijmverpakking"
+  },
+  {
+    "product": "lege verfblikken",
+    "afval": "verf- en lijmverpakking"
+  },
+  {
+    "product": "verfbak",
+    "afval": "verf- en lijmverpakking"
+  },
+  {
+    "product": "verfblik",
+    "afval": "verf- en lijmverpakking"
+  },
+  {
+    "product": "verfcontainer",
+    "afval": "verf- en lijmverpakking"
+  },
+  {
+    "product": "verfemmer",
+    "afval": "verf- en lijmverpakking"
+  },
+  {
+    "product": "verfpot",
+    "afval": "verf- en lijmverpakking"
+  },
+  {
+    "product": "verfspuitbus",
+    "afval": "verf- en lijmverpakking"
+  },
+  {
+    "product": "verftube",
+    "afval": "verf- en lijmverpakking"
+  },
+  {
+    "product": "verf en toebehoren",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "acrylverf",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "afbijtmiddel",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "beits",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "kwastontharder",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "kwastreiniger",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "lak",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "latex",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "latex verf",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "latexverf",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "muurverf",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "terpentine",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "textielverf",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "thinner",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "verf",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "verf op waterbasis",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "verfresten",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "verfverdunner",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "voorstrijkmiddel",
+    "afval": "verf en toebehoren"
+  },
+  {
+    "product": "verf, droog",
+    "afval": "verf, droog"
+  },
+  {
+    "product": "droge muurverf",
+    "afval": "verf, droog"
+  },
+  {
+    "product": "droge verf",
+    "afval": "verf, droog"
+  },
+  {
+    "product": "kwast met uitgeharde verf",
+    "afval": "verf, droog"
+  },
+  {
+    "product": "verfkwast met uitgeharde verf",
+    "afval": "verf, droog"
+  },
+  {
+    "product": "verfpalet",
+    "afval": "verf, droog"
+  },
+  {
+    "product": "verfschilfers",
+    "afval": "verf, droog"
+  },
+  {
+    "product": "verpakking melkpoeder",
+    "afval": "verpakking melkpoeder"
+  },
+  {
+    "product": "verpakking babyvoeding poeder",
+    "afval": "verpakking melkpoeder"
+  },
+  {
+    "product": "verpakking zuigelingenvoeding",
+    "afval": "verpakking melkpoeder"
+  },
+  {
+    "product": "verpakking van papier met plastic",
+    "afval": "verpakking van papier met plastic"
+  },
+  {
+    "product": "bubbeltjes envelop",
+    "afval": "verpakking van papier met plastic"
+  },
+  {
+    "product": "bubbeltjesevenlop",
+    "afval": "verpakking van papier met plastic"
+  },
+  {
+    "product": "envelop met noppenfolie",
+    "afval": "verpakking van papier met plastic"
+  },
+  {
+    "product": "verpakkingen van composteerbaar plastic",
+    "afval": "verpakkingen van composteerbaar plastic"
+  },
+  {
+    "product": "afbreekbaar plastic",
+    "afval": "verpakkingen van composteerbaar plastic"
+  },
+  {
+    "product": "biologisch plastic",
+    "afval": "verpakkingen van composteerbaar plastic"
+  },
+  {
+    "product": "bioplastic",
+    "afval": "verpakkingen van composteerbaar plastic"
+  },
+  {
+    "product": "composteerbaar plastic",
+    "afval": "verpakkingen van composteerbaar plastic"
+  },
+  {
+    "product": "verpakking met kiemplantlogo",
+    "afval": "verpakkingen van composteerbaar plastic"
+  },
+  {
+    "product": "verpakkingen van niet-composteerbaar plastic",
+    "afval": "verpakkingen van niet-composteerbaar plastic"
+  },
+  {
+    "product": "bio-plastic",
+    "afval": "verpakkingen van niet-composteerbaar plastic"
+  },
+  {
+    "product": "ecover",
+    "afval": "verpakkingen van niet-composteerbaar plastic"
+  },
+  {
+    "product": "plantastic verpakking",
+    "afval": "verpakkingen van niet-composteerbaar plastic"
+  },
+  {
+    "product": "plantbottle coca cola",
+    "afval": "verpakkingen van niet-composteerbaar plastic"
+  },
+  {
+    "product": "verzorgingsproduct",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "bodylotion",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "cosmetica",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "demak'up schijfjes",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "haarverf",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "hars",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "lenzenvloeistof",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "lippenstift",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "make-up",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "mascara",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "nagellak",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "nagellakremover",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "oog make-up verwijderaar",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "oogschaduw",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "shampoo",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "steradent",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "tandpasta",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "watten",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "wattenschijfjes",
+    "afval": "verzorgingsproduct"
+  },
+  {
+    "product": "verzorgingsproduct, vettig",
+    "afval": "verzorgingsproduct, vettig"
+  },
+  {
+    "product": "creme",
+    "afval": "verzorgingsproduct, vettig"
+  },
+  {
+    "product": "zonnebrandcreme",
+    "afval": "verzorgingsproduct, vettig"
+  },
+  {
+    "product": "zonnebrandolie",
+    "afval": "verzorgingsproduct, vettig"
+  },
+  {
+    "product": "vinylzeil",
+    "afval": "vinylzeil"
+  },
+  {
+    "product": "linoleum",
+    "afval": "vinylzeil"
+  },
+  {
+    "product": "pvc zeil",
+    "afval": "vinylzeil"
+  },
+  {
+    "product": "pvc-tegel",
+    "afval": "vinylzeil"
+  },
+  {
+    "product": "vinyl vloerbedekking",
+    "afval": "vinylzeil"
+  },
+  {
+    "product": "vinyl zeil",
+    "afval": "vinylzeil"
+  },
+  {
+    "product": "vinyltegel",
+    "afval": "vinylzeil"
+  },
+  {
+    "product": "zeil",
+    "afval": "vinylzeil"
+  },
+  {
+    "product": "vlakglas",
+    "afval": "vlakglas"
+  },
+  {
+    "product": "gelaagd glas",
+    "afval": "vlakglas"
+  },
+  {
+    "product": "glasplaat van fotolijst of schilderij",
+    "afval": "vlakglas"
+  },
+  {
+    "product": "raam",
+    "afval": "vlakglas"
+  },
+  {
+    "product": "ramen",
+    "afval": "vlakglas"
+  },
+  {
+    "product": "ruit",
+    "afval": "vlakglas"
+  },
+  {
+    "product": "spiegel",
+    "afval": "vlakglas"
+  },
+  {
+    "product": "vensterglas",
+    "afval": "vlakglas"
+  },
+  {
+    "product": "vloeibare voedingsmiddelen",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "alcohol",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "appelsap",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "azijn",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "babyvoeding melk",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "bier",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "chocolademelk",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "chocomelk",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "drank",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "jenever",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "ketchup",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "melk",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "milkshake",
+    "afval": "vloeibare voedingsmiddelen"
+  },
+  {
+    "product": "ranja",
+    "afval": "vloeibare voedingsmiddelen"
+  }
+]
