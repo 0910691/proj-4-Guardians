@@ -31,11 +31,10 @@ namespace Proj_4_Guardians
 
         // voor de db
         private DatabaseHelper m_databasehelper = new DatabaseHelper();
-
         public static List<categorie> m_categorien;
         public static List<locatie> m_locaties;
         public static List<afvalsoort> m_afvalsoort;
-        public static List<afvalproduct> m_afvalproduct;        // class niet goed?
+        public static List<afvalproduct> m_afvalproduct;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -48,9 +47,9 @@ namespace Proj_4_Guardians
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
             Search = FindViewById<Button>(Resource.Id.BtnZoekMain);
                         
-            mBtnRecycle.Click += Search_Click;
+            mBtnRecycle.Click += ButtonCLick<Zoeken>;
             BtnMenu.Click += BtnMenu_Click;
-            Search.Click += Search_Click;
+            Search.Click += ButtonCLick<Zoeken>;
         }               
 
         #region data laden uit json
@@ -157,9 +156,9 @@ namespace Proj_4_Guardians
         #endregion
 
         #region Knop functies
-        private void Search_Click(object sender, EventArgs e)
+        private void ButtonCLick<T>(object sender, EventArgs e)
         {
-            Intent intent = new Intent(this, typeof(Zoeken));
+            Intent intent = new Intent(this, typeof(T));
             StartActivity(intent);
         }
 
@@ -168,12 +167,6 @@ namespace Proj_4_Guardians
             FragmentTransaction transaction = FragmentManager.BeginTransaction();
             MenuOverlay Menu_overlay = new MenuOverlay();
             Menu_overlay.Show(transaction, "Menu");
-        }
-
-        private void MBtnRecycle_Click(object sender, EventArgs e)
-        {
-            Intent intent = new Intent(this, typeof(Category));
-            StartActivity(intent);
         }
         #endregion
     }

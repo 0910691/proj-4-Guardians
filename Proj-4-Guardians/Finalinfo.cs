@@ -50,9 +50,7 @@ namespace Proj_4_Guardians
             m_categorie = MainActivity.m_categorien;
             m_locatie = MainActivity.m_locaties;
             
-            #region data ophalen uit json en opslaan
-            // toelichting in extra scherm weergeven
-            
+            #region data ophalen uit json en opslaan           
             string SelectedProduct = Intent.GetStringExtra("Zoek").ToLower();
             GetProd(SelectedProduct);
             GetSoort(AfvalTitel);                  
@@ -138,6 +136,7 @@ namespace Proj_4_Guardians
             }
         }        
         #endregion
+
         #region Knoppen
         private void MBtnZoek_Click(object sender, EventArgs e)
         {
@@ -172,9 +171,7 @@ namespace Proj_4_Guardians
             {
                 Geo = $"geo:0,0?q=51.9244818,4.4694783?z=15(Rotterdam Centraal)";
             }
-            //var school = Android.Net.Uri.Parse("geo:0,0?q=51.901797,4.416193,z19(Locatie)");
             var geoUri = Android.Net.Uri.Parse(Geo);
-            //var geoUri = Android.Net.Uri.Parse("geo:51.55028,4.29025?z=19(Hogeschool Rotterdam)");
             var mapIntent = new Intent(Intent.ActionView, geoUri);
             StartActivity(mapIntent);
         }
