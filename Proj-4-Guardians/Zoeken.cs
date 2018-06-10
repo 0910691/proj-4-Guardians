@@ -19,6 +19,7 @@ namespace Proj_4_Guardians
         private SearchView _sv;
         private ListView _lv;
         private ArrayAdapter _adapter;
+        private ImageButton _Menu;
 
         public static List<afvalproduct> m_afvalproduct;
 
@@ -29,6 +30,7 @@ namespace Proj_4_Guardians
             ActionBar.Hide();
             m_afvalproduct = MainActivity.m_afvalproduct;
 
+            _Menu = FindViewById<ImageButton>(Resource.Id.Menu);
             _lv = FindViewById<ListView>(Resource.Id.lv);
             _sv = FindViewById<SearchView>(Resource.Id.sv);
             _sv.SetQueryHint("Glas, Plastic, Papier, Elektronica");
@@ -38,7 +40,7 @@ namespace Proj_4_Guardians
 
             _sv.QueryTextChange += _sv_QueryTextChange;
             _lv.ItemClick += _lv_ItemClick;
-
+            _Menu.Click += _Menu_Click;
         }
 
         public List<string> DataToList()
@@ -50,19 +52,26 @@ namespace Proj_4_Guardians
             }
             return newlist;
         }
-        
+
+        private void _Menu_Click(object sender, EventArgs e)
+        {
+            FragmentTransaction transaction = FragmentManager.BeginTransaction();
+            MenuOverlay Menu_overlay = new MenuOverlay();
+            Menu_overlay.Show(transaction, "Menu");
+        }
+
         void _lv_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
         {
-
-            Toast.MakeText(this, _adapter.GetItem(e.Position).ToString(), ToastLength.Short).Show();
+            //toast.MakeText(this, _adapter.GetItem(e.Position).ToString(), ToastLength.Short).Show();
+            Intent intent = new Intent(this, typeof(Finalinfo));
+            intent.PutExtra("Zoek", _adapter.GetItem(e.Position).ToString());
+            StartActivity(intent);
 
         }
 
         void _sv_QueryTextChange(object sender, SearchView.QueryTextChangeEventArgs e)
         {
             _adapter.Filter.InvokeFilter(e.NewText);
-
-
         }
     }
 }

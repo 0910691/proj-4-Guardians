@@ -16,9 +16,7 @@ using Newtonsoft.Json;
  * product.json afmaken met behulp van macro-keys
  * FinalInfo moet gegevens krijgen na het zoeken en vergelijken met de opgehaalde lijsten
  * zoekfunctie maken
- * Zoekbalken vervangen door een knop naar Zoeken.cs
- * in zoeken menu toevoegen
- * barcode verwijderen
+ * zoeken.cs moet nog de benodigde code krijgen voor het MenuOverlay
  * kleuren aanpassen
  * voorbeelden om te selecteren
 */
@@ -44,15 +42,7 @@ namespace Proj_4_Guardians
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Main);
             ActionBar.Hide();
-            //LoadCategorieData(Assets.Open("categorie.json"));
-            //m_categorien = m_databasehelper.Connection.Table<categorie>().ToList();
-            LoadLocatieData(Assets.Open("locaties.json"));
-            m_locaties = m_databasehelper.Connection.Table<locatie>().ToList();
-            //LoadAfvalsoortData(Assets.Open("soort.json"));
-            //m_afvalsoort = m_databasehelper.Connection.Table<afvalsoort>().ToList();
-            //LoadAfvalproductData(Assets.Open("prod.json"));
-            //m_afvalproduct = m_databasehelper.Connection.Table<afvalproduct>().ToList();
-            
+            GetData();
 
             mBtnRecycle = FindViewById<ImageButton>(Resource.Id.ImbRecycle);
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
@@ -61,15 +51,34 @@ namespace Proj_4_Guardians
             mBtnRecycle.Click += MBtnRecycle_Click;
             BtnMenu.Click += BtnMenu_Click;
             Search.Click += Search_Click;
-        }
-
-        private void Search_Click(object sender, EventArgs e)
-        {
-            Intent intent = new Intent(this, typeof(Zoeken));
-            StartActivity(intent);
-        }
+        }               
 
         #region data laden uit json
+        public void GetData()
+        {
+            // gedaan om te voorkomen dat elke keer dat het hoofdscherm geladen wordt de data opnieuw opgehaald wordt
+            if (m_categorien == null)
+            {
+                LoadCategorieData(Assets.Open("categorie.json"));
+                m_categorien = m_databasehelper.Connection.Table<categorie>().ToList();
+            }
+            if (m_locaties == null)
+            {
+                LoadLocatieData(Assets.Open("locaties.json"));
+                m_locaties = m_databasehelper.Connection.Table<locatie>().ToList();
+            }
+            if (m_afvalsoort == null)
+            {
+                LoadAfvalsoortData(Assets.Open("soort.json"));
+                m_afvalsoort = m_databasehelper.Connection.Table<afvalsoort>().ToList();
+            }
+            if (m_afvalproduct == null)
+            {
+                LoadAfvalproductData(Assets.Open("prod.json"));
+                m_afvalproduct = m_databasehelper.Connection.Table<afvalproduct>().ToList();
+            }
+        }
+
         public void LoadCategorieData(Stream db_path)
         {
             StreamReader reader = new StreamReader(db_path);
@@ -148,6 +157,12 @@ namespace Proj_4_Guardians
         #endregion
 
         #region Knop functies
+        private void Search_Click(object sender, EventArgs e)
+        {
+            Intent intent = new Intent(this, typeof(Zoeken));
+            StartActivity(intent);
+        }
+
         private void BtnMenu_Click(object sender, EventArgs e)
         {
             FragmentTransaction transaction = FragmentManager.BeginTransaction();
