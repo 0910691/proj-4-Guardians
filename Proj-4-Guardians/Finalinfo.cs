@@ -4,6 +4,7 @@ using Android.App;
 using Android.Content;
 using Android.OS;
 using Android.Widget;
+using System.Linq;
 
 namespace Proj_4_Guardians
 {
@@ -59,7 +60,8 @@ namespace Proj_4_Guardians
             #endregion
 
             TxtMainInfo = FindViewById<TextView>(Resource.Id.TxtBenaming);
-            TxtMainInfo.Text = cat;            
+            TxtMainInfo.Gravity = Android.Views.GravityFlags.CenterHorizontal;
+            TxtMainInfo.Text = $"Categorie: \r\n{cat}";            
 
             #region KlikFuncties
             mBtnZoek = FindViewById<Button>(Resource.Id.BtnZoekFin);
@@ -121,20 +123,29 @@ namespace Proj_4_Guardians
 
         public void GetLoc(string cat)
         {
+            // controleren wat de dichtstbijzijnde locatie is
+            double CurrentL = 51.917440;
+            double CurrentB = 4.484105;
+            List<locatie> temp = new List<locatie>();
             // ↓voor de locatie om in te leveren↓
             foreach (var loc in m_locatie)
             {
                 var value1 = loc.titel.ToLower();
                 if (value1.Contains(cat))
                 {
-                    titel = loc.titel;
-                    geoL = loc.lengte;
-                    geoB = loc.breedte;
-                    straat = loc.straat;
-                    break;
+                    temp.Add(loc);
                 }
             }
-        }        
+            if (temp.Count > 0)
+            {
+                var closest = temp.Aggregate((x, y) => Math.Abs(Convert.ToDouble(x.lengte) - CurrentL) < Math.Abs(Convert.ToDouble(y.breedte) - CurrentB) ? x : y);
+                titel = closest.titel;
+                geoL = closest.lengte;
+                geoB = closest.breedte;
+                straat = closest.straat;
+                return;
+            }
+        }
         #endregion
 
         #region Knoppen
@@ -164,7 +175,7 @@ namespace Proj_4_Guardians
             // controleren of alle gegevens aanwezig zijn
             if (geoL != null && geoB != null && titel != null)
             {
-            Geo = $"geo:0,0?q={geoL},{geoB}?z=19({titel})";
+            Geo = $"geo:0,0?q={geoL},{geoB}?z=18({titel})";
             }
             // zo niet dan wordt Rotterdam Centraal weergegeven
             else
