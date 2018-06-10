@@ -39,7 +39,7 @@ namespace Proj_4_Guardians
 
             if (Intent.Extras == null)
             {
-                Toast.MakeText(this, "Something went wrong, going back to the main-screen", ToastLength.Long).Show();
+                Toast.MakeText(this, "Er is iets fout gegaan, u wordt teruggebracht naar het hoofdscherm", ToastLength.Long).Show();
                 Intent intent = new Intent(this, typeof(MainActivity));
                 StartActivity(intent);
                 return;
@@ -49,20 +49,8 @@ namespace Proj_4_Guardians
             m_afvalsoort = MainActivity.m_afvalsoort;
             m_categorie = MainActivity.m_categorien;
             m_locatie = MainActivity.m_locaties;
-
-            #region later naar kijken
-            //string Cat2 = Intent.GetStringExtra("Category2");
-            //string Second = Intent.GetStringExtra("Search");
-            //if (Cat2 != null)
-            //{
-            //}
-            #endregion
-
+            
             #region data ophalen uit json en opslaan
-            // krijg een product mee DONE
-            // product vergelijken met het afval DONE
-            // moet gaan zoeken naar het soort  DONE
-            // daarvan categorie in header plaatsen DONE
             // toelichting in extra scherm weergeven
             
             string SelectedProduct = Intent.GetStringExtra("Zoek").ToLower();

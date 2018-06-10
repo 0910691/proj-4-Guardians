@@ -48,7 +48,7 @@ namespace Proj_4_Guardians
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
             Search = FindViewById<Button>(Resource.Id.BtnZoekMain);
                         
-            mBtnRecycle.Click += MBtnRecycle_Click;
+            mBtnRecycle.Click += Search_Click;
             BtnMenu.Click += BtnMenu_Click;
             Search.Click += Search_Click;
         }               
