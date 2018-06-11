@@ -13,15 +13,15 @@ namespace Proj_4_Guardians
     {
         private TextView TxtMainInfo;
         private Button BtnInfo;
-        private Button BtnMap;
+        private ImageButton BtnMap;
         private Button mBtnZoek;
         private ImageButton BtnMenu;
 
         public string AfvalTitel = null;
         public string LoosPunt = null;
         public string cat = null;
-        public string SoortToelichting = null;
-        public string desc = null;
+        public static string SoortToelichting = null;
+        public static string desc = null;
         private string titel = null;
         private string geoL = null;
         private string geoB = null;
@@ -67,7 +67,7 @@ namespace Proj_4_Guardians
             mBtnZoek = FindViewById<Button>(Resource.Id.BtnZoekFin);
             BtnInfo = FindViewById<Button>(Resource.Id.BtnInfo);
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
-            BtnMap = FindViewById<Button>(Resource.Id.BtnMap);
+            BtnMap = FindViewById<ImageButton>(Resource.Id.BtnMap);
 
             mBtnZoek.Click += MBtnZoek_Click;
             BtnInfo.Click += BtnInfo_Click;
@@ -173,7 +173,7 @@ namespace Proj_4_Guardians
         {
             string Geo = "";
             // controleren of alle gegevens aanwezig zijn
-            if (geoL != null && geoB != null && titel != null)
+            if (geoL != null || 0 && geoB != null || 0 && titel != null)
             {
             Geo = $"geo:0,0?q={geoL},{geoB}?z=18({titel})";
             }
