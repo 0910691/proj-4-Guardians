@@ -70,6 +70,7 @@
             android:contextClickable="true"
             android:layout_margin="3dp"
             android:scaleType="centerInside"
-            android:background="@drawable/AppBackground" />
+            android:background="@drawable/AppBackground"
+            android:visibility="invisible" />
     </TableLayout>
 </LinearLayout>

@@ -27,6 +27,8 @@ namespace Proj_4_Guardians
         private string geoB = null;
         private string straat = null;
 
+        private bool HasData = false;
+
         public List<afvalproduct> m_afvalproduct;
         public List<afvalsoort> m_afvalsoort;
         public List<categorie> m_categorie;
@@ -68,6 +70,7 @@ namespace Proj_4_Guardians
             BtnInfo = FindViewById<Button>(Resource.Id.BtnInfo);
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
             BtnMap = FindViewById<ImageButton>(Resource.Id.BtnMap);
+            if (HasData) BtnMap.Visibility = Android.Views.ViewStates.Visible;
 
             mBtnZoek.Click += MBtnZoek_Click;
             BtnInfo.Click += BtnInfo_Click;
@@ -138,6 +141,7 @@ namespace Proj_4_Guardians
             }
             if (temp.Count > 0)
             {
+                HasData = true;
                 var closest = temp.Aggregate((x, y) => Math.Abs(Convert.ToDouble(x.lengte) - CurrentL) < Math.Abs(Convert.ToDouble(y.breedte) - CurrentB) ? x : y);
                 titel = closest.titel;
                 geoL = closest.lengte;
@@ -173,7 +177,7 @@ namespace Proj_4_Guardians
         {
             string Geo = "";
             // controleren of alle gegevens aanwezig zijn
-            if (geoL != null || 0 && geoB != null || 0 && titel != null)
+            if ((geoL != null || geoL != "0") && (geoB != null || geoB != "0") && titel != null)
             {
             Geo = $"geo:0,0?q={geoL},{geoB}?z=18({titel})";
             }
