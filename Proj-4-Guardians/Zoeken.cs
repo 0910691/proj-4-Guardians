@@ -50,6 +50,7 @@ namespace Proj_4_Guardians
             {
                 newlist.Add(product.product.ToLower());
             }
+            newlist.Sort();
             return newlist;
         }
 
