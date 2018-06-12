@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Info is @ https://docs.microsoft.com/en-us/xamarin/android/user-interface/material-theme -->
+<resources>
+  <!-- Inherit from the light Material Theme -->
+  <style name="Main" parent="android:Theme.Material.Light">
+    <!-- Customizations go here -->
+  </style>
+</resources>
