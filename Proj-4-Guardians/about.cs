@@ -31,9 +31,7 @@ namespace Proj_4_Guardians
             BtnMenu.Click += BtnMenu_Click;
 
             mBtnZoek = FindViewById<Button>(Resource.Id.BtnZoekMain);
-            mBtnZoek.Click += mBtnZoek_Click;
-
-     
+            mBtnZoek.Click += mBtnZoek_Click;     
          }
 
         private void mBtnZoek_Click(object sender, EventArgs e)

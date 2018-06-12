@@ -1473,5 +1473,7 @@ D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Web.Services.pdb
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.Linq.pdb
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.pdb
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\linksrc\Proj-4-Guardians.dll.mdb
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\res\drawable\maps.png
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\res\layout\about.xml
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\linksrc\Proj-4-Guardians.dll.mdb

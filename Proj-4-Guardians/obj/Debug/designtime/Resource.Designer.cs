@@ -1807,7 +1807,13 @@ namespace Proj_4_Guardians
 			public static int Glas = 0;
 			
 			// aapt resource value: 0
+			public static int icons_kringloop = 0;
+			
+			// aapt resource value: 0
 			public static int ImageBackground = 0;
+			
+			// aapt resource value: 0
+			public static int maps = 0;
 			
 			// aapt resource value: 0
 			public static int Menu = 0;
@@ -2182,6 +2188,9 @@ namespace Proj_4_Guardians
 			// aapt resource value: 0
 			public static int Separator = 0;
 			
+			// aapt resource value: 0
+			public static int seperator1 = 0;
+			
 			// aapt resource value: 2131492938
 			public static int shortcut = 2131492938;
 			
@@ -2244,6 +2253,12 @@ namespace Proj_4_Guardians
 			
 			// aapt resource value: 2131492956
 			public static int topPanel = 2131492956;
+			
+			// aapt resource value: 0
+			public static int TV1 = 0;
+			
+			// aapt resource value: 0
+			public static int TV2 = 0;
 			
 			// aapt resource value: 0
 			public static int TxtBenaming = 0;
@@ -2402,6 +2417,9 @@ namespace Proj_4_Guardians
 			
 			// aapt resource value: 2131689498
 			public static int abc_select_dialog_material = 2131689498;
+			
+			// aapt resource value: 0
+			public static int About = 0;
 			
 			// aapt resource value: 0
 			public static int Achievement_Reward = 0;

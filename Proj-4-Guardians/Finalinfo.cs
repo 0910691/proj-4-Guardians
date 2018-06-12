@@ -146,6 +146,10 @@ namespace Proj_4_Guardians
                 // moet lengtegraad x met lengtegraad y vergelijken
                 // en moet breedtegraad x met breedtegraad y vergelijken
                 var closest = temp.Aggregate((x, y) => Math.Abs(Convert.ToDouble(x.lengte) - CurrentL) < Math.Abs(Convert.ToDouble(y.breedte) - CurrentB) ? x : y);
+
+                //var closestLen = temp.Aggregate((x, y) => Math.Abs(Convert.ToDouble(x.lengte) - CurrentL) < Math.Abs(Convert.ToDouble(y.lengte) - CurrentL) ? x : y);
+                //var closestBre = temp.Aggregate((x, y) => Math.Abs(Convert.ToDouble(x.breedte) - CurrentB) < Math.Abs(Convert.ToDouble(y.breedte) - CurrentB) ? x : y);
+
                 titel = closest.titel;
                 geoL = closest.lengte;
                 geoB = closest.breedte;

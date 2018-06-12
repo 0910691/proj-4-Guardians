@@ -1,63 +1,63 @@
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Proj-4-Guardians.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Java.Interop.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Mono.Android.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\mscorlib.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Newtonsoft.Json.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\SQLite-net.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\SQLitePCLRaw.batteries_green.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\SQLitePCLRaw.batteries_v2.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\SQLitePCLRaw.core.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Core.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Arch.Core.Common.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Annotations.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Compat.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Core.UI.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Core.Utils.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Fragment.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Media.Compat.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Threading.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Collections.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Collections.Concurrent.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Reflection.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Linq.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Extensions.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Reflection.Extensions.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Reflection.Primitives.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Net.Http.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Serialization.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\netstandard.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Data.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Numerics.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Transactions.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Mono.Data.Tds.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\Mono.Security.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Diagnostics.StackTrace.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Globalization.Extensions.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.IO.Compression.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.IO.Compression.FileSystem.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Serialization.Xml.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Security.Cryptography.Algorithms.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Security.SecureString.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Web.Services.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.Linq.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.XPath.XDocument.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Linq.Expressions.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Threading.Tasks.dll
-D:\menno\Documenten\School\GitHub\Repositories\Project4_V8\Proj-4-Guardians\obj\Debug\android\assets\System.Globalization.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Proj-4-Guardians.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Java.Interop.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Mono.Android.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\mscorlib.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Newtonsoft.Json.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\SQLite-net.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\SQLitePCLRaw.batteries_green.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\SQLitePCLRaw.batteries_v2.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\SQLitePCLRaw.core.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Core.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Arch.Core.Common.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Annotations.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Compat.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Core.UI.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Core.Utils.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Fragment.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Media.Compat.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Threading.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Collections.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Collections.Concurrent.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Reflection.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Linq.Expressions.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Reflection.Primitives.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Dynamic.Runtime.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.ObjectModel.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Linq.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Extensions.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Reflection.Extensions.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Net.Http.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Serialization.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\netstandard.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Data.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Numerics.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Transactions.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Diagnostics.StackTrace.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Globalization.Extensions.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.IO.Compression.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.IO.Compression.FileSystem.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Serialization.Xml.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Security.Cryptography.Algorithms.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Security.SecureString.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Web.Services.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.Linq.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.XPath.XDocument.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Threading.Tasks.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\System.Globalization.dll
+A:\Red Darkness\Documents\Documenten\Github\Repositories\Project4_V6\Proj-4-Guardians\obj\Debug\android\assets\Mono.Security.dll
