@@ -17,6 +17,7 @@ namespace Proj_4_Guardians
     {
         private Button mBtnMenu;
         private Button mBtnZoek;
+        private Button mBtnAbout;
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
             base.OnCreateView(inflater, container, savedInstanceState);
@@ -28,7 +29,13 @@ namespace Proj_4_Guardians
             mBtnZoek = view.FindViewById<Button>(Resource.Id.button2);
             mBtnZoek.Text = "Zoeken";
             mBtnZoek.Click += mBtnZoek_Click;
+
+            mBtnAbout = view.FindViewById<Button>(Resource.Id.button3);
+            mBtnAbout.Text = "About";
+            mBtnAbout.Click += mBtnAbout_Click;
             return view;
+
+           
         }
 
         private void mBtnZoek_Click(object sender, EventArgs e)
@@ -40,6 +47,12 @@ namespace Proj_4_Guardians
         private void MBtnMenu_Click(object sender, EventArgs e)
         {
             Intent intent = new Intent(this.Activity, typeof(MainActivity));
+            StartActivity(intent);
+        }
+
+        private void mBtnAbout_Click(object sender, EventArgs e)
+        {
+            Intent intent = new Intent(this.Activity, typeof(about));
             StartActivity(intent);
         }
 
