@@ -13,19 +13,21 @@ namespace Proj_4_Guardians
     {
         private TextView TxtMainInfo;
         private Button BtnInfo;
-        private Button BtnMap;
+        private ImageButton BtnMap;
         private Button mBtnZoek;
         private ImageButton BtnMenu;
 
         public string AfvalTitel = null;
         public string LoosPunt = null;
         public string cat = null;
-        public string SoortToelichting = null;
-        public string desc = null;
+        public static string SoortToelichting = null;
+        public static string desc = null;
         private string titel = null;
         private string geoL = null;
         private string geoB = null;
         private string straat = null;
+
+        private bool HasData = false;
 
         public List<afvalproduct> m_afvalproduct;
         public List<afvalsoort> m_afvalsoort;
@@ -67,7 +69,8 @@ namespace Proj_4_Guardians
             mBtnZoek = FindViewById<Button>(Resource.Id.BtnZoekFin);
             BtnInfo = FindViewById<Button>(Resource.Id.BtnInfo);
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
-            BtnMap = FindViewById<Button>(Resource.Id.BtnMap);
+            BtnMap = FindViewById<ImageButton>(Resource.Id.BtnMap);
+            if (HasData) BtnMap.Visibility = Android.Views.ViewStates.Visible;
 
             mBtnZoek.Click += MBtnZoek_Click;
             BtnInfo.Click += BtnInfo_Click;
@@ -138,6 +141,10 @@ namespace Proj_4_Guardians
             }
             if (temp.Count > 0)
             {
+                HasData = true;
+                // vergelijkt nu lengtegraad x met breedtegraad y
+                // moet lengtegraad x met lengtegraad y vergelijken
+                // en moet breedtegraad x met breedtegraad y vergelijken
                 var closest = temp.Aggregate((x, y) => Math.Abs(Convert.ToDouble(x.lengte) - CurrentL) < Math.Abs(Convert.ToDouble(y.breedte) - CurrentB) ? x : y);
                 titel = closest.titel;
                 geoL = closest.lengte;
@@ -173,7 +180,7 @@ namespace Proj_4_Guardians
         {
             string Geo = "";
             // controleren of alle gegevens aanwezig zijn
-            if (geoL != null && geoB != null && titel != null)
+            if ((geoL != null || geoL != "0") && (geoB != null || geoB != "0") && titel != null)
             {
             Geo = $"geo:0,0?q={geoL},{geoB}?z=18({titel})";
             }

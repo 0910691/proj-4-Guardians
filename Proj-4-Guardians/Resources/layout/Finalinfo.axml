@@ -61,10 +61,16 @@
             android:layout_width="fill_parent"
             android:layout_height="2dp"
             android:background="@drawable/appbackground" />
-        <Button
-            android:text="Klik hier om naar de map te gaan"
+        <ImageButton
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/BtnMap" />
+            android:layout_weight="0.4"
+            android:id="@+id/BtnMap"
+            android:src="@drawable/maps"
+            android:contextClickable="true"
+            android:layout_margin="3dp"
+            android:scaleType="centerInside"
+            android:background="@drawable/AppBackground"
+            android:visibility="invisible" />
     </TableLayout>
 </LinearLayout>

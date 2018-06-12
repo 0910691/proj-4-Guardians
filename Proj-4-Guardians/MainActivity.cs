@@ -12,13 +12,12 @@ using Newtonsoft.Json;
 #endregion
 
 /* TODO
- * **************afvalsoort klopt niet helemaal, kloppend maken*******************
- * product.json afmaken met behulp van macro-keys
- * FinalInfo moet gegevens krijgen na het zoeken en vergelijken met de opgehaalde lijsten
- * zoekfunctie maken
- * zoeken.cs moet nog de benodigde code krijgen voor het MenuOverlay
  * kleuren aanpassen
- * voorbeelden om te selecteren
+ * 
+ * knop naar map standaard onzichtbaar
+ * knop desc moet dan uitleg geven
+ * 
+ * data waar een locatie van is wel de mapKnop weergeven
 */
 namespace Proj_4_Guardians
 {
