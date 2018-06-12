@@ -50,6 +50,7 @@ namespace Proj_4_Guardians
             {
                 newlist.Add(product.product.ToLower());
             }
+            newlist.Sort();
             return newlist;
         }
 
@@ -66,7 +67,6 @@ namespace Proj_4_Guardians
             Intent intent = new Intent(this, typeof(Finalinfo));
             intent.PutExtra("Zoek", _adapter.GetItem(e.Position).ToString());
             StartActivity(intent);
-
         }
 
         void _sv_QueryTextChange(object sender, SearchView.QueryTextChangeEventArgs e)

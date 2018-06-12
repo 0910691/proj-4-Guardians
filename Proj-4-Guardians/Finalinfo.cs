@@ -142,6 +142,9 @@ namespace Proj_4_Guardians
             if (temp.Count > 0)
             {
                 HasData = true;
+                // vergelijkt nu lengtegraad x met breedtegraad y
+                // moet lengtegraad x met lengtegraad y vergelijken
+                // en moet breedtegraad x met breedtegraad y vergelijken
                 var closest = temp.Aggregate((x, y) => Math.Abs(Convert.ToDouble(x.lengte) - CurrentL) < Math.Abs(Convert.ToDouble(y.breedte) - CurrentB) ? x : y);
                 titel = closest.titel;
                 geoL = closest.lengte;
