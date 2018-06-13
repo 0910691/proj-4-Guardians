@@ -18,7 +18,6 @@ namespace Proj_4_Guardians
 
         private ImageButton BtnMenu;
         private Button mBtnZoek;
-        private TextView _TV1;
         
         protected override void OnCreate(Bundle savedInstanceState)
         {

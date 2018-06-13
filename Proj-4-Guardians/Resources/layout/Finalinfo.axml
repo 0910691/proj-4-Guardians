@@ -51,11 +51,21 @@
             android:id="@+id/TxtBenaming"
             android:textAlignment="center"
             android:textColor="#000" />
-        <Button
-            android:text="Klik hier voor extra info"
+      <View
+            android:id="@+id/Separator"
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="@drawable/appbackground" />
+      <ImageButton
+            android:id="@+id/ImbInfo"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/BtnInfo" />
+            android:layout_height="50px"
+            android:layout_weight="0.3"
+            android:layout_margin="3dp"
+            android:src="@drawable/infobutton"
+            android:contextClickable="true"
+            android:scaleType="centerInside" 
+            android:background="@drawable/roundimagebutton"/>
         <View
             android:id="@+id/Separator"
             android:layout_width="fill_parent"

@@ -33,7 +33,9 @@ namespace Proj_4_Guardians
             _Menu = FindViewById<ImageButton>(Resource.Id.Menu);
             _lv = FindViewById<ListView>(Resource.Id.lv);
             _sv = FindViewById<SearchView>(Resource.Id.sv);
-            _sv.SetQueryHint("Glas, Plastic, Papier, Elektronica");
+            _sv.SetIconifiedByDefault(false);
+            _sv.ClearFocus();
+            _sv.SetQueryHint("Glas, Plastic, Papier, Afval");
 
             _adapter = new ArrayAdapter(this, Android.Resource.Layout.SimpleListItem1, DataToList());
             _lv.Adapter = _adapter;
