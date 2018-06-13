@@ -22,7 +22,6 @@ namespace Proj_4_Guardians
             base.OnCreateView(inflater, container, savedInstanceState);
             var view = inflater.Inflate(Resource.Layout.ExtraInfo, container, false);
             TxtFinalinfo = view.FindViewById<TextView>(Resource.Id.TxtInfo);
-            TxtFinalinfo.Gravity = Android.Views.GravityFlags.CenterHorizontal;
             TxtFinalinfo.Text = $"Product beschrijving:  {Finalinfo.desc}\r\n \r\n Afval toelichting:  {Finalinfo.SoortToelichting}";
             return view;
         }

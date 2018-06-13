@@ -12,10 +12,10 @@ namespace Proj_4_Guardians
     public class Finalinfo : Activity
     {
         private TextView TxtMainInfo;
-        private Button BtnInfo;
         private ImageButton BtnMap;
         private Button mBtnZoek;
         private ImageButton BtnMenu;
+        private ImageButton ImbInfo;
 
         public string AfvalTitel = null;
         public string LoosPunt = null;
@@ -63,17 +63,17 @@ namespace Proj_4_Guardians
 
             TxtMainInfo = FindViewById<TextView>(Resource.Id.TxtBenaming);
             TxtMainInfo.Gravity = Android.Views.GravityFlags.CenterHorizontal;
-            TxtMainInfo.Text = $"Categorie: \r\n{cat}";            
+            TxtMainInfo.Text = $"Categorie: \r\n{cat}";
 
             #region KlikFuncties
+            ImbInfo = FindViewById<ImageButton>(Resource.Id.ImbInfo);
             mBtnZoek = FindViewById<Button>(Resource.Id.BtnZoekFin);
-            BtnInfo = FindViewById<Button>(Resource.Id.BtnInfo);
             BtnMenu = FindViewById<ImageButton>(Resource.Id.Menu);
             BtnMap = FindViewById<ImageButton>(Resource.Id.BtnMap);
             if (HasData) BtnMap.Visibility = Android.Views.ViewStates.Visible;
 
+            ImbInfo.Click += BtnInfo_Click;
             mBtnZoek.Click += MBtnZoek_Click;
-            BtnInfo.Click += BtnInfo_Click;
             BtnMenu.Click += BtnMenu_Click;
             BtnMap.Click += BtnMap_Click;
             #endregion

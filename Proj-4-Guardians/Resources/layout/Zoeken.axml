@@ -41,17 +41,17 @@
             android:layout_height="1dp"
             android:layout_weight="0.01"
             android:background="#000" />
-        <SearchView
-            android:minWidth="25px"
-            android:minHeight="25px"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/sv" />
-        <ListView
-            android:minWidth="25px"
-            android:minHeight="25px"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:id="@+id/lv" />
+      <SearchView
+          android:minWidth="25px"
+          android:minHeight="25px"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:id="@+id/sv" />
+      <ListView
+          android:minWidth="25px"
+          android:minHeight="25px"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:id="@+id/lv" />
     </TableLayout>
 </LinearLayout>
