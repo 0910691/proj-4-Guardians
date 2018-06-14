@@ -248,6 +248,7 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\infobutton.png" />
+    <AndroidResource Include="Resources\drawable\ImgBack.xml" />
     <Content Include="Resources\drawable\Question.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

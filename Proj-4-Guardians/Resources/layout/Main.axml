@@ -55,6 +55,6 @@
             android:layout_marginRight="20dp"
             android:layout_marginBottom="10dp"
             android:layout_marginTop="10dp"
-            android:background="@drawable/ImageBackground" />
+            android:background="@drawable/ImgBack" />
     </TableLayout>
 </LinearLayout>

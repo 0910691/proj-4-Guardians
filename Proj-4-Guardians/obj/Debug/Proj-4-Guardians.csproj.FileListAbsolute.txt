@@ -1594,5 +1594,6 @@ D:\menno\Documenten\School\GitHub\Repositories\Project4_V10\Proj-4-Guardians\obj
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V10\Proj-4-Guardians\obj\Debug\android\assets\System.Xml.pdb
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V10\Proj-4-Guardians\obj\Debug\res\drawable\infobutton.png
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V10\Proj-4-Guardians\obj\Debug\Proj-4-Guardians.csprojResolveAssemblyReference.cache
+D:\menno\Documenten\School\GitHub\Repositories\Project4_V10\Proj-4-Guardians\obj\Debug\res\drawable\imgback.xml
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V10\Proj-4-Guardians\bin\Debug\Proj-4-Guardians.dll
 D:\menno\Documenten\School\GitHub\Repositories\Project4_V10\Proj-4-Guardians\obj\Debug\linksrc\Proj-4-Guardians.dll.mdb
