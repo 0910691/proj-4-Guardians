@@ -51,21 +51,21 @@
             android:id="@+id/TxtBenaming"
             android:textAlignment="center"
             android:textColor="#000" />
-      <View
+        <View
             android:id="@+id/Separator"
             android:layout_width="fill_parent"
             android:layout_height="2dp"
             android:background="@drawable/appbackground" />
-      <ImageButton
+        <ImageButton
             android:id="@+id/ImbInfo"
             android:layout_width="match_parent"
             android:layout_height="50px"
-            android:layout_weight="0.3"
+            android:layout_weight="0.15"
             android:layout_margin="3dp"
             android:src="@drawable/infobutton"
             android:contextClickable="true"
-            android:scaleType="centerInside" 
-            android:background="@drawable/roundimagebutton"/>
+            android:scaleType="centerInside"
+            android:background="@drawable/roundimagebutton" />
         <View
             android:id="@+id/Separator"
             android:layout_width="fill_parent"
@@ -73,14 +73,24 @@
             android:background="@drawable/appbackground" />
         <ImageButton
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="0.4"
+            android:layout_height="100px"
+            android:layout_weight="0.3"
             android:id="@+id/BtnMap"
             android:src="@drawable/maps"
             android:contextClickable="true"
             android:layout_margin="3dp"
             android:scaleType="centerInside"
-            android:background="@drawable/AppBackground"
+            android:background="@drawable/MapsBg"
             android:visibility="invisible" />
+        <TextView
+            android:text="Open in maps"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:id="@+id/TxtMap"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"
+            android:textColor="#000"
+            android:visibility="invisible"  />
     </TableLayout>
 </LinearLayout>
